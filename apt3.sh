@@ -13,7 +13,8 @@
 # curl , rpm , lynx , awk
 
 
-# This script can download packages from repository 
+# This script is created for search file from PCLinuxOs repository
+# --update option is recommended before --search file
 # script tested on english language.
 #
 
