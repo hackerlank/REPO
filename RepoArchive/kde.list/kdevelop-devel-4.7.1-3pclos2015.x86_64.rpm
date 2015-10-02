@@ -1,0 +1,4 @@
+/usr/include/kdevelop
+/usr/include/kdevelop/make
+/usr/include/kdevelop/make/imakebuilder.h
+/usr/share/apps/cmake/modules/FindKDevelop.cmake

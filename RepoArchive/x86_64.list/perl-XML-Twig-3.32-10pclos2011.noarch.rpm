@@ -1,0 +1,9 @@
+/usr/bin/xml_merge
+/usr/bin/xml_spellcheck
+/usr/lib/perl5/vendor_perl/5.12.3/XML
+/usr/lib/perl5/vendor_perl/5.12.3/XML/Twig
+/usr/lib/perl5/vendor_perl/5.12.3/XML/Twig.pm
+/usr/lib/perl5/vendor_perl/5.12.3/XML/Twig/XPath.pm
+/usr/share/man/man1/xml_merge.1.bz2
+/usr/share/man/man1/xml_spellcheck.1.bz2
+/usr/share/man/man3/XML::Twig.3pm.bz2

@@ -1,0 +1,6 @@
+/etc/logrotate.d/clamd
+/etc/rc.d/init.d/clamd
+/etc/sysconfig/clamd
+/usr/sbin/clamd
+/usr/share/man/man8/clamd.8.bz2
+/var/log/clamav/clamd.log

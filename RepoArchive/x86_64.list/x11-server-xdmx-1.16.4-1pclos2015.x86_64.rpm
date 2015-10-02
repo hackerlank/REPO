@@ -1,0 +1,14 @@
+/usr/bin/Xdmx
+/usr/bin/dmxaddinput
+/usr/bin/dmxaddscreen
+/usr/bin/dmxinfo
+/usr/bin/dmxreconfig
+/usr/bin/dmxresize
+/usr/bin/dmxrminput
+/usr/bin/dmxrmscreen
+/usr/bin/dmxtodmx
+/usr/bin/dmxwininfo
+/usr/bin/xdmxconfig
+/usr/share/man/man1/Xdmx.1.bz2
+/usr/share/man/man1/dmxtodmx.1.bz2
+/usr/share/man/man1/xdmxconfig.1.bz2

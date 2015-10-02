@@ -1,0 +1,4 @@
+/etc/php.d/A33_translit.ini
+/usr/lib64/php/extensions/translit.so
+/usr/share/doc/php-translit
+/usr/share/doc/php-translit/package.xml

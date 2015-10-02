@@ -1,0 +1,15 @@
+/usr/lib64/xfce4/panel/plugins/libpulseaudio-plugin.la
+/usr/lib64/xfce4/panel/plugins/libpulseaudio-plugin.so
+/usr/share/doc/xfce4-pulseaudio-plugin
+/usr/share/doc/xfce4-pulseaudio-plugin/AUTHORS
+/usr/share/doc/xfce4-pulseaudio-plugin/COPYING
+/usr/share/doc/xfce4-pulseaudio-plugin/ChangeLog
+/usr/share/doc/xfce4-pulseaudio-plugin/NEWS
+/usr/share/doc/xfce4-pulseaudio-plugin/README
+/usr/share/icons/hicolor/48x48/apps/xfce4-pulseaudio-plugin.png
+/usr/share/icons/hicolor/scalable/apps/xfce4-pulseaudio-plugin.svg
+/usr/share/icons/hicolor/scalable/status/audio-volume-high-symbolic.svg
+/usr/share/icons/hicolor/scalable/status/audio-volume-low-symbolic.svg
+/usr/share/icons/hicolor/scalable/status/audio-volume-medium-symbolic.svg
+/usr/share/icons/hicolor/scalable/status/audio-volume-muted-symbolic.svg
+/usr/share/xfce4/panel/plugins/pulseaudio.desktop

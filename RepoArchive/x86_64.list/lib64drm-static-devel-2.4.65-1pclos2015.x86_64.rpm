@@ -1,0 +1,6 @@
+/usr/lib64/libdrm.a
+/usr/lib64/libdrm_amdgpu.a
+/usr/lib64/libdrm_intel.a
+/usr/lib64/libdrm_nouveau.a
+/usr/lib64/libdrm_radeon.a
+/usr/lib64/libkms.a

@@ -1,0 +1,7 @@
+/etc/modprobe.preload.d/mylivecd
+/etc/udev/rules.d/10-mylivecd.rules
+/usr/sbin/mylivecd
+/usr/share/mylivecd/gfxboot.cfg
+/usr/share/mylivecd/halt.local
+/usr/share/mylivecd/linuxrc
+/usr/share/mylivecd/rc.sysinit

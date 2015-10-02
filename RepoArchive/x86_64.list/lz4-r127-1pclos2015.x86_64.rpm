@@ -1,0 +1,13 @@
+/usr/bin/lz4
+/usr/bin/lz4c
+/usr/bin/lz4cat
+/usr/lib64/liblz4.so.1
+/usr/lib64/liblz4.so.1.5.0
+/usr/share/doc/lz4
+/usr/share/doc/lz4/COPYING
+/usr/share/doc/lz4/LICENSE
+/usr/share/doc/lz4/NEWS
+/usr/share/doc/lz4/README.md
+/usr/share/man/man1/lz4.1.bz2
+/usr/share/man/man1/lz4c.1.bz2
+/usr/share/man/man1/lz4cat.1.bz2

@@ -1,0 +1,5 @@
+/usr/lib64/xorg/modules/drivers/rendition_drv.la
+/usr/lib64/xorg/modules/drivers/rendition_drv.so
+/usr/lib64/xorg/modules/v10002d.uc
+/usr/lib64/xorg/modules/v20002d.uc
+/usr/share/man/man4/rendition.4.bz2

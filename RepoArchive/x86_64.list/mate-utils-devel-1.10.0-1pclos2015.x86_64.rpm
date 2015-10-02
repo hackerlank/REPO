@@ -1,0 +1,17 @@
+/usr/include/mate-dict
+/usr/include/mate-dict/gdict
+/usr/include/mate-dict/gdict/gdict-client-context.h
+/usr/include/mate-dict/gdict/gdict-context.h
+/usr/include/mate-dict/gdict/gdict-database-chooser.h
+/usr/include/mate-dict/gdict/gdict-defbox.h
+/usr/include/mate-dict/gdict/gdict-enum-types.h
+/usr/include/mate-dict/gdict/gdict-source-chooser.h
+/usr/include/mate-dict/gdict/gdict-source-loader.h
+/usr/include/mate-dict/gdict/gdict-source.h
+/usr/include/mate-dict/gdict/gdict-speller.h
+/usr/include/mate-dict/gdict/gdict-strategy-chooser.h
+/usr/include/mate-dict/gdict/gdict-utils.h
+/usr/include/mate-dict/gdict/gdict-version.h
+/usr/include/mate-dict/gdict/gdict.h
+/usr/lib64/libmatedict.so
+/usr/lib64/pkgconfig/mate-dict.pc

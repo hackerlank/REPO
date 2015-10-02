@@ -1,0 +1,14 @@
+/etc/drakxtools_http
+/etc/drakxtools_http/authorised_progs
+/etc/drakxtools_http/conf
+/etc/init.d/drakxtools_http
+/etc/logrotate.d/drakxtools-http
+/etc/pam.d/miniserv
+/usr/lib/libDrakX/interactive/http.pm
+/usr/share/libDrakX/drakxtools_http
+/usr/share/libDrakX/drakxtools_http/miniserv.pem
+/usr/share/libDrakX/drakxtools_http/miniserv.pl
+/usr/share/libDrakX/drakxtools_http/miniserv.users
+/usr/share/libDrakX/drakxtools_http/www
+/usr/share/libDrakX/drakxtools_http/www/index.html
+/usr/share/libDrakX/drakxtools_http/www/interactive_http.cgi

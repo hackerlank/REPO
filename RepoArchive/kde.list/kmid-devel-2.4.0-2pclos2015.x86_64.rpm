@@ -1,0 +1,10 @@
+/usr/include
+/usr/include/kmid
+/usr/include/kmid/backend.h
+/usr/include/kmid/backendloader.h
+/usr/include/kmid/kmidmacros.h
+/usr/include/kmid/midimapper.h
+/usr/include/kmid/midiobject.h
+/usr/include/kmid/midioutput.h
+/usr/include/kmid/settings.h
+/usr/lib64/libkmidbackend.so

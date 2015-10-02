@@ -1,0 +1,6 @@
+/bin/lsb_release
+/etc/lsb-release
+/etc/lsb-release.d
+/usr/share/doc/lsb-release
+/usr/share/doc/lsb-release/README
+/usr/share/man/man1/lsb_release.1.bz2

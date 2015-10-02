@@ -1,0 +1,9 @@
+/usr/bin/avcenc
+/usr/bin/h264encode
+/usr/bin/jpegenc
+/usr/bin/loadjpeg
+/usr/bin/mpeg2vaenc
+/usr/bin/mpeg2vldemo
+/usr/bin/putsurface
+/usr/bin/putsurface_wayland
+/usr/bin/vainfo

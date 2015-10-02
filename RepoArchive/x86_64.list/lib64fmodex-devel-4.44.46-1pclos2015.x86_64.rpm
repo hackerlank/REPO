@@ -1,0 +1,10 @@
+/usr/include/fmodex
+/usr/include/fmodex/fmod.h
+/usr/include/fmodex/fmod_codec.h
+/usr/include/fmodex/fmod_dsp.h
+/usr/include/fmodex/fmod_errors.h
+/usr/include/fmodex/fmod_memoryinfo.h
+/usr/include/fmodex/fmod_output.h
+/usr/include/fmodex/fmodlinux.h
+/usr/lib64/libfmodex.so
+/usr/lib64/libfmodexl.so

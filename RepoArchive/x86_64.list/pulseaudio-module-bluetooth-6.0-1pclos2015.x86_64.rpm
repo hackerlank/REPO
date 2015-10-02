@@ -1,0 +1,8 @@
+/usr/lib64/pulse-6.0/modules/libbluez4-util.so
+/usr/lib64/pulse-6.0/modules/libbluez5-util.so
+/usr/lib64/pulse-6.0/modules/module-bluetooth-discover.so
+/usr/lib64/pulse-6.0/modules/module-bluetooth-policy.so
+/usr/lib64/pulse-6.0/modules/module-bluez4-device.so
+/usr/lib64/pulse-6.0/modules/module-bluez4-discover.so
+/usr/lib64/pulse-6.0/modules/module-bluez5-device.so
+/usr/lib64/pulse-6.0/modules/module-bluez5-discover.so

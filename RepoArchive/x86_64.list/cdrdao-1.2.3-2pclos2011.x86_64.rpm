@@ -1,0 +1,14 @@
+/usr/bin/cdrdao
+/usr/bin/cue2toc
+/usr/bin/toc2cddb
+/usr/bin/toc2cue
+/usr/share/cdrdao
+/usr/share/cdrdao/drivers
+/usr/share/doc/cdrdao
+/usr/share/doc/cdrdao/README
+/usr/share/doc/cdrdao/README.PlexDAE
+/usr/share/man/man1/cdrdao.1.bz2
+/usr/share/man/man1/cue2toc.1.bz2
+/usr/share/man/man1/gcdmaster.1.bz2
+/usr/share/man/man1/toc2cddb.1.bz2
+/usr/share/man/man1/toc2cue.1.bz2

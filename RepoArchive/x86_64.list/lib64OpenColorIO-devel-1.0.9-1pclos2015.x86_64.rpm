@@ -1,0 +1,7 @@
+/usr/include/OpenColorIO
+/usr/include/OpenColorIO/OpenColorABI.h
+/usr/include/OpenColorIO/OpenColorIO.h
+/usr/include/OpenColorIO/OpenColorTransforms.h
+/usr/include/OpenColorIO/OpenColorTypes.h
+/usr/lib64/libOpenColorIO.so
+/usr/lib64/pkgconfig/OpenColorIO.pc

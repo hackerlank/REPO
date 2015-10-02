@@ -1,0 +1,14 @@
+/etc/cron.daily/logrotate
+/etc/logrotate.conf
+/etc/logrotate.d
+/usr/sbin/logrotate
+/usr/share/doc/logrotate
+/usr/share/doc/logrotate/CHANGES
+/usr/share/doc/logrotate/COPYING
+/usr/share/doc/logrotate/README.HPUX
+/usr/share/doc/logrotate/README.Solaris
+/usr/share/doc/logrotate/examples
+/usr/share/doc/logrotate/examples/logrotate-default
+/usr/share/doc/logrotate/examples/logrotate.cron
+/usr/share/man/man5/logrotate.conf.5.bz2
+/usr/share/man/man8/logrotate.8.bz2

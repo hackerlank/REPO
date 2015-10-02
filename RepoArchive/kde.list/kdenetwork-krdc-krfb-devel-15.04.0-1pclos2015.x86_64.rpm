@@ -1,0 +1,5 @@
+/usr/include/krdc
+/usr/include/krdc/hostpreferences.h
+/usr/include/krdc/remoteview.h
+/usr/include/krdc/remoteviewfactory.h
+/usr/lib64/libkrdccore.so

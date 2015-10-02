@@ -1,0 +1,14 @@
+/usr/include/webrtc_audio_processing
+/usr/include/webrtc_audio_processing/audio_processing.h
+/usr/include/webrtc_audio_processing/common_types.h
+/usr/include/webrtc_audio_processing/module.h
+/usr/include/webrtc_audio_processing/module_common_types.h
+/usr/include/webrtc_audio_processing/typedefs.h
+/usr/lib64/libwebrtc_audio_processing.so
+/usr/lib64/pkgconfig/webrtc-audio-processing.pc
+/usr/share/doc/lib64webrtc-devel
+/usr/share/doc/lib64webrtc-devel/AUTHORS
+/usr/share/doc/lib64webrtc-devel/COPYING
+/usr/share/doc/lib64webrtc-devel/NEWS
+/usr/share/doc/lib64webrtc-devel/PATENTS
+/usr/share/doc/lib64webrtc-devel/README

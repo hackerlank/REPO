@@ -1,0 +1,12 @@
+/usr/bin/ksba-config
+/usr/bin/multiarch-x86_64-linux/ksba-config
+/usr/include/ksba.h
+/usr/lib64/libksba.so
+/usr/share/aclocal/ksba.m4
+/usr/share/doc/lib64ksba-devel
+/usr/share/doc/lib64ksba-devel/AUTHORS
+/usr/share/doc/lib64ksba-devel/ChangeLog
+/usr/share/doc/lib64ksba-devel/README
+/usr/share/doc/lib64ksba-devel/THANKS
+/usr/share/doc/lib64ksba-devel/TODO
+/usr/share/info/ksba.info.bz2

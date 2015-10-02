@@ -1,0 +1,5 @@
+/etc/ifw
+/etc/ifw/rules.d/psd
+/etc/ifw/start
+/etc/ifw/stop
+/etc/ifw/whitelist

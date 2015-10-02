@@ -1,0 +1,7 @@
+/etc/sysconfig/installkernel
+/sbin/installkernel
+/sbin/kernel_remove_initrd
+/usr/sbin/detectloader
+/usr/sbin/rebootin
+/usr/share/man/man8/detectloader.8.bz2
+/usr/share/man/man8/rebootin.8.bz2

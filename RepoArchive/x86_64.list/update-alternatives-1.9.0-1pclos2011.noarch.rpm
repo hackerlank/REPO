@@ -1,0 +1,6 @@
+/etc/alternatives
+/usr/sbin/alternatives
+/usr/sbin/update-alternatives
+/usr/share/man/man8/update-alternatives.8.bz2
+/var/lib/alternatives
+/var/lib/rpm/alternatives

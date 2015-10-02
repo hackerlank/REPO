@@ -1,0 +1,8 @@
+/etc/cron.daily
+/etc/cron.hourly
+/etc/cron.monthly
+/etc/cron.weekly
+/etc/cron.yearly
+/etc/crontab
+/etc/sysconfig/crontab
+/usr/share/doc/crontabs

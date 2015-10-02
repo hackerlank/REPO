@@ -1,0 +1,5 @@
+/usr/lib64/xorg/modules/input/void_drv.la
+/usr/lib64/xorg/modules/input/void_drv.so
+/usr/share/doc/x11-driver-input-void
+/usr/share/doc/x11-driver-input-void/COPYING
+/usr/share/man/man4/void.4.bz2

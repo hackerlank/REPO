@@ -1,0 +1,10 @@
+/usr/bin/strace
+/usr/bin/strace-log-merge
+/usr/share/doc/strace
+/usr/share/doc/strace/CREDITS
+/usr/share/doc/strace/ChangeLog
+/usr/share/doc/strace/NEWS
+/usr/share/doc/strace/README
+/usr/share/doc/strace/README-linux
+/usr/share/doc/strace/README-linux-ptrace
+/usr/share/man/man1/strace.1.bz2

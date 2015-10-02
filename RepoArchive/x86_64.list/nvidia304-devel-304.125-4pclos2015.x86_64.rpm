@@ -1,0 +1,12 @@
+/usr/lib/nvidia304/libGL.so
+/usr/lib/nvidia304/libOpenCL.so
+/usr/lib/nvidia304/libcuda.so
+/usr/lib/nvidia304/libnvidia-ml.so
+/usr/lib64/nvidia304/libGL.so
+/usr/lib64/nvidia304/libOpenCL.so
+/usr/lib64/nvidia304/libXvMCNVIDIA.a
+/usr/lib64/nvidia304/libXvMCNVIDIA_dynamic.so
+/usr/lib64/nvidia304/libcuda.so
+/usr/lib64/nvidia304/libnvcuvid.so
+/usr/lib64/nvidia304/libnvidia-cfg.so
+/usr/lib64/nvidia304/libnvidia-ml.so

@@ -1,0 +1,10 @@
+/usr/include/avahi-gobject
+/usr/include/avahi-gobject/ga-client.h
+/usr/include/avahi-gobject/ga-entry-group.h
+/usr/include/avahi-gobject/ga-enums.h
+/usr/include/avahi-gobject/ga-error.h
+/usr/include/avahi-gobject/ga-record-browser.h
+/usr/include/avahi-gobject/ga-service-browser.h
+/usr/include/avahi-gobject/ga-service-resolver.h
+/usr/lib64/libavahi-gobject.so
+/usr/lib64/pkgconfig/avahi-gobject.pc

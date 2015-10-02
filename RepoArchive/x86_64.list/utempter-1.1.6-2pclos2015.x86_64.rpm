@@ -1,0 +1,12 @@
+/usr/lib64/utempter
+/usr/lib64/utempter/utempter
+/usr/sbin/utempter
+/usr/share/doc/utempter
+/usr/share/doc/utempter/COPYING
+/usr/share/doc/utempter/README
+/usr/share/man/man3/libutempter.3.bz2
+/usr/share/man/man3/utempter.3.bz2
+/usr/share/man/man3/utempter_add_record.3.bz2
+/usr/share/man/man3/utempter_remove_added_record.3.bz2
+/usr/share/man/man3/utempter_remove_record.3.bz2
+/usr/share/man/man3/utempter_set_helper.3.bz2

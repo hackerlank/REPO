@@ -1,0 +1,14 @@
+/etc/rsyncd.conf
+/etc/sysconfig/rsyncd
+/etc/xinetd.d/rsync
+/usr/bin/rsync
+/usr/share/doc/rsync
+/usr/share/doc/rsync/NEWS
+/usr/share/doc/rsync/OLDNEWS
+/usr/share/doc/rsync/README
+/usr/share/doc/rsync/rrsync
+/usr/share/doc/rsync/rsync.html
+/usr/share/doc/rsync/rsyncd.conf.html
+/usr/share/doc/rsync/tech_report.tex
+/usr/share/man/man1/rsync.1.bz2
+/usr/share/man/man5/rsyncd.conf.5.bz2

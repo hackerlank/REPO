@@ -1,0 +1,14 @@
+/etc/profile.d/ccache.csh
+/etc/profile.d/ccache.sh
+/etc/sysconfig/ccache
+/usr/bin/ccache
+/usr/lib64/ccache
+/usr/lib64/ccache/bin
+/usr/lib64/ccache/bin/c++
+/usr/lib64/ccache/bin/cc
+/usr/lib64/ccache/bin/g++
+/usr/lib64/ccache/bin/gcc
+/usr/lib64/ccache/bin/x86_64-mandriva-linux-gnu-c++
+/usr/lib64/ccache/bin/x86_64-mandriva-linux-gnu-g++
+/usr/lib64/ccache/bin/x86_64-mandriva-linux-gnu-gcc
+/usr/share/man/man1/ccache.1.bz2

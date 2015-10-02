@@ -1,0 +1,12 @@
+/usr/include/flowcanvas
+/usr/include/flowcanvas/Canvas.hpp
+/usr/include/flowcanvas/Connectable.hpp
+/usr/include/flowcanvas/Connection.hpp
+/usr/include/flowcanvas/Ellipse.hpp
+/usr/include/flowcanvas/Item.hpp
+/usr/include/flowcanvas/Module.hpp
+/usr/include/flowcanvas/Port.hpp
+/usr/include/flowcanvas/flowcanvas.hpp
+/usr/include/flowcanvas/types.hpp
+/usr/lib64/libflowcanvas.so
+/usr/lib64/pkgconfig/flowcanvas.pc

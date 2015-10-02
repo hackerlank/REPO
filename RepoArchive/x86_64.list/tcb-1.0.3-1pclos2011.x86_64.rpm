@@ -1,0 +1,8 @@
+/sbin/tcb_convert
+/sbin/tcb_unconvert
+/usr/sbin/set_tcb
+/usr/share/doc/tcb
+/usr/share/doc/tcb/LICENSE
+/usr/share/man/man8/set_tcb.8.bz2
+/usr/share/man/man8/tcb_convert.8.bz2
+/usr/share/man/man8/tcb_unconvert.8.bz2

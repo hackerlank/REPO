@@ -1,0 +1,10 @@
+/usr/bin/lspci
+/usr/bin/pcimodules
+/usr/bin/setpci
+/usr/share/doc/pciutils
+/usr/share/doc/pciutils/ChangeLog
+/usr/share/doc/pciutils/README
+/usr/share/doc/pciutils/pciutils.lsm
+/usr/share/man/man8/lspci.8.bz2
+/usr/share/man/man8/pcimodules.man.bz2
+/usr/share/man/man8/setpci.8.bz2

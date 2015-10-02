@@ -1,0 +1,44 @@
+/etc/X11/xsetup.d/30-start-matchbox.xsetup
+/etc/X11/xsetup.d/80-stop-matchbox.xsetup
+/usr/bin/drakx-matchbox-window-manager
+/usr/share/matchbox/mbnoapp.xpm
+/usr/share/themes/Ia Ora Smooth
+/usr/share/themes/Ia Ora Smooth/matchbox
+/usr/share/themes/Ia Ora Smooth/matchbox/01-bottom.png
+/usr/share/themes/Ia Ora Smooth/matchbox/01-downleft.png
+/usr/share/themes/Ia Ora Smooth/matchbox/01-downright.png
+/usr/share/themes/Ia Ora Smooth/matchbox/01-left.png
+/usr/share/themes/Ia Ora Smooth/matchbox/01-right.png
+/usr/share/themes/Ia Ora Smooth/matchbox/01-top.png
+/usr/share/themes/Ia Ora Smooth/matchbox/01-topleft.png
+/usr/share/themes/Ia Ora Smooth/matchbox/01-topright.png
+/usr/share/themes/Ia Ora Smooth/matchbox/accept.png
+/usr/share/themes/Ia Ora Smooth/matchbox/close-small.png
+/usr/share/themes/Ia Ora Smooth/matchbox/close.png
+/usr/share/themes/Ia Ora Smooth/matchbox/dialogbottomleft.png
+/usr/share/themes/Ia Ora Smooth/matchbox/dialogbottomright.png
+/usr/share/themes/Ia Ora Smooth/matchbox/dialogbottomtile.png
+/usr/share/themes/Ia Ora Smooth/matchbox/dialogtopleft.png
+/usr/share/themes/Ia Ora Smooth/matchbox/dialogtopleft2.png
+/usr/share/themes/Ia Ora Smooth/matchbox/dialogtopright.png
+/usr/share/themes/Ia Ora Smooth/matchbox/dialogtopright2.png
+/usr/share/themes/Ia Ora Smooth/matchbox/dialogtoptile.png
+/usr/share/themes/Ia Ora Smooth/matchbox/dialogtoptile2.png
+/usr/share/themes/Ia Ora Smooth/matchbox/hide.png
+/usr/share/themes/Ia Ora Smooth/matchbox/menu.png
+/usr/share/themes/Ia Ora Smooth/matchbox/modalbottom.png
+/usr/share/themes/Ia Ora Smooth/matchbox/modalbottomleft.png
+/usr/share/themes/Ia Ora Smooth/matchbox/modalbottomright.png
+/usr/share/themes/Ia Ora Smooth/matchbox/modalleft.png
+/usr/share/themes/Ia Ora Smooth/matchbox/modalright.png
+/usr/share/themes/Ia Ora Smooth/matchbox/modaltop.png
+/usr/share/themes/Ia Ora Smooth/matchbox/modaltopleft.png
+/usr/share/themes/Ia Ora Smooth/matchbox/modaltopright.png
+/usr/share/themes/Ia Ora Smooth/matchbox/next.png
+/usr/share/themes/Ia Ora Smooth/matchbox/prev.png
+/usr/share/themes/Ia Ora Smooth/matchbox/que.png
+/usr/share/themes/Ia Ora Smooth/matchbox/theme.desktop
+/usr/share/themes/Ia Ora Smooth/matchbox/theme.xml
+/usr/share/themes/Ia Ora Smooth/matchbox/titleleft.png
+/usr/share/themes/Ia Ora Smooth/matchbox/titleright.png
+/usr/share/themes/Ia Ora Smooth/matchbox/titlestrip.png

@@ -1,0 +1,9 @@
+/etc/X11/xorg.conf.d/50-vmmouse.conf
+/lib/udev/rules.d/69-xorg-vmmouse.rules
+/usr/bin/vmmouse_detect
+/usr/lib64/hal/hal-probe-vmmouse
+/usr/lib64/xorg/modules/input/vmmouse_drv.la
+/usr/lib64/xorg/modules/input/vmmouse_drv.so
+/usr/share/hal/fdi/policy/20thirdparty/11-x11-vmmouse.fdi
+/usr/share/man/man1/vmmouse_detect.1.bz2
+/usr/share/man/man4/vmmouse.4.bz2

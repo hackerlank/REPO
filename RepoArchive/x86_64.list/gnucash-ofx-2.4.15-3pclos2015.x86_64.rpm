@@ -1,0 +1,5 @@
+/usr/lib64/gnucash/libgncmod-ofx.la
+/usr/lib64/gnucash/libgncmod-ofx.so
+/usr/share/doc/gnucash-ofx
+/usr/share/doc/gnucash-ofx/README.OFX
+/usr/share/gnucash/ui/gnc-plugin-ofx-ui.xml

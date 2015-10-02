@@ -1,0 +1,270 @@
+/usr/bin/calf
+/usr/bin/calf_gtk
+/usr/bin/calfjackhost
+/usr/lib64/calf/calf.so
+/usr/share/applications/calf.desktop
+/usr/share/calf
+/usr/share/calf/background_black.png
+/usr/share/calf/background_blue.png
+/usr/share/calf/background_dark.png
+/usr/share/calf/background_fur.png
+/usr/share/calf/background_fur_bw.png
+/usr/share/calf/background_fur_white.png
+/usr/share/calf/background_light_alu.png
+/usr/share/calf/background_light_calf.png
+/usr/share/calf/background_light_green.png
+/usr/share/calf/background_light_metal.png
+/usr/share/calf/blank.png
+/usr/share/calf/button.png
+/usr/share/calf/button_active.png
+/usr/share/calf/button_default.png
+/usr/share/calf/button_default_active.png
+/usr/share/calf/button_default_prelight.png
+/usr/share/calf/button_insens.png
+/usr/share/calf/button_normal.png
+/usr/share/calf/button_prelight.png
+/usr/share/calf/calf-gui.xml
+/usr/share/calf/calf.rc
+/usr/share/calf/combo.png
+/usr/share/calf/combo_active.png
+/usr/share/calf/combo_arrow.png
+/usr/share/calf/combo_inactive.png
+/usr/share/calf/entry.png
+/usr/share/calf/entry_inactive.png
+/usr/share/calf/frame.png
+/usr/share/calf/frame_bottom_end.png
+/usr/share/calf/frame_bottom_start.png
+/usr/share/calf/frame_left_end.png
+/usr/share/calf/frame_left_start.png
+/usr/share/calf/frame_right_end.png
+/usr/share/calf/frame_right_start.png
+/usr/share/calf/frame_top_end.png
+/usr/share/calf/frame_top_start.png
+/usr/share/calf/gui-analyzer.xml
+/usr/share/calf/gui-bassenhancer.xml
+/usr/share/calf/gui-compressor.xml
+/usr/share/calf/gui-deesser.xml
+/usr/share/calf/gui-enhancer.xml
+/usr/share/calf/gui-eq12.xml
+/usr/share/calf/gui-eq5.xml
+/usr/share/calf/gui-eq8.xml
+/usr/share/calf/gui-exciter.xml
+/usr/share/calf/gui-filter.xml
+/usr/share/calf/gui-filterclavier.xml
+/usr/share/calf/gui-flanger.xml
+/usr/share/calf/gui-fluidsynth.xml
+/usr/share/calf/gui-gate.xml
+/usr/share/calf/gui-limiter.xml
+/usr/share/calf/gui-mono.xml
+/usr/share/calf/gui-monosynth.xml
+/usr/share/calf/gui-multibandcompressor.xml
+/usr/share/calf/gui-multibandgate.xml
+/usr/share/calf/gui-multibandlimiter.xml
+/usr/share/calf/gui-multichorus.xml
+/usr/share/calf/gui-organ.xml
+/usr/share/calf/gui-phaser.xml
+/usr/share/calf/gui-pulsator.xml
+/usr/share/calf/gui-reverb.xml
+/usr/share/calf/gui-rotaryspeaker.xml
+/usr/share/calf/gui-saturator.xml
+/usr/share/calf/gui-sidechaincompressor.xml
+/usr/share/calf/gui-sidechaingate.xml
+/usr/share/calf/gui-stereo.xml
+/usr/share/calf/gui-vintagedelay.xml
+/usr/share/calf/gui-wavetable.xml
+/usr/share/calf/handle-h.png
+/usr/share/calf/handle-v.png
+/usr/share/calf/hline.png
+/usr/share/calf/knob1.png
+/usr/share/calf/knob2.png
+/usr/share/calf/knob3.png
+/usr/share/calf/knob4.png
+/usr/share/calf/knob5.png
+/usr/share/calf/led2_active.png
+/usr/share/calf/led2_inactive.png
+/usr/share/calf/led2_normal.png
+/usr/share/calf/led2_prelight.png
+/usr/share/calf/led_active.png
+/usr/share/calf/led_inactive.png
+/usr/share/calf/led_normal.png
+/usr/share/calf/led_prelight.png
+/usr/share/calf/light_bottom.png
+/usr/share/calf/light_top.png
+/usr/share/calf/logo_button.png
+/usr/share/calf/notebook.png
+/usr/share/calf/notebook_bottom.png
+/usr/share/calf/notebook_left.png
+/usr/share/calf/notebook_right.png
+/usr/share/calf/notebook_top.png
+/usr/share/calf/null.png
+/usr/share/calf/presets.xml
+/usr/share/calf/rect3155.png
+/usr/share/calf/screw1.png
+/usr/share/calf/screw2.png
+/usr/share/calf/scroll-thumb-horiz.png
+/usr/share/calf/scroll-thumb-vert.png
+/usr/share/calf/scroller-horiz-insens.png
+/usr/share/calf/scroller-horiz-prelight.png
+/usr/share/calf/scroller-horiz.png
+/usr/share/calf/scroller-vert-insens.png
+/usr/share/calf/scroller-vert-prelight.png
+/usr/share/calf/scroller-vert.png
+/usr/share/calf/side_d_e.png
+/usr/share/calf/side_d_ne.png
+/usr/share/calf/side_d_nw.png
+/usr/share/calf/side_d_se.png
+/usr/share/calf/side_d_sw.png
+/usr/share/calf/side_d_w.png
+/usr/share/calf/side_e.png
+/usr/share/calf/side_e_logo.png
+/usr/share/calf/side_ne.png
+/usr/share/calf/side_nw.png
+/usr/share/calf/side_se.png
+/usr/share/calf/side_sw.png
+/usr/share/calf/side_w.png
+/usr/share/calf/slider1-horiz-prelight.png
+/usr/share/calf/slider1-horiz.png
+/usr/share/calf/slider1-vert-prelight.png
+/usr/share/calf/slider1-vert.png
+/usr/share/calf/slider2-horiz-prelight.png
+/usr/share/calf/slider2-horiz.png
+/usr/share/calf/slider2-vert-prelight.png
+/usr/share/calf/slider2-vert.png
+/usr/share/calf/spin_down_active.png
+/usr/share/calf/spin_down_inactive.png
+/usr/share/calf/spin_down_normal.png
+/usr/share/calf/spin_down_prelight.png
+/usr/share/calf/spin_up_active.png
+/usr/share/calf/spin_up_inactive.png
+/usr/share/calf/spin_up_normal.png
+/usr/share/calf/spin_up_prelight.png
+/usr/share/calf/tab_bottom_normal.png
+/usr/share/calf/tab_bottom_prelight.png
+/usr/share/calf/tab_left_normal.png
+/usr/share/calf/tab_left_prelight.png
+/usr/share/calf/tab_right_normal.png
+/usr/share/calf/tab_right_prelight.png
+/usr/share/calf/tab_top_normal.png
+/usr/share/calf/tab_top_prelight.png
+/usr/share/calf/toggle1_black.png
+/usr/share/calf/toggle1_silver.png
+/usr/share/calf/toggle2_black.png
+/usr/share/calf/toggle2_silver.png
+/usr/share/calf/trough1-horizontal.png
+/usr/share/calf/trough1-vertical.png
+/usr/share/calf/trough2-horizontal.png
+/usr/share/calf/trough2-vertical.png
+/usr/share/calf/tubeH1.png
+/usr/share/calf/tubeH2.png
+/usr/share/calf/tubeV1.png
+/usr/share/calf/tubeV2.png
+/usr/share/calf/vline.png
+/usr/share/doc/calf
+/usr/share/doc/calf/AUTHORS
+/usr/share/doc/calf/About.html
+/usr/share/doc/calf/Analyzer.html
+/usr/share/doc/calf/Bass Enhancer.html
+/usr/share/doc/calf/COPYING
+/usr/share/doc/calf/COPYING.GPL
+/usr/share/doc/calf/Calf.html
+/usr/share/doc/calf/ChangeLog
+/usr/share/doc/calf/Compressor.html
+/usr/share/doc/calf/Controls.html
+/usr/share/doc/calf/Deesser.html
+/usr/share/doc/calf/Equalizer12band.html
+/usr/share/doc/calf/Equalizer5band.html
+/usr/share/doc/calf/Equalizer8band.html
+/usr/share/doc/calf/Exciter.html
+/usr/share/doc/calf/Filter.html
+/usr/share/doc/calf/Filterclavier.html
+/usr/share/doc/calf/Flanger.html
+/usr/share/doc/calf/Gate.html
+/usr/share/doc/calf/Limiter.html
+/usr/share/doc/calf/Mono Input.html
+/usr/share/doc/calf/Monosynth.html
+/usr/share/doc/calf/Multi Chorus.html
+/usr/share/doc/calf/Multiband Compressor.html
+/usr/share/doc/calf/Multiband Gate.html
+/usr/share/doc/calf/Multiband Limiter.html
+/usr/share/doc/calf/Organ.html
+/usr/share/doc/calf/Phaser.html
+/usr/share/doc/calf/Pulsator.html
+/usr/share/doc/calf/README
+/usr/share/doc/calf/Reverb.html
+/usr/share/doc/calf/Rotary Speaker.html
+/usr/share/doc/calf/Saturator.html
+/usr/share/doc/calf/Sidechain Compressor.html
+/usr/share/doc/calf/Sidechain Gate.html
+/usr/share/doc/calf/Stereo Tools.html
+/usr/share/doc/calf/TODO
+/usr/share/doc/calf/Vintage Delay.html
+/usr/share/doc/calf/_blank.html
+/usr/share/doc/calf/images
+/usr/share/doc/calf/images/About.png
+/usr/share/doc/calf/images/Calf - Analyzer.png
+/usr/share/doc/calf/images/Calf - Bass Enhancer.png
+/usr/share/doc/calf/images/Calf - Compressor.png
+/usr/share/doc/calf/images/Calf - Controls.png
+/usr/share/doc/calf/images/Calf - Deesser.png
+/usr/share/doc/calf/images/Calf - Equalizer 12 Band.png
+/usr/share/doc/calf/images/Calf - Equalizer 5 Band.png
+/usr/share/doc/calf/images/Calf - Equalizer 8 Band.png
+/usr/share/doc/calf/images/Calf - Exciter.png
+/usr/share/doc/calf/images/Calf - Filter.png
+/usr/share/doc/calf/images/Calf - Filterclavier.png
+/usr/share/doc/calf/images/Calf - Flanger.png
+/usr/share/doc/calf/images/Calf - Gate.png
+/usr/share/doc/calf/images/Calf - Limiter.png
+/usr/share/doc/calf/images/Calf - Mono Input.png
+/usr/share/doc/calf/images/Calf - Monosynth - Audio Path.png
+/usr/share/doc/calf/images/Calf - Monosynth - Modulation Matrix.png
+/usr/share/doc/calf/images/Calf - Monosynth - Modulation.png
+/usr/share/doc/calf/images/Calf - Multi Chorus.png
+/usr/share/doc/calf/images/Calf - Multiband Compressor.png
+/usr/share/doc/calf/images/Calf - Multiband Gate.png
+/usr/share/doc/calf/images/Calf - Multiband Limiter.png
+/usr/share/doc/calf/images/Calf - Organ - Advanced.png
+/usr/share/doc/calf/images/Calf - Organ - Sound Processor.png
+/usr/share/doc/calf/images/Calf - Organ - Tone Generator.png
+/usr/share/doc/calf/images/Calf - Phaser.png
+/usr/share/doc/calf/images/Calf - Pulsator.png
+/usr/share/doc/calf/images/Calf - Reverb.png
+/usr/share/doc/calf/images/Calf - Rotary Speaker.png
+/usr/share/doc/calf/images/Calf - Saturator.png
+/usr/share/doc/calf/images/Calf - Sidechain Compressor.png
+/usr/share/doc/calf/images/Calf - Sidechain Gate.png
+/usr/share/doc/calf/images/Calf - Stereo Tools.png
+/usr/share/doc/calf/images/Calf - Vintage Delay.png
+/usr/share/doc/calf/images/Calf.png
+/usr/share/doc/calf/images/Index.png
+/usr/share/doc/calf/images/background_dark.png
+/usr/share/doc/calf/images/plugins.png
+/usr/share/doc/calf/images/style_logo.png
+/usr/share/doc/calf/images/style_p.png
+/usr/share/doc/calf/index.html
+/usr/share/doc/calf/scripts
+/usr/share/doc/calf/scripts/jquery.js
+/usr/share/doc/calf/scripts/manual.js
+/usr/share/doc/calf/scripts/style.css
+/usr/share/doc/calf/scripts/thickbox.css
+/usr/share/doc/calf/scripts/thickbox.js
+/usr/share/icons/hicolor/128x128/apps/calf.png
+/usr/share/icons/hicolor/128x128/apps/calf_plugin.png
+/usr/share/icons/hicolor/16x16/apps/calf.png
+/usr/share/icons/hicolor/16x16/apps/calf_plugin.png
+/usr/share/icons/hicolor/22x22/apps/calf.png
+/usr/share/icons/hicolor/22x22/apps/calf_plugin.png
+/usr/share/icons/hicolor/24x24/apps/calf.png
+/usr/share/icons/hicolor/24x24/apps/calf_plugin.png
+/usr/share/icons/hicolor/256x256/apps/calf.png
+/usr/share/icons/hicolor/256x256/apps/calf_plugin.png
+/usr/share/icons/hicolor/32x32/apps/calf.png
+/usr/share/icons/hicolor/32x32/apps/calf_plugin.png
+/usr/share/icons/hicolor/48x48/apps/calf.png
+/usr/share/icons/hicolor/48x48/apps/calf_plugin.png
+/usr/share/icons/hicolor/64x64/apps/calf.png
+/usr/share/icons/hicolor/64x64/apps/calf_plugin.png
+/usr/share/icons/hicolor/scalable/apps/calf.svg
+/usr/share/icons/hicolor/scalable/apps/calf_plugin.svg
+/usr/share/man/man1/calfjackhost.1.bz2
+/usr/share/man/man7/calf.7.bz2

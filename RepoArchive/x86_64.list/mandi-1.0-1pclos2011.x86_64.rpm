@@ -1,0 +1,3 @@
+/etc/dbus-1/system.d/mandi.conf
+/etc/rc.d/init.d/mandi
+/usr/sbin/mandi

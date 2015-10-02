@@ -1,0 +1,17 @@
+/usr/lib/perl5/vendor_perl/5.12.3/Error
+/usr/lib/perl5/vendor_perl/5.12.3/Error.pm
+/usr/lib/perl5/vendor_perl/5.12.3/Error/Simple.pm
+/usr/share/doc/perl-Error
+/usr/share/doc/perl-Error/ChangeLog
+/usr/share/doc/perl-Error/README
+/usr/share/doc/perl-Error/examples
+/usr/share/doc/perl-Error/examples/example.pl
+/usr/share/doc/perl-Error/examples/next-in-loop
+/usr/share/doc/perl-Error/examples/next-in-loop/Error.pm-eval.pl
+/usr/share/doc/perl-Error/examples/next-in-loop/Error.pm-next-label.pl
+/usr/share/doc/perl-Error/examples/next-in-loop/Error.pm-next-out-of-catch.pl
+/usr/share/doc/perl-Error/examples/next-in-loop/Error.pm-next.pl
+/usr/share/doc/perl-Error/examples/next-in-loop/README
+/usr/share/doc/perl-Error/examples/warndie.pl
+/usr/share/man/man3/Error.3pm.bz2
+/usr/share/man/man3/Error::Simple.3pm.bz2

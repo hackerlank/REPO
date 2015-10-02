@@ -1,0 +1,9 @@
+/usr/lib64/qt5/bin/designer
+/usr/lib64/qt5/plugins/designer
+/usr/lib64/qt5/plugins/designer/libcontainerextension.so
+/usr/lib64/qt5/plugins/designer/libcustomwidgetplugin.so
+/usr/lib64/qt5/plugins/designer/libqquickwidget.so
+/usr/lib64/qt5/plugins/designer/libqwebview.so
+/usr/lib64/qt5/plugins/designer/libtaskmenuextension.so
+/usr/lib64/qt5/plugins/designer/libworldtimeclockplugin.so
+/usr/share/applications/pclos-designer-qt5.desktop

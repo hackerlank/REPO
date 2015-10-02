@@ -1,0 +1,7 @@
+/etc/gconf/schemas/apps_gnucash_dialog_hbci.schemas
+/usr/lib64/gnucash/libgncmod-aqbanking.la
+/usr/lib64/gnucash/libgncmod-aqbanking.so
+/usr/share/doc/gnucash-hbci
+/usr/share/doc/gnucash-hbci/README.HBCI
+/usr/share/gnucash/glade/aqbanking.glade
+/usr/share/gnucash/ui/gnc-plugin-aqbanking-ui.xml

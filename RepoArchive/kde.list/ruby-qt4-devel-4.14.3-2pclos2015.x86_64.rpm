@@ -1,0 +1,15 @@
+/usr/bin/rbrcc
+/usr/bin/rbuic4
+/usr/include/qtruby
+/usr/include/qtruby/marshall.h
+/usr/include/qtruby/marshall_basetypes.h
+/usr/include/qtruby/marshall_complex.h
+/usr/include/qtruby/marshall_macros.h
+/usr/include/qtruby/marshall_primitives.h
+/usr/include/qtruby/marshall_types.h
+/usr/include/qtruby/qtruby.h
+/usr/include/qtruby/smokeruby.h
+/usr/lib64/libqtruby4shared.so
+/usr/share/qtruby4/cmake/QtRuby4Config.cmake
+/usr/share/qtruby4/cmake/QtRuby4Export-release.cmake
+/usr/share/qtruby4/cmake/QtRuby4Export.cmake

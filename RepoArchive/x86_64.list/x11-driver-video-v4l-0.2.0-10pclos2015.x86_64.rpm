@@ -1,0 +1,5 @@
+/usr/lib64/xorg/modules/drivers/v4l_drv.la
+/usr/lib64/xorg/modules/drivers/v4l_drv.so
+/usr/share/doc/x11-driver-video-v4l
+/usr/share/doc/x11-driver-video-v4l/COPYING
+/usr/share/man/man4/v4l.4.bz2

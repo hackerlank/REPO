@@ -1,0 +1,5 @@
+/usr/lib64/xorg/modules/input/penmount_drv.la
+/usr/lib64/xorg/modules/input/penmount_drv.so
+/usr/share/doc/x11-driver-input-penmount
+/usr/share/doc/x11-driver-input-penmount/COPYING
+/usr/share/man/man4/penmount.4.bz2

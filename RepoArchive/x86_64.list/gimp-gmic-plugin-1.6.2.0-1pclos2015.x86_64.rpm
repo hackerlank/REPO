@@ -1,0 +1,7 @@
+/etc/bash_completion.d/gmic
+/usr/lib64/gimp/2.0/plug-ins/gmic_gimp
+/usr/lib64/gimp/2.0/plug-ins/gmic_in_script.scm
+/usr/share/doc/gimp-gmic-plugin
+/usr/share/doc/gimp-gmic-plugin/COPYING
+/usr/share/doc/gimp-gmic-plugin/README
+/usr/share/man/man1/gmic.1.bz2

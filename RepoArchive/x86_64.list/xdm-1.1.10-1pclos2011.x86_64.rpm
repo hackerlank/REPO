@@ -1,0 +1,13 @@
+/etc/logrotate.d/xdm
+/etc/pam.d/xdm
+/usr/bin/xdm
+/usr/bin/xdmshell
+/usr/share/X11/app-defaults/Chooser
+/usr/share/X11/xdm/authdir
+/usr/share/X11/xdm/chooser
+/usr/share/X11/xdm/libXdmGreet.so
+/usr/share/X11/xdm/pixmaps
+/usr/share/X11/xdm/pixmaps/xorg-bw.xpm
+/usr/share/X11/xdm/pixmaps/xorg.xpm
+/usr/share/man/man1/xdm.1.bz2
+/var/lib/xdm

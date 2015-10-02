@@ -1,0 +1,10 @@
+/usr/bin/avahi-discover-standalone
+/usr/bin/bshell
+/usr/bin/bssh
+/usr/bin/bvnc
+/usr/share/applications/avahi-discover.desktop
+/usr/share/applications/bssh.desktop
+/usr/share/applications/bvnc.desktop
+/usr/share/avahi/interfaces/avahi-discover.ui
+/usr/share/man/man1/bssh.1.bz2
+/usr/share/man/man1/bvnc.1.bz2

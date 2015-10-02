@@ -1,0 +1,4 @@
+/etc/esd.conf
+/usr/bin/esd
+/usr/bin/esdcompat
+/usr/share/man/man1/esdcompat.1.bz2

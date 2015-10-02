@@ -1,0 +1,6 @@
+/etc/openldap/ldap.conf
+/etc/openldap/ldapserver
+/usr/share/doc/openldap
+/usr/share/doc/openldap/README.mdk
+/usr/share/man/man5/ldap.conf.5.bz2
+/usr/share/man/man5/ldif.5.bz2

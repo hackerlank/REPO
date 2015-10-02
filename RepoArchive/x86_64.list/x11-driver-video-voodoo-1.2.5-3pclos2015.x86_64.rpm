@@ -1,0 +1,5 @@
+/usr/lib64/xorg/modules/drivers/voodoo_drv.la
+/usr/lib64/xorg/modules/drivers/voodoo_drv.so
+/usr/share/doc/x11-driver-video-voodoo
+/usr/share/doc/x11-driver-video-voodoo/COPYING
+/usr/share/man/man4/voodoo.4.bz2

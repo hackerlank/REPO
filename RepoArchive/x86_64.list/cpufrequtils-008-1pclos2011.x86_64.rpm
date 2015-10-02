@@ -1,0 +1,15 @@
+/usr/bin/cpufreq-aperf
+/usr/bin/cpufreq-info
+/usr/bin/cpufreq-set
+/usr/lib64/libcpufreq.so.0
+/usr/lib64/libcpufreq.so.0.0.0
+/usr/share/doc/cpufrequtils
+/usr/share/doc/cpufrequtils/AUTHORS
+/usr/share/doc/cpufrequtils/README
+/usr/share/locale/cs/LC_MESSAGES/cpufrequtils.mo
+/usr/share/locale/de/LC_MESSAGES/cpufrequtils.mo
+/usr/share/locale/fr/LC_MESSAGES/cpufrequtils.mo
+/usr/share/locale/it/LC_MESSAGES/cpufrequtils.mo
+/usr/share/locale/pt/LC_MESSAGES/cpufrequtils.mo
+/usr/share/man/man1/cpufreq-info.1.bz2
+/usr/share/man/man1/cpufreq-set.1.bz2

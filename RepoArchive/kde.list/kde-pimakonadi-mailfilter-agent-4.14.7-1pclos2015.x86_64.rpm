@@ -1,0 +1,13 @@
+/usr/bin/akonadi_mailfilter_agent
+/usr/lib64/kde4/plugins/accessible/messagevieweraccessiblewidgetfactory.so
+/usr/lib64/libincidenceeditorsng.so.4
+/usr/lib64/libmailcommon.so.4
+/usr/lib64/libmailcommon.so.4.14.7
+/usr/lib64/libmessagecomposer.so.4
+/usr/lib64/libmessagecomposer.so.4.14.7
+/usr/lib64/libmessageviewer.so.4
+/usr/lib64/libtemplateparser.so.4
+/usr/share/akonadi/agents/folderarchiveagent.desktop
+/usr/share/akonadi/agents/mailfilteragent.desktop
+/usr/share/apps/kconf_update/mailfilteragent.upd
+/usr/share/apps/kconf_update/migrate-kmail-filters.pl

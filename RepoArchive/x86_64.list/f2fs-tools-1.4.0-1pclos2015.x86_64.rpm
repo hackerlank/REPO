@@ -1,0 +1,10 @@
+/usr/lib64/libf2fs.so.0
+/usr/lib64/libf2fs.so.0.0.0
+/usr/sbin/dump.f2fs
+/usr/sbin/f2fstat
+/usr/sbin/fibmap.f2fs
+/usr/sbin/fsck.f2fs
+/usr/sbin/mkfs.f2fs
+/usr/share/doc/f2fs-tools
+/usr/share/doc/f2fs-tools/COPYING
+/usr/share/man/man8/mkfs.f2fs.8.bz2

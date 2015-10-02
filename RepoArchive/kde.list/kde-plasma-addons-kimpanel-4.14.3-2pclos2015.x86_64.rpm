@@ -1,0 +1,6 @@
+/usr/lib64/kde4/libexec/kimpanel-ibus-panel
+/usr/lib64/kde4/libexec/kimpanel-scim-panel
+/usr/lib64/kde4/plasma_applet_kimpanel.so
+/usr/share/config.kcfg/kimpanelconfig.kcfg
+/usr/share/ibus/component/kimpanel.xml
+/usr/share/kde4/services/plasma-applet-kimpanel.desktop

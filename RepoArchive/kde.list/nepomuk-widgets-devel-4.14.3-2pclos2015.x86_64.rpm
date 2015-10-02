@@ -1,0 +1,11 @@
+/usr/include/nepomuk2/filemetadataconfigwidget.h
+/usr/include/nepomuk2/filemetadatawidget.h
+/usr/include/nepomuk2/nepomukwidgets_export.h
+/usr/include/nepomuk2/resourcemodel.h
+/usr/include/nepomuk2/tagwidget.h
+/usr/lib64/cmake/NepomukWidgets
+/usr/lib64/cmake/NepomukWidgets/NepomukWidgetsConfig.cmake
+/usr/lib64/cmake/NepomukWidgets/NepomukWidgetsConfigVersion.cmake
+/usr/lib64/cmake/NepomukWidgets/NepomukWidgetsTargetsWithPrefix-release.cmake
+/usr/lib64/cmake/NepomukWidgets/NepomukWidgetsTargetsWithPrefix.cmake
+/usr/lib64/libnepomukwidgets.so

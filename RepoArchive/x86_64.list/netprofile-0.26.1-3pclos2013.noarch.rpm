@@ -1,0 +1,17 @@
+/etc/bash_completion.d/netprofile
+/etc/netprofile
+/etc/netprofile/modules
+/etc/netprofile/modules/01_network
+/etc/netprofile/modules/02_firewall
+/etc/netprofile/modules/02_firewall6
+/etc/netprofile/modules/03_proxy
+/etc/netprofile/profiles
+/etc/sysconfig/network-scripts/ifup.d/netprofile
+/sbin/netprofile
+/sbin/read-netprofile
+/sbin/set-netprofile
+/usr/share/doc/netprofile
+/usr/share/doc/netprofile/ChangeLog
+/usr/share/doc/netprofile/NEWS
+/usr/share/doc/netprofile/README
+/usr/share/doc/netprofile/TODO

@@ -1,0 +1,5 @@
+/etc/rc.d/init.d/uuidd
+/usr/sbin/uuidd
+/usr/share/bash-completion/completions/uuidd
+/usr/share/man/man8/uuidd.8.bz2
+/var/lib/libuuid

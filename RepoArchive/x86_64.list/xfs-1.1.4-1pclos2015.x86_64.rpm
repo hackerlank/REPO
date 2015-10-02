@@ -1,0 +1,8 @@
+/etc/X11/fontpath.d
+/etc/X11/fs
+/etc/X11/fs/config
+/etc/rc.d/init.d/xfs
+/etc/sysconfig/xfs
+/usr/bin/xfs
+/usr/lib64/X11/fs
+/usr/share/man/man1/xfs.1.bz2

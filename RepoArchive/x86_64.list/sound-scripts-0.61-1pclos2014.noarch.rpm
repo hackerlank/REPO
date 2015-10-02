@@ -1,0 +1,15 @@
+/bin/reset_sound
+/etc/modprobe.d/snd-oss
+/etc/modprobe.d/snd-usb-audio
+/etc/rc.d/init.d/alsa
+/etc/rc.d/init.d/sound
+/etc/rc.d/rc.alsa_default
+/etc/sysconfig/alsa
+/etc/udev/rules.d/alsa.rules
+/sbin/alsa.agent
+/usr/bin/reset_sound
+/usr/sbin/alsa.agent
+/usr/share/alsa
+/usr/share/alsa/alsa-utils
+/usr/share/doc/sound-scripts
+/usr/share/doc/sound-scripts/ChangeLog

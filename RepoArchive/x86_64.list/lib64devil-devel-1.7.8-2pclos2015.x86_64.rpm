@@ -1,0 +1,13 @@
+/usr/include/IL
+/usr/include/IL/devil_cpp_wrapper.hpp
+/usr/include/IL/il.h
+/usr/include/IL/ilu.h
+/usr/include/IL/ilu_region.h
+/usr/include/IL/ilut.h
+/usr/lib64/libIL.so
+/usr/lib64/libILU.so
+/usr/lib64/libILUT.so
+/usr/lib64/pkgconfig/IL.pc
+/usr/lib64/pkgconfig/ILU.pc
+/usr/lib64/pkgconfig/ILUT.pc
+/usr/share/info/DevIL_manual.info.bz2

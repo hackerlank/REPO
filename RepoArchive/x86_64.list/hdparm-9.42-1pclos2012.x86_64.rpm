@@ -1,0 +1,7 @@
+/etc/sysconfig/harddisks
+/sbin/hdparm
+/usr/share/doc/hdparm
+/usr/share/doc/hdparm/Changelog
+/usr/share/doc/hdparm/README.acoustic
+/usr/share/doc/hdparm/hdparm.lsm
+/usr/share/man/man8/hdparm.8.bz2

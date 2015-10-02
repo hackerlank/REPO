@@ -1,0 +1,12 @@
+/usr/lib64/cmake/Qt5Gui/Qt5Gui_.cmake
+/usr/lib64/cmake/Qt5WaylandClient
+/usr/lib64/cmake/Qt5WaylandClient/Qt5WaylandClient_.cmake
+/usr/lib64/libQt5WaylandClient.prl
+/usr/lib64/libQt5WaylandClient.so
+/usr/lib64/pkgconfig/Qt5WaylandClient.pc
+/usr/lib64/qt5/include/QtWaylandClient
+/usr/lib64/qt5/include/QtWaylandClient/QtWaylandClient
+/usr/lib64/qt5/include/QtWaylandClient/QtWaylandClientDepends
+/usr/lib64/qt5/include/QtWaylandClient/QtWaylandClientVersion
+/usr/lib64/qt5/include/QtWaylandClient/qtwaylandclientversion.h
+/usr/lib64/qt5/mkspecs/modules/qt_lib_waylandclient.pri

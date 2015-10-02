@@ -1,0 +1,15 @@
+/usr/include/thunarx-2
+/usr/include/thunarx-2/thunarx
+/usr/include/thunarx-2/thunarx/thunarx-config.h
+/usr/include/thunarx-2/thunarx/thunarx-file-info.h
+/usr/include/thunarx-2/thunarx/thunarx-menu-provider.h
+/usr/include/thunarx-2/thunarx/thunarx-preferences-provider.h
+/usr/include/thunarx-2/thunarx/thunarx-property-page-provider.h
+/usr/include/thunarx-2/thunarx/thunarx-property-page.h
+/usr/include/thunarx-2/thunarx/thunarx-provider-factory.h
+/usr/include/thunarx-2/thunarx/thunarx-provider-plugin.h
+/usr/include/thunarx-2/thunarx/thunarx-renamer-provider.h
+/usr/include/thunarx-2/thunarx/thunarx-renamer.h
+/usr/include/thunarx-2/thunarx/thunarx.h
+/usr/lib64/libthunarx-2.so
+/usr/lib64/pkgconfig/thunarx-2.pc

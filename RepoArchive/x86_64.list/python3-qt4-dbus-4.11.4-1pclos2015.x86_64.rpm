@@ -1,0 +1,17 @@
+/usr/lib64/python3.4/site-packages/PyQt4/QtDBus.so
+/usr/share/python3-sip/PyQt4/QtDBus
+/usr/share/python3-sip/PyQt4/QtDBus/QtDBusmod.sip
+/usr/share/python3-sip/PyQt4/QtDBus/qdbusabstractadaptor.sip
+/usr/share/python3-sip/PyQt4/QtDBus/qdbusabstractinterface.sip
+/usr/share/python3-sip/PyQt4/QtDBus/qdbusargument.sip
+/usr/share/python3-sip/PyQt4/QtDBus/qdbusconnection.sip
+/usr/share/python3-sip/PyQt4/QtDBus/qdbusconnectioninterface.sip
+/usr/share/python3-sip/PyQt4/QtDBus/qdbuserror.sip
+/usr/share/python3-sip/PyQt4/QtDBus/qdbusextratypes.sip
+/usr/share/python3-sip/PyQt4/QtDBus/qdbusinterface.sip
+/usr/share/python3-sip/PyQt4/QtDBus/qdbusmessage.sip
+/usr/share/python3-sip/PyQt4/QtDBus/qdbuspendingcall.sip
+/usr/share/python3-sip/PyQt4/QtDBus/qdbusservicewatcher.sip
+/usr/share/python3-sip/PyQt4/QtDBus/qdbusunixfiledescriptor.sip
+/usr/share/python3-sip/PyQt4/QtDBus/qpydbuspendingreply.sip
+/usr/share/python3-sip/PyQt4/QtDBus/qpydbusreply.sip

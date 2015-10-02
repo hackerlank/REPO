@@ -1,0 +1,6 @@
+/usr/share/doc/python-amqp-doc
+/usr/share/doc/python-amqp-doc/LICENSE
+/usr/share/doc/python-amqp-doc/demo
+/usr/share/doc/python-amqp-doc/demo/amqp_clock.py
+/usr/share/doc/python-amqp-doc/demo/demo_receive.py
+/usr/share/doc/python-amqp-doc/demo/demo_send.py

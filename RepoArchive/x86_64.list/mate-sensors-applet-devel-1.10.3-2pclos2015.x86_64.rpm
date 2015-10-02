@@ -1,0 +1,4 @@
+/usr/include/mate-sensors-applet
+/usr/include/mate-sensors-applet/sensors-applet-plugin.h
+/usr/include/mate-sensors-applet/sensors-applet-sensor.h
+/usr/lib64/libmate-sensors-applet-plugin.so

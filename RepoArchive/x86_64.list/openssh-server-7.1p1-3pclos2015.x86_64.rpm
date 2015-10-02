@@ -1,0 +1,17 @@
+/etc/avahi/services/openssh.service
+/etc/pam.d/sshd
+/etc/rc.d/init.d/sshd
+/etc/ssh/denyusers
+/etc/ssh/moduli
+/etc/ssh/sshd_config
+/etc/sysconfig/sshd
+/etc/xinetd.d/sshd-xinetd
+/usr/lib64/ssh
+/usr/lib64/ssh/sftp-server
+/usr/sbin/sshd
+/usr/sbin/sshd-keygen
+/usr/share/man/man5/moduli.5.bz2
+/usr/share/man/man5/sshd_config.5.bz2
+/usr/share/man/man8/sftp-server.8.bz2
+/usr/share/man/man8/sshd.8.bz2
+/var/empty

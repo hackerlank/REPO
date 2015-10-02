@@ -1,0 +1,8 @@
+/usr/bin/streamripper-gui
+/usr/share/applications/streamripper-gui.desktop
+/usr/share/locale/bg/LC_MESSAGES/streamripper-gui.mo
+/usr/share/locale/en/LC_MESSAGES/streamripper-gui.mo
+/usr/share/streamripper-gui
+/usr/share/streamripper-gui/streamripper-gui.glade
+/usr/share/streamripper-gui/streamripper-gui.py
+/usr/share/streamripper-gui/subprocess.py

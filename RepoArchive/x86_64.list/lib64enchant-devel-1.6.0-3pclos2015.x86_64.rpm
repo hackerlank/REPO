@@ -1,0 +1,12 @@
+/usr/include/enchant
+/usr/include/enchant/enchant++.h
+/usr/include/enchant/enchant-provider.h
+/usr/include/enchant/enchant.h
+/usr/lib64/enchant/libenchant_aspell.a
+/usr/lib64/enchant/libenchant_hspell.a
+/usr/lib64/enchant/libenchant_ispell.a
+/usr/lib64/enchant/libenchant_myspell.a
+/usr/lib64/enchant/libenchant_voikko.a
+/usr/lib64/libenchant.a
+/usr/lib64/libenchant.so
+/usr/lib64/pkgconfig/enchant.pc

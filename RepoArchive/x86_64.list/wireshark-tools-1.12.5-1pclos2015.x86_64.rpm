@@ -1,0 +1,15 @@
+/usr/bin/capinfos
+/usr/bin/captype
+/usr/bin/dftest
+/usr/bin/editcap
+/usr/bin/idl2wrs
+/usr/bin/mergecap
+/usr/bin/randpkt
+/usr/bin/rawshark
+/usr/bin/text2pcap
+/usr/share/man/man1/capinfos.1.bz2
+/usr/share/man/man1/editcap.1.bz2
+/usr/share/man/man1/idl2wrs.1.bz2
+/usr/share/man/man1/mergecap.1.bz2
+/usr/share/man/man1/rawshark.1.bz2
+/usr/share/man/man1/text2pcap.1.bz2

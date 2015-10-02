@@ -1,0 +1,7 @@
+/usr/bin/ociobakelut
+/usr/bin/ociocheck
+/usr/bin/ocioconvert
+/usr/bin/ociodisplay
+/usr/bin/ociolutimage
+/usr/share/ocio
+/usr/share/ocio/setup_ocio.sh

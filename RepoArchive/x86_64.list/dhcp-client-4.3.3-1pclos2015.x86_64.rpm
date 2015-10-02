@@ -1,0 +1,7 @@
+/sbin/dhclient
+/sbin/dhclient-script
+/usr/share/man/man5/dhclient.conf.5.bz2
+/usr/share/man/man5/dhclient.leases.5.bz2
+/usr/share/man/man8/dhclient-script.8.bz2
+/usr/share/man/man8/dhclient.8.bz2
+/var/lib/dhcp/dhclient.leases

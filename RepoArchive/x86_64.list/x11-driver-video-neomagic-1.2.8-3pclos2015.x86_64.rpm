@@ -1,0 +1,5 @@
+/usr/lib64/xorg/modules/drivers/neomagic_drv.la
+/usr/lib64/xorg/modules/drivers/neomagic_drv.so
+/usr/share/doc/x11-driver-video-neomagic
+/usr/share/doc/x11-driver-video-neomagic/COPYING
+/usr/share/man/man4/neomagic.4.bz2

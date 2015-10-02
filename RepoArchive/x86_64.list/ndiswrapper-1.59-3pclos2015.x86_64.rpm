@@ -1,0 +1,12 @@
+/etc/bash_completion.d/ndiswrapper
+/etc/ndiswrapper
+/etc/pm/config.d/ndiswrapper
+/sbin/loadndisdriver
+/usr/sbin/ndiswrapper
+/usr/sbin/ndiswrapper-buginfo
+/usr/share/doc/ndiswrapper
+/usr/share/doc/ndiswrapper/AUTHORS
+/usr/share/doc/ndiswrapper/ChangeLog
+/usr/share/doc/ndiswrapper/INSTALL
+/usr/share/doc/ndiswrapper/README
+/usr/share/man/man8/ndiswrapper.8.bz2

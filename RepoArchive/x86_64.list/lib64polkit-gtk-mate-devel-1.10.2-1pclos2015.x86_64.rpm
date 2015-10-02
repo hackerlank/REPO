@@ -1,0 +1,8 @@
+/usr/include/polkit-gtk-mate-1
+/usr/include/polkit-gtk-mate-1/polkitgtkmate
+/usr/include/polkit-gtk-mate-1/polkitgtkmate/polkitgtkmate.h
+/usr/include/polkit-gtk-mate-1/polkitgtkmate/polkitgtkmatetypes.h
+/usr/include/polkit-gtk-mate-1/polkitgtkmate/polkitlockbutton.h
+/usr/lib64/libpolkit-gtk-mate-1.so
+/usr/lib64/pkgconfig/polkit-gtk-mate-1.pc
+/usr/share/gir-1.0/PolkitGtkMate-1.0.gir

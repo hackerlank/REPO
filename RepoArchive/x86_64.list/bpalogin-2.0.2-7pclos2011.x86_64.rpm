@@ -1,0 +1,8 @@
+/etc/bpalogin.conf
+/etc/rc.d/init.d/bpalogin
+/usr/sbin/bpalogin
+/usr/share/doc/bpalogin
+/usr/share/doc/bpalogin/COPYING
+/usr/share/doc/bpalogin/CREDITS
+/usr/share/doc/bpalogin/INSTALL
+/usr/share/doc/bpalogin/README

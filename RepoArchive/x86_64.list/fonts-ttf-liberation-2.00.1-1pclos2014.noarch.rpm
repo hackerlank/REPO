@@ -1,0 +1,16 @@
+/etc/X11/fontpath.d/ttf-liberation:pri=50
+/usr/share/fonts/TTF/liberation
+/usr/share/fonts/TTF/liberation/LiberationMono-Bold.ttf
+/usr/share/fonts/TTF/liberation/LiberationMono-BoldItalic.ttf
+/usr/share/fonts/TTF/liberation/LiberationMono-Italic.ttf
+/usr/share/fonts/TTF/liberation/LiberationMono-Regular.ttf
+/usr/share/fonts/TTF/liberation/LiberationSans-Bold.ttf
+/usr/share/fonts/TTF/liberation/LiberationSans-BoldItalic.ttf
+/usr/share/fonts/TTF/liberation/LiberationSans-Italic.ttf
+/usr/share/fonts/TTF/liberation/LiberationSans-Regular.ttf
+/usr/share/fonts/TTF/liberation/LiberationSerif-Bold.ttf
+/usr/share/fonts/TTF/liberation/LiberationSerif-BoldItalic.ttf
+/usr/share/fonts/TTF/liberation/LiberationSerif-Italic.ttf
+/usr/share/fonts/TTF/liberation/LiberationSerif-Regular.ttf
+/usr/share/fonts/TTF/liberation/fonts.dir
+/usr/share/fonts/TTF/liberation/fonts.scale

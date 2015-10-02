@@ -1,0 +1,10 @@
+/usr/include/kate
+/usr/include/kate/application.h
+/usr/include/kate/documentmanager.h
+/usr/include/kate/mainwindow.h
+/usr/include/kate/plugin.h
+/usr/include/kate/pluginconfigpageinterface.h
+/usr/include/kate/pluginmanager.h
+/usr/include/kate_export.h
+/usr/lib64/kde4/devel/libkateinterfaces.so
+/usr/lib64/kde4/devel/libkatepartinterfaces.so

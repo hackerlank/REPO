@@ -1,0 +1,15 @@
+/usr/lib/perl5/vendor_perl/5.12.3/Convert/ASN1
+/usr/lib/perl5/vendor_perl/5.12.3/Convert/ASN1.pm
+/usr/lib/perl5/vendor_perl/5.12.3/Convert/ASN1.pod
+/usr/lib/perl5/vendor_perl/5.12.3/Convert/ASN1/Debug.pm
+/usr/lib/perl5/vendor_perl/5.12.3/Convert/ASN1/IO.pm
+/usr/lib/perl5/vendor_perl/5.12.3/Convert/ASN1/_decode.pm
+/usr/lib/perl5/vendor_perl/5.12.3/Convert/ASN1/_encode.pm
+/usr/lib/perl5/vendor_perl/5.12.3/Convert/ASN1/parser.pm
+/usr/share/doc/perl-Convert-ASN1
+/usr/share/doc/perl-Convert-ASN1/ChangeLog
+/usr/share/doc/perl-Convert-ASN1/README
+/usr/share/doc/perl-Convert-ASN1/ldap
+/usr/share/doc/perl-Convert-ASN1/ldap-search
+/usr/share/doc/perl-Convert-ASN1/x509decode
+/usr/share/man/man3/Convert::ASN1.3pm.bz2

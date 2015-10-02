@@ -1,0 +1,4 @@
+/usr/include/jemalloc
+/usr/include/jemalloc/jemalloc.h
+/usr/lib64/libjemalloc.so
+/usr/share/man/man3/jemalloc.3.bz2

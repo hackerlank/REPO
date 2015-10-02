@@ -1,0 +1,12 @@
+/usr/include/enet
+/usr/include/enet/callbacks.h
+/usr/include/enet/enet.h
+/usr/include/enet/list.h
+/usr/include/enet/protocol.h
+/usr/include/enet/time.h
+/usr/include/enet/types.h
+/usr/include/enet/unix.h
+/usr/include/enet/utility.h
+/usr/include/enet/win32.h
+/usr/lib64/libenet.so
+/usr/lib64/pkgconfig/libenet.pc

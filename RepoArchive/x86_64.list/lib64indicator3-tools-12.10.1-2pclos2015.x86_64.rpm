@@ -1,0 +1,8 @@
+/usr/lib64/indicator-loader
+/usr/lib64/indicator-loader3
+/usr/lib64/libdummy-indicator-blank.so
+/usr/lib64/libdummy-indicator-entry-func.so
+/usr/lib64/libdummy-indicator-null.so
+/usr/lib64/libdummy-indicator-signaler.so
+/usr/lib64/libdummy-indicator-simple.so
+/usr/lib64/libdummy-indicator-visible.so

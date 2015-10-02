@@ -1,0 +1,5 @@
+/usr/bin/libevdev-tweak-device
+/usr/bin/mouse-dpi-tool
+/usr/bin/touchpad-edge-detector
+/usr/lib64/libevdev.so.2
+/usr/lib64/libevdev.so.2.1.8

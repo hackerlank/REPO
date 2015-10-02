@@ -1,0 +1,14 @@
+/sbin/lilo
+/usr/bin/keytab-lilo
+/usr/bin/lilo-uuid-diskid
+/usr/bin/liloconfig
+/usr/bin/mkrescue
+/usr/share/doc/lilo
+/usr/share/doc/lilo/COPYING
+/usr/share/doc/lilo/README.bz2
+/usr/share/man/man5/lilo.conf.5.bz2
+/usr/share/man/man8/keytab-lilo.8.bz2
+/usr/share/man/man8/lilo-uuid-diskid.8.bz2
+/usr/share/man/man8/lilo.8.bz2
+/usr/share/man/man8/liloconfig.8.bz2
+/usr/share/man/man8/mkrescue.8.bz2

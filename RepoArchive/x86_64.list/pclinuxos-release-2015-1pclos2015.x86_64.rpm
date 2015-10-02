@@ -1,0 +1,16 @@
+/etc/mandrake-release
+/etc/mandrakelinux-release
+/etc/mandriva-release
+/etc/pclinuxos-release
+/etc/product.id
+/etc/profile.d/10pclinuxos-release.csh
+/etc/profile.d/10pclinuxos-release.sh
+/etc/redhat-release
+/etc/release
+/etc/rpm/macros.d/mandriva-release.macros
+/etc/rpm/macros.d/pclinuxos-release.macros
+/etc/sysconfig/system
+/etc/version
+/usr/share/doc/pclinuxos-release
+/usr/share/doc/pclinuxos-release/CREDITS
+/usr/share/doc/pclinuxos-release/release-notes.txt

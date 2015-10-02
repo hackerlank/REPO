@@ -1,0 +1,11 @@
+/usr/bin/unionctl
+/usr/bin/uniondbg
+/usr/bin/unionimap
+/usr/share/doc/unionfs-utils
+/usr/share/doc/unionfs-utils/AUTHORS
+/usr/share/doc/unionfs-utils/ChangeLog
+/usr/share/doc/unionfs-utils/NEWS
+/usr/share/doc/unionfs-utils/README
+/usr/share/man/man8/unionctl.8.bz2
+/usr/share/man/man8/uniondbg.8.bz2
+/usr/share/man/man8/unionimap.8.bz2

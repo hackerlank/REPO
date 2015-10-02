@@ -1,0 +1,13 @@
+/etc/portreserve
+/etc/rc.d/init.d/portreserve
+/sbin/portrelease
+/sbin/portreserve
+/usr/share/doc/portreserve
+/usr/share/doc/portreserve/AUTHORS
+/usr/share/doc/portreserve/COPYING
+/usr/share/doc/portreserve/ChangeLog
+/usr/share/doc/portreserve/NEWS
+/usr/share/doc/portreserve/README
+/usr/share/man/man1/portrelease.1.bz2
+/usr/share/man/man1/portreserve.1.bz2
+/var/lib/portreserve

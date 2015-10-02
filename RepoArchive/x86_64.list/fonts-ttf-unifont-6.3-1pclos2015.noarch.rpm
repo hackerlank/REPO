@@ -1,0 +1,6 @@
+/etc/X11/fontpath.d/ttf-unifont:pri=50
+/usr/share/fonts/TTF/unifont
+/usr/share/fonts/TTF/unifont/fonts.dir
+/usr/share/fonts/TTF/unifont/fonts.scale
+/usr/share/fonts/TTF/unifont/unifont-6.3.20131006.ttf
+/usr/share/fonts/TTF/unifont/unifont.ttf

@@ -1,0 +1,16 @@
+/usr/include/libkomparediff2
+/usr/include/libkomparediff2/diff2export.h
+/usr/include/libkomparediff2/difference.h
+/usr/include/libkomparediff2/diffhunk.h
+/usr/include/libkomparediff2/diffmodel.h
+/usr/include/libkomparediff2/diffmodellist.h
+/usr/include/libkomparediff2/diffsettings.h
+/usr/include/libkomparediff2/kompare.h
+/usr/include/libkomparediff2/komparemodellist.h
+/usr/include/libkomparediff2/marker.h
+/usr/include/libkomparediff2/settingsbase.h
+/usr/lib64/cmake/libkomparediff2
+/usr/lib64/cmake/libkomparediff2/LibKompareDiff2Config.cmake
+/usr/lib64/cmake/libkomparediff2/LibKompareDiff2Targets-release.cmake
+/usr/lib64/cmake/libkomparediff2/LibKompareDiff2Targets.cmake
+/usr/lib64/libkomparediff2.so

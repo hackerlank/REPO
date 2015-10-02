@@ -1,0 +1,4 @@
+/etc/rpm/macros.d
+/etc/rpm/macros.d/10rambo.macros
+/usr/lib/rpm/rambo
+/usr/lib/rpm/rambo/rpmrc

@@ -1,0 +1,3 @@
+/etc/X11/xsetup.d/40finish-install.xsetup
+/etc/sysconfig/finish-install
+/usr/sbin/finish-install

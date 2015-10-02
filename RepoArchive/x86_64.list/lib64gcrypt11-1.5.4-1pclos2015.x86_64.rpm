@@ -1,0 +1,15 @@
+/usr/bin/dumpsexp
+/usr/bin/gcryptrnd
+/usr/bin/getrandom
+/usr/bin/hmac256
+/usr/bin/libgcrypt-config
+/usr/bin/multiarch-x86_64-linux
+/usr/bin/multiarch-x86_64-linux/gcryptrnd
+/usr/lib64/libgcrypt.so.11
+/usr/lib64/libgcrypt.so.11.8.3
+/usr/share/doc/lib64gcrypt11
+/usr/share/doc/lib64gcrypt11/AUTHORS
+/usr/share/doc/lib64gcrypt11/NEWS
+/usr/share/doc/lib64gcrypt11/README
+/usr/share/doc/lib64gcrypt11/THANKS
+/usr/share/doc/lib64gcrypt11/TODO

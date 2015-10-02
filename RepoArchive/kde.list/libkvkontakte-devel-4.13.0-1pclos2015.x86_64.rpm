@@ -1,0 +1,6 @@
+/usr/lib64/cmake/LibKVkontakte
+/usr/lib64/cmake/LibKVkontakte/LibKVkontakteConfig.cmake
+/usr/lib64/cmake/LibKVkontakte/LibKVkontakteConfigVersion.cmake
+/usr/lib64/cmake/LibKVkontakte/LibKVkontakteTargets-release.cmake
+/usr/lib64/cmake/LibKVkontakte/LibKVkontakteTargets.cmake
+/usr/lib64/libkvkontakte.so

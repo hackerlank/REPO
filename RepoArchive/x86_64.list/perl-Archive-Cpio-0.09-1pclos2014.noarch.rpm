@@ -1,0 +1,14 @@
+/usr/bin/cpio-filter
+/usr/lib/perl5/vendor_perl/5.12.3/Archive/Cpio
+/usr/lib/perl5/vendor_perl/5.12.3/Archive/Cpio.pm
+/usr/lib/perl5/vendor_perl/5.12.3/Archive/Cpio/Common.pm
+/usr/lib/perl5/vendor_perl/5.12.3/Archive/Cpio/File.pm
+/usr/lib/perl5/vendor_perl/5.12.3/Archive/Cpio/FileHandle_with_pushback.pm
+/usr/lib/perl5/vendor_perl/5.12.3/Archive/Cpio/NewAscii.pm
+/usr/lib/perl5/vendor_perl/5.12.3/Archive/Cpio/ODC.pm
+/usr/lib/perl5/vendor_perl/5.12.3/Archive/Cpio/OldBinary.pm
+/usr/share/doc/perl-Archive-Cpio
+/usr/share/doc/perl-Archive-Cpio/Changes
+/usr/share/doc/perl-Archive-Cpio/META.yml
+/usr/share/man/man1/cpio-filter.1.bz2
+/usr/share/man/man3/Archive::Cpio.3pm.bz2

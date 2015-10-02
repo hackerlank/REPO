@@ -1,0 +1,13 @@
+/lib/udev/rules.d/10-dm.rules
+/lib/udev/rules.d/13-dm-disk.rules
+/lib/udev/rules.d/95-dm-notify.rules
+/sbin/dmeventd
+/sbin/dmsetup
+/sbin/dmsetup-static
+/sbin/dmsetup.static
+/usr/share/doc/dmsetup
+/usr/share/doc/dmsetup/INSTALL
+/usr/share/doc/dmsetup/README
+/usr/share/doc/dmsetup/VERSION_DM
+/usr/share/doc/dmsetup/WHATS_NEW_DM
+/usr/share/man/man8/dmsetup.8.bz2

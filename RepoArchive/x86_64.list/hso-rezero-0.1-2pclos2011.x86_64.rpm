@@ -1,0 +1,2 @@
+/etc/udev/rules.d/49_hso-udev.rules
+/usr/sbin/rezero

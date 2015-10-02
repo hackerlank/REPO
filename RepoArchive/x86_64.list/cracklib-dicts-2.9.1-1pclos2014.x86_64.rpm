@@ -1,0 +1,16 @@
+/usr/lib64/cracklib_dict.hwm
+/usr/lib64/cracklib_dict.pwd
+/usr/lib64/cracklib_dict.pwi
+/usr/sbin/cracklib-check
+/usr/sbin/cracklib-format
+/usr/sbin/cracklib-packer
+/usr/sbin/cracklib-unpacker
+/usr/sbin/create-cracklib-dict
+/usr/sbin/mkdict
+/usr/sbin/packer
+/usr/share/cracklib
+/usr/share/cracklib/cracklib-small
+/usr/share/cracklib/cracklib.magic
+/usr/share/cracklib/pw_dict.hwm
+/usr/share/cracklib/pw_dict.pwd
+/usr/share/cracklib/pw_dict.pwi

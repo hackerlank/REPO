@@ -1,0 +1,16 @@
+/usr/lib/perl5/vendor_perl/5.12.3/ExtUtils
+/usr/lib/perl5/vendor_perl/5.12.3/ExtUtils/CBuilder
+/usr/lib/perl5/vendor_perl/5.12.3/ExtUtils/CBuilder.pm
+/usr/lib/perl5/vendor_perl/5.12.3/ExtUtils/CBuilder/Base.pm
+/usr/lib/perl5/vendor_perl/5.12.3/ExtUtils/CBuilder/Platform
+/usr/lib/perl5/vendor_perl/5.12.3/ExtUtils/CBuilder/Platform/Unix.pm
+/usr/lib/perl5/vendor_perl/5.12.3/ExtUtils/CBuilder/Platform/VMS.pm
+/usr/lib/perl5/vendor_perl/5.12.3/ExtUtils/CBuilder/Platform/Windows.pm
+/usr/lib/perl5/vendor_perl/5.12.3/ExtUtils/CBuilder/Platform/aix.pm
+/usr/lib/perl5/vendor_perl/5.12.3/ExtUtils/CBuilder/Platform/cygwin.pm
+/usr/lib/perl5/vendor_perl/5.12.3/ExtUtils/CBuilder/Platform/darwin.pm
+/usr/lib/perl5/vendor_perl/5.12.3/ExtUtils/CBuilder/Platform/dec_osf.pm
+/usr/lib/perl5/vendor_perl/5.12.3/ExtUtils/CBuilder/Platform/os2.pm
+/usr/share/doc/perl-ExtUtils-CBuilder
+/usr/share/doc/perl-ExtUtils-CBuilder/Changes
+/usr/share/doc/perl-ExtUtils-CBuilder/INSTALL

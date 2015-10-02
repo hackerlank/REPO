@@ -1,0 +1,6 @@
+/etc/rpm/macros.d/sip.macros
+/usr/bin/sip
+/usr/include/python2.7/sip.h
+/usr/lib64/python2.7/site-packages/sip.so
+/usr/lib64/python2.7/site-packages/sipconfig.py
+/usr/lib64/python2.7/site-packages/sipdistutils.py

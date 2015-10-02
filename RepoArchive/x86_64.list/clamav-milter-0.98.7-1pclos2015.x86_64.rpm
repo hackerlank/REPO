@@ -1,0 +1,8 @@
+/etc/clamav-milter.conf
+/etc/logrotate.d/clamav-milter
+/etc/rc.d/init.d/clamav-milter
+/etc/sysconfig/clamav-milter
+/usr/sbin/clamav-milter
+/usr/share/man/man5/clamav-milter.conf.5.bz2
+/usr/share/man/man8/clamav-milter.8.bz2
+/var/log/clamav/clamav-milter.log

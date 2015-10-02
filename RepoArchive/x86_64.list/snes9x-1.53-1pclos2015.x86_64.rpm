@@ -1,0 +1,17 @@
+/usr/bin/snes9x
+/usr/bin/snes9x-gtk
+/usr/share/applications/snes9x.desktop
+/usr/share/doc/snes9x
+/usr/share/doc/snes9x/LICENSE
+/usr/share/doc/snes9x/README
+/usr/share/doc/snes9x/lgpl.txt
+/usr/share/doc/snes9x/readme_unix.html
+/usr/share/icons/hicolor/16x16/apps/snes9x.png
+/usr/share/icons/hicolor/24x24/apps/snes9x.png
+/usr/share/icons/hicolor/32x32/apps/snes9x.png
+/usr/share/icons/hicolor/scalable/apps/snes9x.svg
+/usr/share/locale/es_VE/LC_MESSAGES/snes9x-gtk.mo
+/usr/share/locale/fr_FR/LC_MESSAGES/snes9x-gtk.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/snes9x-gtk.mo
+/usr/share/locale/ru/LC_MESSAGES/snes9x-gtk.mo
+/usr/share/locale/sr@latin/LC_MESSAGES/snes9x-gtk.mo

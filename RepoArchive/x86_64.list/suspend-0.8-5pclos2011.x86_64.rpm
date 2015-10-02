@@ -1,0 +1,6 @@
+/etc/suspend.conf
+/usr/lib64/suspend/resume
+/usr/sbin/resume
+/usr/sbin/s2both
+/usr/sbin/s2disk
+/usr/sbin/swap-offset

@@ -1,0 +1,17 @@
+/usr/lib64/libkface.so.3
+/usr/lib64/libkface.so.3.0.0
+/usr/share/apps/libkface
+/usr/share/apps/libkface/alignment-congealing
+/usr/share/apps/libkface/alignment-congealing/face-funnel.data
+/usr/share/apps/libkface/database
+/usr/share/apps/libkface/database/dbconfig.xml
+/usr/share/apps/libkface/haarcascades
+/usr/share/apps/libkface/haarcascades/haarcascade_frontalface_alt.xml
+/usr/share/apps/libkface/haarcascades/haarcascade_frontalface_alt2.xml
+/usr/share/apps/libkface/haarcascades/haarcascade_frontalface_alt_tree.xml
+/usr/share/apps/libkface/haarcascades/haarcascade_frontalface_default.xml
+/usr/share/apps/libkface/haarcascades/haarcascade_mcs_lefteye.xml
+/usr/share/apps/libkface/haarcascades/haarcascade_mcs_mouth.xml
+/usr/share/apps/libkface/haarcascades/haarcascade_mcs_nose.xml
+/usr/share/apps/libkface/haarcascades/haarcascade_mcs_righteye.xml
+/usr/share/apps/libkface/haarcascades/haarcascade_profileface.xml

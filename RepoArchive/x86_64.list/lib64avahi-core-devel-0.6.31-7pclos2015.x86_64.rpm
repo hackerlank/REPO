@@ -1,0 +1,8 @@
+/usr/include/avahi-core
+/usr/include/avahi-core/core.h
+/usr/include/avahi-core/log.h
+/usr/include/avahi-core/lookup.h
+/usr/include/avahi-core/publish.h
+/usr/include/avahi-core/rr.h
+/usr/lib64/libavahi-core.so
+/usr/lib64/pkgconfig/avahi-core.pc

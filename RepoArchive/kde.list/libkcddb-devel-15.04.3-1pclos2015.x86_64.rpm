@@ -1,0 +1,14 @@
+/usr/include/libkcddb
+/usr/include/libkcddb/cdinfo.h
+/usr/include/libkcddb/cdinfodialog.h
+/usr/include/libkcddb/client.h
+/usr/include/libkcddb/configbase.h
+/usr/include/libkcddb/genres.h
+/usr/include/libkcddb/kcddb.h
+/usr/include/libkcddb/kcddb_export.h
+/usr/include/libkcddb/kcddbconfig.h
+/usr/lib64/cmake/libkcddb
+/usr/lib64/cmake/libkcddb/LibkcddbConfig.cmake
+/usr/lib64/cmake/libkcddb/LibkcddbTargets-release.cmake
+/usr/lib64/cmake/libkcddb/LibkcddbTargets.cmake
+/usr/lib64/libkcddb.so

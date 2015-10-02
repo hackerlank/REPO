@@ -1,0 +1,5 @@
+/usr/include/avahi-glib
+/usr/include/avahi-glib/glib-malloc.h
+/usr/include/avahi-glib/glib-watch.h
+/usr/lib64/libavahi-glib.so
+/usr/lib64/pkgconfig/avahi-glib.pc

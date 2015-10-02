@@ -1,0 +1,8 @@
+/etc/X11/xorg.conf.d/50-wacom.conf
+/lib/udev/rules.d/65-xorg-wacom.rules
+/usr/bin/isdv4-serial-debugger
+/usr/bin/xsetwacom
+/usr/lib64/xorg/modules/input/wacom_drv.la
+/usr/lib64/xorg/modules/input/wacom_drv.so
+/usr/share/man/man1/xsetwacom.1.bz2
+/usr/share/man/man4/wacom.4.bz2

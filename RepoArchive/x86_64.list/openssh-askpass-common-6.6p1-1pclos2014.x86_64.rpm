@@ -1,0 +1,2 @@
+/etc/profile.d/90ssh-askpass.csh
+/etc/profile.d/90ssh-askpass.sh

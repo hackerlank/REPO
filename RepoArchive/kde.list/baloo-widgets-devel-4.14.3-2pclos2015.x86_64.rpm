@@ -1,0 +1,10 @@
+/usr/include/baloo/filemetadataconfigwidget.h
+/usr/include/baloo/filemetadatawidget.h
+/usr/include/baloo/tagwidget.h
+/usr/include/baloo/widgets_export.h
+/usr/lib64/cmake/BalooWidgets
+/usr/lib64/cmake/BalooWidgets/BalooWidgetsConfig.cmake
+/usr/lib64/cmake/BalooWidgets/BalooWidgetsConfigVersion.cmake
+/usr/lib64/cmake/BalooWidgets/BalooWidgetsTargetsWithPrefix-release.cmake
+/usr/lib64/cmake/BalooWidgets/BalooWidgetsTargetsWithPrefix.cmake
+/usr/lib64/libbaloowidgets.so

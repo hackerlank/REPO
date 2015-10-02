@@ -1,0 +1,9 @@
+/usr/include/comedi.h
+/usr/include/comedi_errno.h
+/usr/include/comedi_iostream.hpp
+/usr/include/comedilib.h
+/usr/include/comedilib.hpp
+/usr/include/comedilib_scxi.h
+/usr/include/comedilib_version.h
+/usr/lib64/libcomedi.so
+/usr/lib64/pkgconfig/comedilib.pc

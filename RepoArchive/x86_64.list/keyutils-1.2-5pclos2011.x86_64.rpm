@@ -1,0 +1,11 @@
+/bin/keyctl
+/etc/request-key.conf
+/sbin/request-key
+/usr/share/doc/keyutils
+/usr/share/doc/keyutils/LICENCE.GPL
+/usr/share/doc/keyutils/LICENCE.LGPL
+/usr/share/doc/keyutils/README
+/usr/share/keyutils/request-key-debug.sh
+/usr/share/man/man1/keyctl.1.bz2
+/usr/share/man/man5/request-key.conf.5.bz2
+/usr/share/man/man8/request-key.8.bz2

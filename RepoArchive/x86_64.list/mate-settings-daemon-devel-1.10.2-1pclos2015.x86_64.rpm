@@ -1,0 +1,4 @@
+/usr/include/mate-settings-daemon
+/usr/include/mate-settings-daemon/mate-settings-client.h
+/usr/include/mate-settings-daemon/mate-settings-plugin.h
+/usr/lib64/pkgconfig/mate-settings-daemon.pc

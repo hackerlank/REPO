@@ -1,0 +1,17 @@
+/usr/bin/niceload
+/usr/bin/parallel
+/usr/bin/sem
+/usr/bin/sql
+/usr/share/doc/parallel
+/usr/share/doc/parallel/NEWS
+/usr/share/doc/parallel/README
+/usr/share/doc/parallel/niceload.html
+/usr/share/doc/parallel/parallel.html
+/usr/share/doc/parallel/sem.html
+/usr/share/doc/parallel/sql.html
+/usr/share/man/man1/niceload.1.bz2
+/usr/share/man/man1/parallel.1.bz2
+/usr/share/man/man1/sem.1.bz2
+/usr/share/man/man1/sql.1.bz2
+/usr/share/man/man7/parallel_design.7.bz2
+/usr/share/man/man7/parallel_tutorial.7.bz2

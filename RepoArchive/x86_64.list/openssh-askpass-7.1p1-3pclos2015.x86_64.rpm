@@ -1,0 +1,13 @@
+/etc/X11/app-defaults/SshAskpass
+/usr/lib64/ssh/x11-ssh-askpass
+/usr/share/doc/openssh-askpass
+/usr/share/doc/openssh-askpass/ChangeLog
+/usr/share/doc/openssh-askpass/README
+/usr/share/doc/openssh-askpass/SshAskpass-1337.ad
+/usr/share/doc/openssh-askpass/SshAskpass-NeXTish.ad
+/usr/share/doc/openssh-askpass/SshAskpass-default.ad
+/usr/share/doc/openssh-askpass/SshAskpass-green.ad
+/usr/share/doc/openssh-askpass/SshAskpass-motif.ad
+/usr/share/doc/openssh-askpass/SshAskpass.ad
+/usr/share/doc/openssh-askpass/x11-ssh-askpass.1.html
+/usr/share/man/man1/x11-ssh-askpass.1.bz2

@@ -1,0 +1,4 @@
+/etc/sysconfig/mkinitrd
+/sbin/mkinitrd
+/usr/libexec/initrd-functions
+/usr/share/man/man8/mkinitrd.8.bz2

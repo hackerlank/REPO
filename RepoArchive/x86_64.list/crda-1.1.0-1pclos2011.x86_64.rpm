@@ -1,0 +1,8 @@
+/lib/udev/rules.d/85-regulatory.rules
+/sbin/crda
+/sbin/regdbdump
+/usr/lib/crda
+/usr/share/doc/crda
+/usr/share/doc/crda/LICENSE
+/usr/share/man/man8/crda.8.bz2
+/usr/share/man/man8/regdbdump.8.bz2

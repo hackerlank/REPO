@@ -1,0 +1,10 @@
+/usr/bin/captest
+/usr/bin/filecap
+/usr/bin/netcap
+/usr/bin/pscap
+/usr/share/doc/libcap-ng-utils
+/usr/share/doc/libcap-ng-utils/COPYING
+/usr/share/man/man8/captest.8.bz2
+/usr/share/man/man8/filecap.8.bz2
+/usr/share/man/man8/netcap.8.bz2
+/usr/share/man/man8/pscap.8.bz2

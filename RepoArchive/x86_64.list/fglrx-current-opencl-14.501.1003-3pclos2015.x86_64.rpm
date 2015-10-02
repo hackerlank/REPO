@@ -1,0 +1,9 @@
+/etc/OpenCL
+/etc/OpenCL/vendors
+/etc/OpenCL/vendors/amdocl32.icd
+/etc/OpenCL/vendors/amdocl64.icd
+/usr/bin/clinfo
+/usr/lib/fglrx-current/libOpenCL.so.1
+/usr/lib/fglrx-current/libamdocl32.so
+/usr/lib64/fglrx-current/libOpenCL.so.1
+/usr/lib64/fglrx-current/libamdocl64.so

@@ -1,0 +1,13 @@
+/etc/dbus-1/system.d/org.kde.baloo.filewatch.conf
+/usr/bin/baloo_file
+/usr/bin/baloo_file_cleaner
+/usr/bin/baloo_file_extractor
+/usr/lib64/kde4/baloo_filesearchstore.so
+/usr/lib64/kde4/kcm_baloofile.so
+/usr/lib64/kde4/libexec/kde_baloo_filewatch_raiselimit
+/usr/share/autostart/baloo_file.desktop
+/usr/share/dbus-1/interfaces/org.kde.baloo.file.indexer.xml
+/usr/share/dbus-1/system-services/org.kde.baloo.filewatch.service
+/usr/share/kde4/services/baloo_filesearchstore.desktop
+/usr/share/kde4/services/kcm_baloofile.desktop
+/usr/share/polkit-1/actions/org.kde.baloo.filewatch.policy

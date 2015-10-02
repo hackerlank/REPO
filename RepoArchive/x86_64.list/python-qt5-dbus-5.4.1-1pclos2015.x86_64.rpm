@@ -1,0 +1,17 @@
+/usr/lib64/python2.7/site-packages/PyQt5/QtDBus.so
+/usr/share/sip/PyQt5/QtDBus
+/usr/share/sip/PyQt5/QtDBus/QtDBusmod.sip
+/usr/share/sip/PyQt5/QtDBus/qdbusabstractadaptor.sip
+/usr/share/sip/PyQt5/QtDBus/qdbusabstractinterface.sip
+/usr/share/sip/PyQt5/QtDBus/qdbusargument.sip
+/usr/share/sip/PyQt5/QtDBus/qdbusconnection.sip
+/usr/share/sip/PyQt5/QtDBus/qdbusconnectioninterface.sip
+/usr/share/sip/PyQt5/QtDBus/qdbuserror.sip
+/usr/share/sip/PyQt5/QtDBus/qdbusextratypes.sip
+/usr/share/sip/PyQt5/QtDBus/qdbusinterface.sip
+/usr/share/sip/PyQt5/QtDBus/qdbusmessage.sip
+/usr/share/sip/PyQt5/QtDBus/qdbuspendingcall.sip
+/usr/share/sip/PyQt5/QtDBus/qdbusservicewatcher.sip
+/usr/share/sip/PyQt5/QtDBus/qdbusunixfiledescriptor.sip
+/usr/share/sip/PyQt5/QtDBus/qpydbuspendingreply.sip
+/usr/share/sip/PyQt5/QtDBus/qpydbusreply.sip

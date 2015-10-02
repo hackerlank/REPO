@@ -1,0 +1,6 @@
+/etc/rpm/macros.d/10rambo-build.macros
+/usr/lib/rpm/rambo/drop-ld-no-undefined-for-shared-lib-modules-in-libtool
+/usr/lib/rpm/rambo/fix-dlsearch-path-in-libtool-for-multilib
+/usr/lib/rpm/rambo/fix-libtool-from-moving-options-after-libs
+/usr/lib/rpm/rambo/fix-libtool-ltmain-from-overlinking
+/usr/lib/rpm/rambo/force-as-needed-for-shared-lib-in-libtool

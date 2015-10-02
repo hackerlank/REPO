@@ -1,0 +1,184 @@
+/usr/lib64/kodi/addons/pvr.mediaportal.tvserver
+/usr/lib64/kodi/addons/pvr.mediaportal.tvserver/pvr.mediaportal.tvserver.so
+/usr/lib64/kodi/addons/pvr.mediaportal.tvserver/pvr.mediaportal.tvserver.so.1.10.5
+/usr/lib64/kodi/addons/pvr.mediaportal.tvserver/pvr.mediaportal.tvserver.so.15.1
+/usr/share/kodi/addons/pvr.mediaportal.tvserver
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/LICENSE.txt
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/TVServerXBMC
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/TVServerXBMC/readme.txt
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/addon.xml
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/changelog.txt
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/icon.png
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/genre_translation.xml
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Afrikaans
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Afrikaans/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Albanian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Albanian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Amharic
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Amharic/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Arabic
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Arabic/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Armenian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Armenian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Azerbaijani
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Azerbaijani/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Basque
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Basque/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Belarusian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Belarusian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Bosnian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Bosnian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Bulgarian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Bulgarian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Burmese
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Burmese/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Catalan
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Catalan/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Chinese (Simple)
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Chinese (Simple)/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Chinese (Traditional)
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Chinese (Traditional)/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Croatian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Croatian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Czech
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Czech/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Danish
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Danish/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Dutch
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Dutch/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/English
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/English (Australia)
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/English (Australia)/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/English (New Zealand)
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/English (New Zealand)/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/English (US)
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/English (US)/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/English/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Esperanto
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Esperanto/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Estonian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Estonian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Faroese
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Faroese/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Finnish
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Finnish/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/French
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/French (Canada)
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/French (Canada)/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/French/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Galician
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Galician/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Georgian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Georgian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/German
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/German/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Greek
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Greek/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Hebrew
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Hebrew/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Hindi (Devanagiri)
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Hindi (Devanagiri)/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Hungarian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Hungarian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Icelandic
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Icelandic/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Indonesian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Indonesian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Italian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Italian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Japanese
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Japanese/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Korean
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Korean/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Latvian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Latvian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Lithuanian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Lithuanian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Macedonian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Macedonian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Malay
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Malay/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Maltese
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Maltese/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Maori
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Maori/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Mongolian (Mongolia)
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Mongolian (Mongolia)/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Norwegian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Norwegian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Persian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Persian (Iran)
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Persian (Iran)/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Persian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Polish
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Polish/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Portuguese
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Portuguese (Brazil)
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Portuguese (Brazil)/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Portuguese/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Romanian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Romanian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Russian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Russian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Serbian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Serbian (Cyrillic)
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Serbian (Cyrillic)/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Serbian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Sinhala
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Sinhala/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Slovak
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Slovak/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Slovenian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Slovenian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Spanish
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Spanish (Argentina)
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Spanish (Argentina)/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Spanish (Mexico)
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Spanish (Mexico)/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Spanish/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Swedish
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Swedish/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Tajik
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Tajik/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Tamil (India)
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Tamil (India)/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Telugu
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Telugu/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Thai
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Thai/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Turkish
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Turkish/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Ukrainian
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Ukrainian/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Uzbek
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Uzbek/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Vietnamese
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Vietnamese/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Welsh
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/language/Welsh/strings.po
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/settings.xml
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.ace
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.ace/720p
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.ace/720p/DialogRecordSettings.xml
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.aeon.nox.5
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.aeon.nox.5/1080i
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.aeon.nox.5/1080i/DialogRecordSettings.xml
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.aeonmq5
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.aeonmq5/720p
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.aeonmq5/720p/DialogRecordSettings.xml
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.amber
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.amber/1080i
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.amber/1080i/DialogRecordSettings.xml
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.confluence
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.confluence/720p
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.confluence/720p/DialogRecordSettings.xml
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.confluence/media
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.confluence/media/DialogBack.png
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.confluence/media/dialogheader.png
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.confluence/media/separator2.png
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.transparency
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.transparency/720p
+/usr/share/kodi/addons/pvr.mediaportal.tvserver/resources/skins/skin.transparency/720p/DialogRecordSettings.xml

@@ -1,0 +1,15 @@
+/etc/ppp/options.pptp
+/etc/pptp.d
+/etc/rc.d/init.d/pptp
+/usr/sbin/pptp
+/usr/sbin/pptp-command
+/usr/share/doc/pptp-linux
+/usr/share/doc/pptp-linux/AUTHORS
+/usr/share/doc/pptp-linux/DESIGN.CALLMGR
+/usr/share/doc/pptp-linux/DESIGN.PPTP
+/usr/share/doc/pptp-linux/NEWS
+/usr/share/doc/pptp-linux/PORTING
+/usr/share/doc/pptp-linux/README
+/usr/share/doc/pptp-linux/TODO
+/usr/share/doc/pptp-linux/USING
+/usr/share/man/man8/pptp.8.bz2

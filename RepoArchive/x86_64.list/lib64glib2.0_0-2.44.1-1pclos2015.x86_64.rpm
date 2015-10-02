@@ -1,0 +1,16 @@
+/usr/bin/gio-querymodules-64
+/usr/lib64/gio
+/usr/lib64/gio/modules
+/usr/lib64/gio/modules/giomodule.cache
+/usr/lib64/libgio-2.0.so.0
+/usr/lib64/libgio-2.0.so.0.4400.1
+/usr/lib64/libglib-2.0.so.0
+/usr/lib64/libglib-2.0.so.0.4400.1
+/usr/lib64/libgmodule-2.0.so.0
+/usr/lib64/libgmodule-2.0.so.0.4400.1
+/usr/lib64/libgobject-2.0.so.0
+/usr/lib64/libgobject-2.0.so.0.4400.1
+/usr/lib64/libgthread-2.0.so.0
+/usr/lib64/libgthread-2.0.so.0.4400.1
+/usr/share/doc/lib64glib2.0_0
+/usr/share/doc/lib64glib2.0_0/README

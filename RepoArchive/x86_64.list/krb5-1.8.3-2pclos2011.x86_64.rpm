@@ -1,0 +1,9 @@
+/etc/kerberos
+/etc/krb5.conf
+/usr/lib64/krb5
+/usr/lib64/krb5/plugins
+/usr/share/doc/krb5
+/usr/share/doc/krb5/README
+/usr/share/man/man1/kerberos.1.bz2
+/usr/share/man/man5/.k5login.5.bz2
+/usr/share/man/man5/krb5.conf.5.bz2

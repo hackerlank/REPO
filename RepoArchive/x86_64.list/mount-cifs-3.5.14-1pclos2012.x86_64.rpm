@@ -1,0 +1,9 @@
+/bin/cifs.upcall3
+/bin/mount.cifs3
+/bin/umount.cifs3
+/sbin/cifs.upcall3
+/sbin/mount.cifs3
+/sbin/umount.cifs3
+/usr/share/man/man8/cifs.upcall3.8.bz2
+/usr/share/man/man8/mount.cifs3.8.bz2
+/usr/share/man/man8/umount.cifs3.8.bz2

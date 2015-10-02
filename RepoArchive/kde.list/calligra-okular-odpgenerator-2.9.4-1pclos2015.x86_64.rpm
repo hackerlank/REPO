@@ -1,0 +1,14 @@
+/usr/lib64/kde4/okularGenerator_odp.so
+/usr/lib64/kde4/okularGenerator_odt.so
+/usr/share/applications/kde4/okularApplication_doc_calligra.desktop
+/usr/share/applications/kde4/okularApplication_docx_calligra.desktop
+/usr/share/applications/kde4/okularApplication_odp.desktop
+/usr/share/applications/kde4/okularApplication_odt.desktop
+/usr/share/kde4/services/calligra/libokularGenerator_doc_calligra.desktop
+/usr/share/kde4/services/calligra/libokularGenerator_docx_calligra.desktop
+/usr/share/kde4/services/calligra/okularDoc_calligra.desktop
+/usr/share/kde4/services/calligra/okularDocx_calligra.desktop
+/usr/share/kde4/services/libokularGenerator_odp.desktop
+/usr/share/kde4/services/libokularGenerator_odt.desktop
+/usr/share/kde4/services/okularOdp.desktop
+/usr/share/kde4/services/okularOdt.desktop

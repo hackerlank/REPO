@@ -1,0 +1,5 @@
+/usr/lib64/xorg/modules/input/aiptek_drv.la
+/usr/lib64/xorg/modules/input/aiptek_drv.so
+/usr/share/doc/x11-driver-input-aiptek
+/usr/share/doc/x11-driver-input-aiptek/COPYING
+/usr/share/man/man4/aiptek.4.bz2

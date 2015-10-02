@@ -1,0 +1,10 @@
+/etc/X11/xsetup.d/00notify-x11-free-driver-switch.xsetup
+/etc/sysconfig/harddrake2
+/etc/sysconfig/harddrake2/kernel
+/etc/sysconfig/harddrake2/previous_hw
+/etc/sysconfig/harddrake2/service.conf
+/usr/share/harddrake
+/usr/share/harddrake/confirm
+/usr/share/harddrake/convert
+/usr/share/harddrake/notify-x11-free-driver-switch
+/usr/share/harddrake/service_harddrake

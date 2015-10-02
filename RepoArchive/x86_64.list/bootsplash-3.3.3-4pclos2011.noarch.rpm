@@ -1,0 +1,12 @@
+/etc/sysconfig/bootsplash
+/sbin/splash.sh
+/usr/share/bootsplash
+/usr/share/bootsplash/scripts
+/usr/share/bootsplash/scripts/make-boot-splash
+/usr/share/bootsplash/scripts/make-boot-splash-raw
+/usr/share/bootsplash/scripts/remove-boot-splash
+/usr/share/bootsplash/scripts/remove-theme
+/usr/share/bootsplash/scripts/switch-themes
+/usr/share/doc/bootsplash
+/usr/share/doc/bootsplash/ChangeLog
+/usr/share/doc/bootsplash/README

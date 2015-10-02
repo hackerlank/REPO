@@ -1,0 +1,9 @@
+/usr/include/kmediafactory
+/usr/include/kmediafactory/job.h
+/usr/include/kmediafactory/kmediafactory.h
+/usr/include/kmediafactory/object.h
+/usr/include/kmediafactory/plugin.h
+/usr/include/kmediafactory/plugininterface.h
+/usr/lib64/libkmediafactoryinterfaces.so
+/usr/lib64/libkmediafactorykstore.so
+/usr/lib64/libkmf.so

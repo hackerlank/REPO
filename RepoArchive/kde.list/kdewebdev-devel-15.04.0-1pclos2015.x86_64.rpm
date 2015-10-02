@@ -1,0 +1,9 @@
+/usr/include/kommandercore_export.h
+/usr/include/kommanderplugin.h
+/usr/include/kommanderwidget.h
+/usr/include/specials.h
+/usr/lib64/libklinkstatuscommon.so
+/usr/lib64/libkommandercore.so
+/usr/lib64/libkommanderwidgets.so
+/usr/share/dbus-1/interfaces/org.kde.kdewebdev.klinkstatus.SearchManager.xml
+/usr/share/dbus-1/interfaces/org.kde.kfilereplace.xml

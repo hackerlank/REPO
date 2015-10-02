@@ -1,0 +1,10 @@
+/usr/lib64/xf86-input-evtouch
+/usr/lib64/xf86-input-evtouch/calibrate.sh
+/usr/lib64/xf86-input-evtouch/ev_calibrate
+/usr/lib64/xorg/modules/input/evtouch_drv.la
+/usr/lib64/xorg/modules/input/evtouch_drv.so
+/usr/share/doc/x11-driver-input-evtouch
+/usr/share/doc/x11-driver-input-evtouch/README
+/usr/share/doc/x11-driver-input-evtouch/README.calibration
+/usr/share/xf86-input-evtouch
+/usr/share/xf86-input-evtouch/empty_cursor.xbm

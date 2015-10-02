@@ -1,0 +1,13 @@
+/etc/apparmor.d/sbin.rpcbind
+/etc/rc.d/init.d/rpcbind
+/etc/sysconfig/rpcbind
+/sbin/rpcbind
+/sbin/rpcinfo
+/usr/share/doc/rpcbind
+/usr/share/doc/rpcbind/AUTHORS
+/usr/share/doc/rpcbind/ChangeLog
+/usr/share/doc/rpcbind/README
+/usr/share/doc/rpcbind/README.urpmi
+/usr/share/man/man8/rpcbind-rpcinfo.8.bz2
+/usr/share/man/man8/rpcbind.8.bz2
+/var/lib/rpcbind

@@ -1,0 +1,13 @@
+/usr/lib64/libevent.so.5
+/usr/lib64/libevent.so.5.1.9
+/usr/lib64/libevent_core.so.5
+/usr/lib64/libevent_core.so.5.1.9
+/usr/lib64/libevent_extra.so.5
+/usr/lib64/libevent_extra.so.5.1.9
+/usr/lib64/libevent_openssl.so.5
+/usr/lib64/libevent_openssl.so.5.1.9
+/usr/lib64/libevent_pthreads.so.5
+/usr/lib64/libevent_pthreads.so.5.1.9
+/usr/share/doc/lib64event5
+/usr/share/doc/lib64event5/README
+/usr/share/doc/lib64event5/event_rpcgen.py

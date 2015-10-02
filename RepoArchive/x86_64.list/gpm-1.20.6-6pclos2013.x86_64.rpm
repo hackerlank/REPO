@@ -1,0 +1,15 @@
+/etc/gpm-root.conf
+/etc/rc.d/init.d/gpm
+/usr/bin/disable-paste
+/usr/bin/gpm-root
+/usr/bin/hltest
+/usr/bin/mev
+/usr/bin/mouse-test
+/usr/sbin/gpm
+/usr/sbin/inputattach
+/usr/share/info/gpm.info.bz2
+/usr/share/man/man1/gpm-root.1.bz2
+/usr/share/man/man1/mev.1.bz2
+/usr/share/man/man1/mouse-test.1.bz2
+/usr/share/man/man7/gpm-types.7.bz2
+/usr/share/man/man8/gpm.8.bz2

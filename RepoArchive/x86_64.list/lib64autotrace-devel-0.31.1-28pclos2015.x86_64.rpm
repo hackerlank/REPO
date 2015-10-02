@@ -1,0 +1,13 @@
+/usr/bin/autotrace-config
+/usr/bin/multiarch-x86_64-linux/autotrace-config
+/usr/include/autotrace
+/usr/include/autotrace/autotrace.h
+/usr/include/autotrace/exception.h
+/usr/include/autotrace/input.h
+/usr/include/autotrace/output.h
+/usr/include/autotrace/types.h
+/usr/lib64/libautotrace.so
+/usr/lib64/pkgconfig/autotrace.pc
+/usr/share/aclocal/autotrace.m4
+/usr/share/doc/lib64autotrace-devel
+/usr/share/doc/lib64autotrace-devel/README

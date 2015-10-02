@@ -1,0 +1,9 @@
+/lib64/bdevid
+/lib64/bdevid/ata.so
+/lib64/bdevid/scsi.so
+/lib64/bdevid/usb.so
+/sbin/lsinitrd
+/sbin/nash
+/usr/lib64/libbdevid.so.6.0.93
+/usr/lib64/libnash.so.6.0.93
+/usr/share/man/man8/nash.8.bz2

@@ -1,0 +1,15 @@
+/usr/lib64/cmake/Qt5QuickWidgets
+/usr/lib64/cmake/Qt5QuickWidgets/Qt5QuickWidgetsConfig.cmake
+/usr/lib64/cmake/Qt5QuickWidgets/Qt5QuickWidgetsConfigVersion.cmake
+/usr/lib64/libQt5QuickWidgets.prl
+/usr/lib64/libQt5QuickWidgets.so
+/usr/lib64/pkgconfig/Qt5QuickWidgets.pc
+/usr/lib64/qt5/include/QtQuickWidgets
+/usr/lib64/qt5/include/QtQuickWidgets/QQuickWidget
+/usr/lib64/qt5/include/QtQuickWidgets/QtQuickWidgets
+/usr/lib64/qt5/include/QtQuickWidgets/QtQuickWidgetsDepends
+/usr/lib64/qt5/include/QtQuickWidgets/QtQuickWidgetsVersion
+/usr/lib64/qt5/include/QtQuickWidgets/qquickwidget.h
+/usr/lib64/qt5/include/QtQuickWidgets/qtquickwidgetsglobal.h
+/usr/lib64/qt5/include/QtQuickWidgets/qtquickwidgetsversion.h
+/usr/lib64/qt5/mkspecs/modules/qt_lib_quickwidgets.pri

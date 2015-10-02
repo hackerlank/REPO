@@ -1,0 +1,10 @@
+/usr/include/xkbcommon/xkbcommon-compat.h
+/usr/include/xkbcommon/xkbcommon-compose.h
+/usr/include/xkbcommon/xkbcommon-keysyms.h
+/usr/include/xkbcommon/xkbcommon-names.h
+/usr/include/xkbcommon/xkbcommon-x11.h
+/usr/include/xkbcommon/xkbcommon.h
+/usr/lib64/libxkbcommon-x11.so
+/usr/lib64/libxkbcommon.so
+/usr/lib64/pkgconfig/xkbcommon-x11.pc
+/usr/lib64/pkgconfig/xkbcommon.pc

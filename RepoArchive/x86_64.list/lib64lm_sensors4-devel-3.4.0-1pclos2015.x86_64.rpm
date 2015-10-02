@@ -1,0 +1,5 @@
+/usr/include/sensors
+/usr/include/sensors/error.h
+/usr/include/sensors/sensors.h
+/usr/lib64/libsensors.so
+/usr/share/man/man3/libsensors.3.bz2

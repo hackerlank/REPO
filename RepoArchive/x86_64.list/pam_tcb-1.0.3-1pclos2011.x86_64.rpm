@@ -1,0 +1,4 @@
+/lib64/security/pam_pwdb.so
+/lib64/security/pam_tcb.so
+/usr/share/man/man8/pam_pwdb.8.bz2
+/usr/share/man/man8/pam_tcb.8.bz2

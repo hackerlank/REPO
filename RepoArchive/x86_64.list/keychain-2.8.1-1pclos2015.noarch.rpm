@@ -1,0 +1,8 @@
+/etc/profile.d/99keychain.csh
+/etc/profile.d/99keychain.sh
+/usr/bin/keychain
+/usr/share/doc/keychain
+/usr/share/doc/keychain/COPYING.txt
+/usr/share/doc/keychain/ChangeLog
+/usr/share/doc/keychain/README.md
+/usr/share/man/man1/keychain.1.bz2

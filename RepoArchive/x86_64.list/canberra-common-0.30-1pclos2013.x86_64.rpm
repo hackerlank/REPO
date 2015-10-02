@@ -1,0 +1,4 @@
+/etc/profile.d/40canberra.sh
+/etc/sound/profiles/alsa/canberra.conf
+/etc/sound/profiles/pulse/canberra.conf
+/usr/bin/canberra-boot

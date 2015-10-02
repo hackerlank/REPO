@@ -1,0 +1,14 @@
+/etc/X11/xinit.d/numlock
+/etc/profile.d/numlock.sh
+/etc/rc.d/init.d/numlock
+/usr/bin/enable_X11_numlock
+/usr/share/man/cs/man1/enable_X11_numlock.1.bz2
+/usr/share/man/et/man1/enable_X11_numlock.1.bz2
+/usr/share/man/eu/man1/enable_X11_numlock.1.bz2
+/usr/share/man/fi/man1/enable_X11_numlock.1.bz2
+/usr/share/man/fr/man1/enable_X11_numlock.1.bz2
+/usr/share/man/it/man1/enable_X11_numlock.1.bz2
+/usr/share/man/man1/enable_X11_numlock.1.bz2
+/usr/share/man/nl/man1/enable_X11_numlock.1.bz2
+/usr/share/man/ru/man1/enable_X11_numlock.1.bz2
+/usr/share/man/uk/man1/enable_X11_numlock.1.bz2

@@ -1,0 +1,7 @@
+/etc/X11/xorg.conf.d/05-glamor.conf
+/etc/ld.so.conf.d/glamor.conf
+/usr/lib64/xorg/modules/libglamoregl.so
+/usr/share/doc/glamor
+/usr/share/doc/glamor/COPYING
+/usr/share/doc/glamor/ChangeLog
+/usr/share/doc/glamor/README

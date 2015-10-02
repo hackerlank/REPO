@@ -1,0 +1,11 @@
+/usr/lib64/qt5/examples/qtpositioning
+/usr/lib64/qt5/examples/qtpositioning/satelliteinfo
+/usr/lib64/qt5/examples/qtpositioning/satelliteinfo/satelliteinfo
+/usr/lib64/qt5/plugins/position
+/usr/lib64/qt5/plugins/position/libqtposition_geoclue.so
+/usr/lib64/qt5/plugins/position/libqtposition_gypsy.so
+/usr/lib64/qt5/plugins/position/libqtposition_positionpoll.so
+/usr/lib64/qt5/qml/QtPositioning
+/usr/lib64/qt5/qml/QtPositioning/libdeclarative_positioning.so
+/usr/lib64/qt5/qml/QtPositioning/plugins.qmltypes
+/usr/lib64/qt5/qml/QtPositioning/qmldir

@@ -1,0 +1,9 @@
+/etc/X11/xinit.d/s2u
+/etc/dbus-1/system.d/s2u.conf
+/etc/sysconfig/network-scripts/hostname.d/s2u
+/usr/bin/s2u
+/usr/share/doc/s2u
+/usr/share/doc/s2u/AUTHORS
+/usr/share/doc/s2u/ChangeLog
+/usr/share/doc/s2u/LICENSE
+/usr/share/doc/s2u/README

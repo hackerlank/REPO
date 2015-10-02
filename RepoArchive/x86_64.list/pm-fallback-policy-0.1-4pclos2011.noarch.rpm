@@ -1,0 +1,4 @@
+/etc/acpi/actions/pm-fallback-shutdown
+/etc/acpi/actions/pm-fallback-suspend
+/etc/acpi/events/power
+/etc/acpi/events/sleep

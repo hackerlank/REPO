@@ -1,0 +1,16 @@
+/usr/include/libkipi
+/usr/include/libkipi/configwidget.h
+/usr/include/libkipi/imagecollection.h
+/usr/include/libkipi/imagecollectionselector.h
+/usr/include/libkipi/imagecollectionshared.h
+/usr/include/libkipi/imageinfo.h
+/usr/include/libkipi/imageinfoshared.h
+/usr/include/libkipi/interface.h
+/usr/include/libkipi/libkipi_export.h
+/usr/include/libkipi/plugin.h
+/usr/include/libkipi/pluginloader.h
+/usr/include/libkipi/uploadwidget.h
+/usr/include/libkipi/version.h
+/usr/lib64/kde4/kipiplugin_kxmlhelloworld.so
+/usr/lib64/libkipi.so
+/usr/lib64/pkgconfig/libkipi.pc

@@ -1,0 +1,9 @@
+/usr/bin/clamav-config
+/usr/bin/multiarch-x86_64-linux/clamav-config
+/usr/include/clamav.h
+/usr/lib64/libclamav.la
+/usr/lib64/libclamav.so
+/usr/lib64/libclamav.so.6
+/usr/lib64/libclamav.so.6.1.26
+/usr/lib64/pkgconfig
+/usr/lib64/pkgconfig/libclamav.pc

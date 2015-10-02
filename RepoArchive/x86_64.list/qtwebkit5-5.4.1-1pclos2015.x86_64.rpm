@@ -1,0 +1,9 @@
+/usr/lib64/qt5/libexec/QtWebPluginProcess
+/usr/lib64/qt5/libexec/QtWebProcess
+/usr/lib64/qt5/qml/QtWebKit
+/usr/lib64/qt5/qml/QtWebKit/experimental
+/usr/lib64/qt5/qml/QtWebKit/experimental/libqmlwebkitexperimentalplugin.so
+/usr/lib64/qt5/qml/QtWebKit/experimental/qmldir
+/usr/lib64/qt5/qml/QtWebKit/libqmlwebkitplugin.so
+/usr/lib64/qt5/qml/QtWebKit/plugins.qmltypes
+/usr/lib64/qt5/qml/QtWebKit/qmldir

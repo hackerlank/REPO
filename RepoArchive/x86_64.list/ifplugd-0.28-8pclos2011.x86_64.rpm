@@ -1,0 +1,14 @@
+/etc/ifplugd
+/etc/ifplugd/ifplugd.action
+/etc/ifplugd/ifplugd.conf
+/sbin/ifplugd
+/sbin/ifplugstatus
+/usr/share/doc/ifplugd
+/usr/share/doc/ifplugd/LICENSE
+/usr/share/doc/ifplugd/NEWS
+/usr/share/doc/ifplugd/README
+/usr/share/doc/ifplugd/README.html
+/usr/share/doc/ifplugd/style.css
+/usr/share/man/man5/ifplugd.conf.5.bz2
+/usr/share/man/man8/ifplugd.8.bz2
+/usr/share/man/man8/ifplugstatus.8.bz2

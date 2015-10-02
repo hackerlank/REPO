@@ -1,0 +1,9 @@
+/usr/lib64/VBoxOGL.so
+/usr/lib64/VBoxOGLarrayspu.so
+/usr/lib64/VBoxOGLcrutil.so
+/usr/lib64/VBoxOGLerrorspu.so
+/usr/lib64/VBoxOGLfeedbackspu.so
+/usr/lib64/VBoxOGLpackspu.so
+/usr/lib64/VBoxOGLpassthroughspu.so
+/usr/lib64/dri/vboxvideo_dri.so
+/usr/lib64/xorg/modules/drivers/vboxvideo_drv.so

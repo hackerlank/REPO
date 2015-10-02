@@ -1,0 +1,471 @@
+/usr/share/themes
+/usr/share/themes/Milk 2.0
+/usr/share/themes/Milk 2.0/LICENSE.txt
+/usr/share/themes/Milk 2.0/LucidaGrande.ttf
+/usr/share/themes/Milk 2.0/gtk-2.0
+/usr/share/themes/Milk 2.0/gtk-2.0/bg_light.png
+/usr/share/themes/Milk 2.0/gtk-2.0/button_flat.png
+/usr/share/themes/Milk 2.0/gtk-2.0/button_insens.png
+/usr/share/themes/Milk 2.0/gtk-2.0/button_normal.png
+/usr/share/themes/Milk 2.0/gtk-2.0/button_pre.png
+/usr/share/themes/Milk 2.0/gtk-2.0/button_prelight.png
+/usr/share/themes/Milk 2.0/gtk-2.0/button_push.png
+/usr/share/themes/Milk 2.0/gtk-2.0/check_in.png
+/usr/share/themes/Milk 2.0/gtk-2.0/check_in_insens.png
+/usr/share/themes/Milk 2.0/gtk-2.0/check_in_push.png
+/usr/share/themes/Milk 2.0/gtk-2.0/check_out.png
+/usr/share/themes/Milk 2.0/gtk-2.0/check_out_insens.png
+/usr/share/themes/Milk 2.0/gtk-2.0/check_out_push.png
+/usr/share/themes/Milk 2.0/gtk-2.0/checklight.png
+/usr/share/themes/Milk 2.0/gtk-2.0/entry.png
+/usr/share/themes/Milk 2.0/gtk-2.0/focus_entry.png
+/usr/share/themes/Milk 2.0/gtk-2.0/greybg.png
+/usr/share/themes/Milk 2.0/gtk-2.0/gtkrc
+/usr/share/themes/Milk 2.0/gtk-2.0/gtkrc~
+/usr/share/themes/Milk 2.0/gtk-2.0/hline.png
+/usr/share/themes/Milk 2.0/gtk-2.0/hline_milk.png
+/usr/share/themes/Milk 2.0/gtk-2.0/horizontal_handle.png
+/usr/share/themes/Milk 2.0/gtk-2.0/horizontal_paned_handle.png
+/usr/share/themes/Milk 2.0/gtk-2.0/horizontal_trough.png
+/usr/share/themes/Milk 2.0/gtk-2.0/horizontal_trough_insens.png
+/usr/share/themes/Milk 2.0/gtk-2.0/hscroll_left.png
+/usr/share/themes/Milk 2.0/gtk-2.0/hscroll_right.png
+/usr/share/themes/Milk 2.0/gtk-2.0/iconrc~
+/usr/share/themes/Milk 2.0/gtk-2.0/icons
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/button_flat.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/button_insens.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/button_normal.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/button_pre.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/button_prelight.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/button_push.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/cdplayer-eject.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/cdplayer-next.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/cdplayer-pause.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/cdplayer-play.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/cdplayer-prev.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/cdplayer-record.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/cdplayer-stop.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-logo.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-about.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-attach.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-book-blue.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-connect.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-disconnect.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-edit.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-empty.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-export.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-gnome-run.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-gnome-searchtool.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-import.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-insert-image.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-insert-object.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-insert-table.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-line-in.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-lockscreen.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-mic.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gnome-stock-volume.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-add.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-apply.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-bold.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-cancel.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-cdrom.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-clear.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-close.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-convert.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-copy.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-cut.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-delete.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-dialog-error.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-dialog-info.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-dialog-question.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-dialog-warning.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-dnd-multiple.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-dnd.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-execute.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-find-and-replace.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-find.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-floppy.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-go-back.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-go-down.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-go-forward.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-go-up.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-goto-bottom.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-goto-first.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-goto-last.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-goto-top.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-help.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-home.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-index.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-italic.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-jump-to.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-justify-center.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-justify-fill.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-justify-left.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-justify-right.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-missing-image.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-new.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-no.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-ok.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-open.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-paste.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-preferences.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-print-preview.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-print.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-properties.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-quit.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-redo.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-refresh.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-remove.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-revert-to-saved.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-save-as.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-save.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-select-color.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-select-font.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-sort-ascending.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-sort-descending.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-spell-check.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-stop.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-strikethrough.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-undelete.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-underline.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-undo.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-yes.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-zoom-100.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-zoom-fit.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-zoom-in.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/gtk-zoom-out.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/iconrc
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/iconrc~
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/media-backward.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/media-forward.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/mouse-dblclck-maybe.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/mouse-dblclck-off.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/mouse-dblclck-on.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/null_button.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/panel-accessories.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/panel-amusements.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/panel-drawer.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/panel-internet.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/panel-launcher.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/panel-lockscreen.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/panel-logout.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/panel-multimedia.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/panel-run.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/panel-screenshot.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/panel-searchtool.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/panel-utility.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/printer-broken.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/printer-default.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/printer-inkjet.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/printer-personal-laser.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/printer-workgroup-laser.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/v1.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/v1.tif
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/v2.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/v2.tif
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/v3.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/v3.tif
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/v4.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/v4.tif
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/volume-max.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/volume-med.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/volume-min.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/volume-mute.png
+/usr/share/themes/Milk 2.0/gtk-2.0/icons/volume-zero.png
+/usr/share/themes/Milk 2.0/gtk-2.0/list_header.png
+/usr/share/themes/Milk 2.0/gtk-2.0/list_header_pre.png
+/usr/share/themes/Milk 2.0/gtk-2.0/menu_back_1024.png
+/usr/share/themes/Milk 2.0/gtk-2.0/menu_background.png
+/usr/share/themes/Milk 2.0/gtk-2.0/menu_background_overlay.png
+/usr/share/themes/Milk 2.0/gtk-2.0/menu_border.png
+/usr/share/themes/Milk 2.0/gtk-2.0/menu_hi-light.png
+/usr/share/themes/Milk 2.0/gtk-2.0/menubar_option.png
+/usr/share/themes/Milk 2.0/gtk-2.0/menubar_option_arrow.png
+/usr/share/themes/Milk 2.0/gtk-2.0/menubar_option_arrow_insensitive.png
+/usr/share/themes/Milk 2.0/gtk-2.0/menubg.png
+/usr/share/themes/Milk 2.0/gtk-2.0/new_tab_top_active.png
+/usr/share/themes/Milk 2.0/gtk-2.0/new_tab_top_inactive.png
+/usr/share/themes/Milk 2.0/gtk-2.0/notebook-well.png
+/usr/share/themes/Milk 2.0/gtk-2.0/notebook_border.png
+/usr/share/themes/Milk 2.0/gtk-2.0/null.png
+/usr/share/themes/Milk 2.0/gtk-2.0/option_in.png
+/usr/share/themes/Milk 2.0/gtk-2.0/option_in_insens.png
+/usr/share/themes/Milk 2.0/gtk-2.0/option_in_push.png
+/usr/share/themes/Milk 2.0/gtk-2.0/option_out.png
+/usr/share/themes/Milk 2.0/gtk-2.0/option_out_insens.png
+/usr/share/themes/Milk 2.0/gtk-2.0/option_out_push.png
+/usr/share/themes/Milk 2.0/gtk-2.0/out_sel.png
+/usr/share/themes/Milk 2.0/gtk-2.0/plain_background.png
+/usr/share/themes/Milk 2.0/gtk-2.0/progressbar.png
+/usr/share/themes/Milk 2.0/gtk-2.0/scrollbar_horizontal.png
+/usr/share/themes/Milk 2.0/gtk-2.0/scrollbar_horizontal_insens.png
+/usr/share/themes/Milk 2.0/gtk-2.0/scrollbar_vertical.png
+/usr/share/themes/Milk 2.0/gtk-2.0/scrollbar_vertical_insens.png
+/usr/share/themes/Milk 2.0/gtk-2.0/shadow_etched_in.png
+/usr/share/themes/Milk 2.0/gtk-2.0/shadow_etched_out.png
+/usr/share/themes/Milk 2.0/gtk-2.0/shadow_in.png
+/usr/share/themes/Milk 2.0/gtk-2.0/shadow_out.png
+/usr/share/themes/Milk 2.0/gtk-2.0/slider_button_insens.png
+/usr/share/themes/Milk 2.0/gtk-2.0/slider_button_norm.png
+/usr/share/themes/Milk 2.0/gtk-2.0/slider_button_prelight.png
+/usr/share/themes/Milk 2.0/gtk-2.0/slider_horiz_bg_new.png
+/usr/share/themes/Milk 2.0/gtk-2.0/slider_vert_bg_new.png
+/usr/share/themes/Milk 2.0/gtk-2.0/spin_button_down_arrow.png
+/usr/share/themes/Milk 2.0/gtk-2.0/spin_button_up_arrow.png
+/usr/share/themes/Milk 2.0/gtk-2.0/spin_down.png
+/usr/share/themes/Milk 2.0/gtk-2.0/spin_down_insens.png
+/usr/share/themes/Milk 2.0/gtk-2.0/spin_down_pre.png
+/usr/share/themes/Milk 2.0/gtk-2.0/spin_down_push.png
+/usr/share/themes/Milk 2.0/gtk-2.0/spin_up.png
+/usr/share/themes/Milk 2.0/gtk-2.0/spin_up_insens.png
+/usr/share/themes/Milk 2.0/gtk-2.0/spin_up_pre.png
+/usr/share/themes/Milk 2.0/gtk-2.0/spin_up_push.png
+/usr/share/themes/Milk 2.0/gtk-2.0/text.png
+/usr/share/themes/Milk 2.0/gtk-2.0/text_entry.png
+/usr/share/themes/Milk 2.0/gtk-2.0/tooltip.png
+/usr/share/themes/Milk 2.0/gtk-2.0/transparent.png
+/usr/share/themes/Milk 2.0/gtk-2.0/trough.png
+/usr/share/themes/Milk 2.0/gtk-2.0/vertical_handle.png
+/usr/share/themes/Milk 2.0/gtk-2.0/vertical_paned_handle.png
+/usr/share/themes/Milk 2.0/gtk-2.0/vertical_trough.png
+/usr/share/themes/Milk 2.0/gtk-2.0/vertical_trough_insens.png
+/usr/share/themes/Milk 2.0/gtk-2.0/vline.png
+/usr/share/themes/Milk 2.0/gtk-2.0/vscroll_down.png
+/usr/share/themes/Milk 2.0/gtk-2.0/vscroll_up.png
+/usr/share/themes/Milk 2.0/index.theme
+/usr/share/themes/Milk 2.0/metacity-1
+/usr/share/themes/Milk 2.0/metacity-1/button-close-focus.png
+/usr/share/themes/Milk 2.0/metacity-1/button-close-push.png
+/usr/share/themes/Milk 2.0/metacity-1/button-close.png
+/usr/share/themes/Milk 2.0/metacity-1/button-inactive.png
+/usr/share/themes/Milk 2.0/metacity-1/button-max-focus.png
+/usr/share/themes/Milk 2.0/metacity-1/button-max-push.png
+/usr/share/themes/Milk 2.0/metacity-1/button-max.png
+/usr/share/themes/Milk 2.0/metacity-1/button-min-focus.png
+/usr/share/themes/Milk 2.0/metacity-1/button-min-push.png
+/usr/share/themes/Milk 2.0/metacity-1/button-min.png
+/usr/share/themes/Milk 2.0/metacity-1/close-button-inactive.png
+/usr/share/themes/Milk 2.0/metacity-1/left-side-inactive.png
+/usr/share/themes/Milk 2.0/metacity-1/left-side.png
+/usr/share/themes/Milk 2.0/metacity-1/menu-button-inactive.png
+/usr/share/themes/Milk 2.0/metacity-1/menu-button-push.png
+/usr/share/themes/Milk 2.0/metacity-1/menu-button.png
+/usr/share/themes/Milk 2.0/metacity-1/metacity-theme-1.xml
+/usr/share/themes/Milk 2.0/metacity-1/metacity-theme-1.xml~
+/usr/share/themes/Milk 2.0/metacity-1/right-side-inactive.png
+/usr/share/themes/Milk 2.0/metacity-1/right-side.png
+/usr/share/themes/Milk 2.0/metacity-1/title-bar-inactive.png
+/usr/share/themes/Milk 2.0/metacity-1/title-bar.png
+/usr/share/themes/MurrinaAquaIsh
+/usr/share/themes/MurrinaAquaIsh/gtk-2.0
+/usr/share/themes/MurrinaAquaIsh/gtk-2.0/gtkrc
+/usr/share/themes/MurrinaBlue
+/usr/share/themes/MurrinaBlue/AUTHOR
+/usr/share/themes/MurrinaBlue/COPYING
+/usr/share/themes/MurrinaBlue/gtk-2.0
+/usr/share/themes/MurrinaBlue/gtk-2.0/gtkrc
+/usr/share/themes/MurrinaBlue/xfwm4
+/usr/share/themes/MurrinaBlue/xfwm4/README
+/usr/share/themes/MurrinaBlue/xfwm4/bottom-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/bottom-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/bottom-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/bottom-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/bottom-left-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/bottom-left-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/bottom-left-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/bottom-left-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/bottom-right-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/bottom-right-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/bottom-right-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/bottom-right-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/close-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/close-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/close-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/close-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/close-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/close-pressed.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/hide-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/hide-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/hide-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/hide-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/hide-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/hide-pressed.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/left-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/left-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/left-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/left-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/maximize-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/maximize-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/maximize-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/maximize-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/maximize-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/maximize-pressed.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/maximize-toggled-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/maximize-toggled-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/maximize-toggled-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/maximize-toggled-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/maximize-toggled-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/maximize-toggled-pressed.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/menu-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/menu-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/menu-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/menu-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/menu-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/menu-pressed.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/png
+/usr/share/themes/MurrinaBlue/xfwm4/png/close-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/close-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/close-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/hide-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/hide-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/hide-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/maximize-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/maximize-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/maximize-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/maximize-toggled-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/maximize-toggled-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/maximize-toggled-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/menu-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/menu-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/menu-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/shade-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/shade-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/shade-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/shade-toggled-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/shade-toggled-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/shade-toggled-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/stick-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/stick-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/stick-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/stick-toggled-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/stick-toggled-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/png/stick-toggled-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/right-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/right-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/right-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/right-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/shade-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/shade-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/shade-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/shade-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/shade-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/shade-pressed.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/shade-toggled-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/shade-toggled-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/shade-toggled-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/shade-toggled-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/shade-toggled-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/shade-toggled-pressed.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/stick-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/stick-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/stick-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/stick-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/stick-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/stick-pressed.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/stick-toggled-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/stick-toggled-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/stick-toggled-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/stick-toggled-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/stick-toggled-pressed.png
+/usr/share/themes/MurrinaBlue/xfwm4/stick-toggled-pressed.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/themerc
+/usr/share/themes/MurrinaBlue/xfwm4/title-1-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/title-1-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/title-1-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/title-1-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/title-2-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/title-2-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/title-2-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/title-2-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/title-3-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/title-3-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/title-3-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/title-3-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/title-4-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/title-4-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/title-4-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/title-4-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/title-5-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/title-5-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/title-5-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/title-5-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/top-left-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/top-left-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/top-left-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/top-left-inactive.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/top-right-active.png
+/usr/share/themes/MurrinaBlue/xfwm4/top-right-active.xpm
+/usr/share/themes/MurrinaBlue/xfwm4/top-right-inactive.png
+/usr/share/themes/MurrinaBlue/xfwm4/top-right-inactive.xpm
+/usr/share/themes/MurrinaCandy
+/usr/share/themes/MurrinaCandy/gtk-2.0
+/usr/share/themes/MurrinaCandy/gtk-2.0/gtkrc
+/usr/share/themes/MurrinaCappuccino
+/usr/share/themes/MurrinaCappuccino/gtk-2.0
+/usr/share/themes/MurrinaCappuccino/gtk-2.0/gtkrc
+/usr/share/themes/MurrinaEalm
+/usr/share/themes/MurrinaEalm/gtk-2.0
+/usr/share/themes/MurrinaEalm/gtk-2.0/gtkrc
+/usr/share/themes/MurrinaElement
+/usr/share/themes/MurrinaElement/gtk-2.0
+/usr/share/themes/MurrinaElement/gtk-2.0/Buttons
+/usr/share/themes/MurrinaElement/gtk-2.0/Buttons/Bitmap_495.bmp
+/usr/share/themes/MurrinaElement/gtk-2.0/Buttons/button-active.png
+/usr/share/themes/MurrinaElement/gtk-2.0/Buttons/button-mouseover.png
+/usr/share/themes/MurrinaElement/gtk-2.0/Buttons/button-pressed.png
+/usr/share/themes/MurrinaElement/gtk-2.0/Buttons/button-unactive.png
+/usr/share/themes/MurrinaElement/gtk-2.0/Buttons/button.png
+/usr/share/themes/MurrinaElement/gtk-2.0/Panel
+/usr/share/themes/MurrinaElement/gtk-2.0/Panel/bg.jpg
+/usr/share/themes/MurrinaElement/gtk-2.0/Panel/bg2.jpg
+/usr/share/themes/MurrinaElement/gtk-2.0/Panel/bg2.png
+/usr/share/themes/MurrinaElement/gtk-2.0/Panel/button-mouseover.png
+/usr/share/themes/MurrinaElement/gtk-2.0/Panel/button-pressed-mouseover.png
+/usr/share/themes/MurrinaElement/gtk-2.0/Panel/button-pressed.png
+/usr/share/themes/MurrinaElement/gtk-2.0/Panel/button.png
+/usr/share/themes/MurrinaElement/gtk-2.0/Panel/panel.png
+/usr/share/themes/MurrinaElement/gtk-2.0/Panel/panel2.png
+/usr/share/themes/MurrinaElement/gtk-2.0/Tabs
+/usr/share/themes/MurrinaElement/gtk-2.0/Tabs/notebook.png
+/usr/share/themes/MurrinaElement/gtk-2.0/button.rc
+/usr/share/themes/MurrinaElement/gtk-2.0/gtkrc
+/usr/share/themes/MurrinaElement/gtk-2.0/panel_custom.rc
+/usr/share/themes/MurrinaFancyCandy
+/usr/share/themes/MurrinaFancyCandy/gtk-2.0
+/usr/share/themes/MurrinaFancyCandy/gtk-2.0/gtkrc
+/usr/share/themes/MurrinaGilouche
+/usr/share/themes/MurrinaGilouche/gtk-2.0
+/usr/share/themes/MurrinaGilouche/gtk-2.0/gtkrc
+/usr/share/themes/MurrinaLoveGray
+/usr/share/themes/MurrinaLoveGray/gtk-2.0
+/usr/share/themes/MurrinaLoveGray/gtk-2.0/gtkrc
+/usr/share/themes/MurrinaNeoGraphite
+/usr/share/themes/MurrinaNeoGraphite/gtk-2.0
+/usr/share/themes/MurrinaNeoGraphite/gtk-2.0/gtkrc
+/usr/share/themes/MurrinaOransun
+/usr/share/themes/MurrinaOransun/gtk-2.0
+/usr/share/themes/MurrinaOransun/gtk-2.0/gtkrc
+/usr/share/themes/MurrinaTango
+/usr/share/themes/MurrinaTango/gtk-2.0
+/usr/share/themes/MurrinaTango/gtk-2.0/gtkrc
+/usr/share/themes/MurrinaVerdeOlivo
+/usr/share/themes/MurrinaVerdeOlivo/gtk-2.0
+/usr/share/themes/MurrinaVerdeOlivo/gtk-2.0/gtkrc
+/usr/share/themes/MurrineRounded
+/usr/share/themes/MurrineRounded/metacity-1
+/usr/share/themes/MurrineRounded/metacity-1/menu-mur.png
+/usr/share/themes/MurrineRounded/metacity-1/menu.png
+/usr/share/themes/MurrineRounded/metacity-1/metacity-theme-1.xml
+/usr/share/themes/MurrineRoundedIcon
+/usr/share/themes/MurrineRoundedIcon/metacity-1
+/usr/share/themes/MurrineRoundedIcon/metacity-1/metacity-theme-1.xml
+/usr/share/themes/MurrineRoundedLessFramed
+/usr/share/themes/MurrineRoundedLessFramed/metacity-1
+/usr/share/themes/MurrineRoundedLessFramed/metacity-1/menu-mur.png
+/usr/share/themes/MurrineRoundedLessFramed/metacity-1/menu.png
+/usr/share/themes/MurrineRoundedLessFramed/metacity-1/metacity-theme-1.xml
+/usr/share/themes/MurrineRoundedLessFramedIcon
+/usr/share/themes/MurrineRoundedLessFramedIcon/metacity-1
+/usr/share/themes/MurrineRoundedLessFramedIcon/metacity-1/menu-mur.png
+/usr/share/themes/MurrineRoundedLessFramedIcon/metacity-1/menu.png
+/usr/share/themes/MurrineRoundedLessFramedIcon/metacity-1/metacity-theme-1.xml

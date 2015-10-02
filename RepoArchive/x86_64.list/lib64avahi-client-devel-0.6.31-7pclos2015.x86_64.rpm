@@ -1,0 +1,6 @@
+/usr/include/avahi-client
+/usr/include/avahi-client/client.h
+/usr/include/avahi-client/lookup.h
+/usr/include/avahi-client/publish.h
+/usr/lib64/libavahi-client.so
+/usr/lib64/pkgconfig/avahi-client.pc

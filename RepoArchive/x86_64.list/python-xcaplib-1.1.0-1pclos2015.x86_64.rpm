@@ -1,0 +1,11 @@
+/usr/bin/xcapclient
+/usr/lib/python2.7/site-packages/python_xcaplib-1.1.0-py2.7.egg-info
+/usr/lib/python2.7/site-packages/xcaplib
+/usr/lib/python2.7/site-packages/xcaplib/__init__.py
+/usr/lib/python2.7/site-packages/xcaplib/client.py
+/usr/lib/python2.7/site-packages/xcaplib/error.py
+/usr/lib/python2.7/site-packages/xcaplib/green.py
+/usr/lib/python2.7/site-packages/xcaplib/httpclient.py
+/usr/lib/python2.7/site-packages/xcaplib/logsocket.py
+/usr/lib/python2.7/site-packages/xcaplib/xcapclient.py
+/usr/lib/python2.7/site-packages/xcaplib/xpath_completion.py

@@ -1,0 +1,13 @@
+/usr/include/marco-1
+/usr/include/marco-1/marco-private
+/usr/include/marco-1/marco-private/boxes.h
+/usr/include/marco-1/marco-private/common.h
+/usr/include/marco-1/marco-private/gradient.h
+/usr/include/marco-1/marco-private/preview-widget.h
+/usr/include/marco-1/marco-private/theme-parser.h
+/usr/include/marco-1/marco-private/theme.h
+/usr/include/marco-1/marco-private/util.h
+/usr/lib64/libmarco-private.so
+/usr/lib64/pkgconfig/libmarco-private.pc
+/usr/share/doc/mate-window-manager-devel
+/usr/share/doc/mate-window-manager-devel/ChangeLog

@@ -1,0 +1,4 @@
+/etc/pulse/client.conf
+/etc/sound/profiles/alsa/profile.conf
+/etc/sound/profiles/pulse
+/etc/sound/profiles/pulse/profile.conf

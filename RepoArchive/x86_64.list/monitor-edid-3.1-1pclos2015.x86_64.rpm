@@ -1,0 +1,9 @@
+/usr/bin/monitor-parse-edid
+/usr/sbin/monitor-edid
+/usr/sbin/monitor-get-edid
+/usr/sbin/monitor-get-edid-using-vbe
+/usr/sbin/monitor-probe
+/usr/sbin/monitor-probe-using-X
+/usr/share/doc/monitor-edid
+/usr/share/doc/monitor-edid/NEWS
+/usr/share/doc/monitor-edid/README

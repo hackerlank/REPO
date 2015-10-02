@@ -1,0 +1,17 @@
+/usr/bin/mp4joiner
+/usr/bin/mp4splitter
+/usr/share/applications/mp4joiner.desktop
+/usr/share/applications/mp4splitter.desktop
+/usr/share/doc/mp4tools
+/usr/share/doc/mp4tools/AUTHORS
+/usr/share/doc/mp4tools/COPYING
+/usr/share/doc/mp4tools/ChangeLog
+/usr/share/doc/mp4tools/INSTALL
+/usr/share/doc/mp4tools/README
+/usr/share/locale/de/LC_MESSAGES/mp4tools.mo
+/usr/share/locale/es/LC_MESSAGES/mp4tools.mo
+/usr/share/locale/pt/LC_MESSAGES/mp4tools.mo
+/usr/share/locale/pt_BR/LC_MESSAGES/mp4tools.mo
+/usr/share/locale/ru/LC_MESSAGES/mp4tools.mo
+/usr/share/pixmaps/mp4joiner.png
+/usr/share/pixmaps/mp4splitter.png

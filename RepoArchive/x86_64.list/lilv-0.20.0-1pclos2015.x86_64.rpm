@@ -1,0 +1,10 @@
+/etc/bash_completion.d/lilv
+/usr/bin/lilv-bench
+/usr/bin/lv2bench
+/usr/bin/lv2info
+/usr/bin/lv2ls
+/usr/share/doc/lilv
+/usr/share/doc/lilv/COPYING
+/usr/share/doc/lilv/README
+/usr/share/man/man1/lv2info.1.bz2
+/usr/share/man/man1/lv2ls.1.bz2

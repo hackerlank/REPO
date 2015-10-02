@@ -1,0 +1,14 @@
+/usr/include/flatzebra-0.1
+/usr/include/flatzebra-0.1/flatzebra
+/usr/include/flatzebra-0.1/flatzebra/Couple.h
+/usr/include/flatzebra-0.1/flatzebra/GameEngine.h
+/usr/include/flatzebra-0.1/flatzebra/Joystick.h
+/usr/include/flatzebra-0.1/flatzebra/KeyState.h
+/usr/include/flatzebra-0.1/flatzebra/PixmapArray.h
+/usr/include/flatzebra-0.1/flatzebra/PixmapLoadError.h
+/usr/include/flatzebra-0.1/flatzebra/RCouple.h
+/usr/include/flatzebra-0.1/flatzebra/RSprite.h
+/usr/include/flatzebra-0.1/flatzebra/SoundMixer.h
+/usr/include/flatzebra-0.1/flatzebra/Sprite.h
+/usr/lib64/libflatzebra-0.1.so
+/usr/lib64/pkgconfig/flatzebra-0.1.pc

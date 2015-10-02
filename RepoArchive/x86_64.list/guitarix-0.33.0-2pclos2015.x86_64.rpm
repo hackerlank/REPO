@@ -1,0 +1,776 @@
+/usr/bin/guitarix
+/usr/lib64/ladspa/guitarix.so
+/usr/lib64/ladspa/guitarix_IR.so
+/usr/lib64/ladspa/guitarix_amp.so
+/usr/lib64/ladspa/guitarix_compressor.so
+/usr/lib64/ladspa/guitarix_crybaby.so
+/usr/lib64/ladspa/guitarix_distortion.so
+/usr/lib64/ladspa/guitarix_echo.so
+/usr/lib64/ladspa/guitarix_freeverb.so
+/usr/lib64/ladspa/ladspa_guitarix.so
+/usr/lib64/libgxw.so.0
+/usr/lib64/libgxw.so.0.1
+/usr/lib64/libgxwmm.so.0
+/usr/lib64/libgxwmm.so.0.1
+/usr/lib64/lv2
+/usr/lib64/lv2/gx_amp.lv2
+/usr/lib64/lv2/gx_amp.lv2/gx_amp.so
+/usr/lib64/lv2/gx_amp.lv2/gx_amp.ttl
+/usr/lib64/lv2/gx_amp.lv2/gx_amp_gui.so
+/usr/lib64/lv2/gx_amp.lv2/manifest.ttl
+/usr/lib64/lv2/gx_amp.lv2/modgui
+/usr/lib64/lv2/gx_amp.lv2/modgui.ttl
+/usr/lib64/lv2/gx_amp.lv2/modgui/icon-gxamplifier-x.html
+/usr/lib64/lv2/gx_amp.lv2/modgui/knobs
+/usr/lib64/lv2/gx_amp.lv2/modgui/knobs/chicken-head
+/usr/lib64/lv2/gx_amp.lv2/modgui/knobs/chicken-head/_strip.png
+/usr/lib64/lv2/gx_amp.lv2/modgui/racks
+/usr/lib64/lv2/gx_amp.lv2/modgui/racks/model-001
+/usr/lib64/lv2/gx_amp.lv2/modgui/racks/model-001/model-001.png
+/usr/lib64/lv2/gx_amp.lv2/modgui/screenshot-gxamplifier-x.png
+/usr/lib64/lv2/gx_amp.lv2/modgui/stylesheet-gxamplifier-x.css
+/usr/lib64/lv2/gx_amp.lv2/modgui/switches
+/usr/lib64/lv2/gx_amp.lv2/modgui/switches/switch-001.png
+/usr/lib64/lv2/gx_amp.lv2/modgui/thumbnail-gxamplifier-x.png
+/usr/lib64/lv2/gx_amp.lv2/modgui/utils
+/usr/lib64/lv2/gx_amp.lv2/modgui/utils/dropdown-arrow-white.png
+/usr/lib64/lv2/gx_amp_stereo.lv2
+/usr/lib64/lv2/gx_amp_stereo.lv2/gx_amp_stereo.so
+/usr/lib64/lv2/gx_amp_stereo.lv2/gx_amp_stereo.ttl
+/usr/lib64/lv2/gx_amp_stereo.lv2/gx_amp_stereo_gui.so
+/usr/lib64/lv2/gx_amp_stereo.lv2/manifest.ttl
+/usr/lib64/lv2/gx_amp_stereo.lv2/modgui
+/usr/lib64/lv2/gx_amp_stereo.lv2/modgui/gx_amp_stereo.html
+/usr/lib64/lv2/gx_amp_stereo.lv2/modgui/gx_amp_stereo.json
+/usr/lib64/lv2/gx_barkgraphiceq.lv2
+/usr/lib64/lv2/gx_barkgraphiceq.lv2/gx_barkgraphiceq.so
+/usr/lib64/lv2/gx_barkgraphiceq.lv2/gx_barkgraphiceq.ttl
+/usr/lib64/lv2/gx_barkgraphiceq.lv2/gx_barkgraphiceq_gui.so
+/usr/lib64/lv2/gx_barkgraphiceq.lv2/manifest.ttl
+/usr/lib64/lv2/gx_cabinet.lv2
+/usr/lib64/lv2/gx_cabinet.lv2/gx_cabinet.so
+/usr/lib64/lv2/gx_cabinet.lv2/gx_cabinet.ttl
+/usr/lib64/lv2/gx_cabinet.lv2/gx_cabinet_gui.so
+/usr/lib64/lv2/gx_cabinet.lv2/manifest.ttl
+/usr/lib64/lv2/gx_chorus.lv2
+/usr/lib64/lv2/gx_chorus.lv2/gx_chorus.so
+/usr/lib64/lv2/gx_chorus.lv2/gx_chorus.ttl
+/usr/lib64/lv2/gx_chorus.lv2/gx_chorus_gui.so
+/usr/lib64/lv2/gx_chorus.lv2/manifest.ttl
+/usr/lib64/lv2/gx_chorus.lv2/modgui
+/usr/lib64/lv2/gx_chorus.lv2/modgui/gx_chorus.html
+/usr/lib64/lv2/gx_chorus.lv2/modgui/gx_chorus.json
+/usr/lib64/lv2/gx_compressor.lv2
+/usr/lib64/lv2/gx_compressor.lv2/gx_compressor.so
+/usr/lib64/lv2/gx_compressor.lv2/gx_compressor.ttl
+/usr/lib64/lv2/gx_compressor.lv2/gx_compressor_gui.so
+/usr/lib64/lv2/gx_compressor.lv2/manifest.ttl
+/usr/lib64/lv2/gx_compressor.lv2/modgui
+/usr/lib64/lv2/gx_compressor.lv2/modgui/gx_compressor.html
+/usr/lib64/lv2/gx_compressor.lv2/modgui/gx_compressor.json
+/usr/lib64/lv2/gx_cstb.lv2
+/usr/lib64/lv2/gx_cstb.lv2/gx_cstb.so
+/usr/lib64/lv2/gx_cstb.lv2/gx_cstb.ttl
+/usr/lib64/lv2/gx_cstb.lv2/gx_cstb_gui.so
+/usr/lib64/lv2/gx_cstb.lv2/manifest.ttl
+/usr/lib64/lv2/gx_delay.lv2
+/usr/lib64/lv2/gx_delay.lv2/gx_delay.so
+/usr/lib64/lv2/gx_delay.lv2/gx_delay.ttl
+/usr/lib64/lv2/gx_delay.lv2/gx_delay_gui.so
+/usr/lib64/lv2/gx_delay.lv2/manifest.ttl
+/usr/lib64/lv2/gx_delay.lv2/modgui
+/usr/lib64/lv2/gx_delay.lv2/modgui/gx_delay.html
+/usr/lib64/lv2/gx_delay.lv2/modgui/gx_delay.json
+/usr/lib64/lv2/gx_detune.lv2
+/usr/lib64/lv2/gx_detune.lv2/gx_detune.so
+/usr/lib64/lv2/gx_detune.lv2/gx_detune.ttl
+/usr/lib64/lv2/gx_detune.lv2/gx_detune_gui.so
+/usr/lib64/lv2/gx_detune.lv2/manifest.ttl
+/usr/lib64/lv2/gx_digital_delay.lv2
+/usr/lib64/lv2/gx_digital_delay.lv2/gx_digital_delay.so
+/usr/lib64/lv2/gx_digital_delay.lv2/gx_digital_delay.ttl
+/usr/lib64/lv2/gx_digital_delay.lv2/gx_digital_delay_gui.so
+/usr/lib64/lv2/gx_digital_delay.lv2/manifest.ttl
+/usr/lib64/lv2/gx_digital_delay_st.lv2
+/usr/lib64/lv2/gx_digital_delay_st.lv2/gx_digital_delay_st.so
+/usr/lib64/lv2/gx_digital_delay_st.lv2/gx_digital_delay_st.ttl
+/usr/lib64/lv2/gx_digital_delay_st.lv2/gx_digital_delay_st_gui.so
+/usr/lib64/lv2/gx_digital_delay_st.lv2/manifest.ttl
+/usr/lib64/lv2/gx_duck_delay.lv2
+/usr/lib64/lv2/gx_duck_delay.lv2/gx_duck_delay.so
+/usr/lib64/lv2/gx_duck_delay.lv2/gx_duck_delay.ttl
+/usr/lib64/lv2/gx_duck_delay.lv2/gx_duck_delay_gui.so
+/usr/lib64/lv2/gx_duck_delay.lv2/manifest.ttl
+/usr/lib64/lv2/gx_duck_delay.lv2/modgui
+/usr/lib64/lv2/gx_duck_delay.lv2/modgui/gx_duck_delay.html
+/usr/lib64/lv2/gx_duck_delay.lv2/modgui/gx_duck_delay.json
+/usr/lib64/lv2/gx_duck_delay_st.lv2
+/usr/lib64/lv2/gx_duck_delay_st.lv2/gx_duck_delay_st.so
+/usr/lib64/lv2/gx_duck_delay_st.lv2/gx_duck_delay_st.ttl
+/usr/lib64/lv2/gx_duck_delay_st.lv2/gx_duck_delay_st_gui.so
+/usr/lib64/lv2/gx_duck_delay_st.lv2/manifest.ttl
+/usr/lib64/lv2/gx_duck_delay_st.lv2/modgui
+/usr/lib64/lv2/gx_duck_delay_st.lv2/modgui/gx_duck_delay_st.html
+/usr/lib64/lv2/gx_duck_delay_st.lv2/modgui/gx_duck_delay_st.json
+/usr/lib64/lv2/gx_echo.lv2
+/usr/lib64/lv2/gx_echo.lv2/gx_echo.so
+/usr/lib64/lv2/gx_echo.lv2/gx_echo.ttl
+/usr/lib64/lv2/gx_echo.lv2/gx_echo_gui.so
+/usr/lib64/lv2/gx_echo.lv2/manifest.ttl
+/usr/lib64/lv2/gx_echo.lv2/modgui
+/usr/lib64/lv2/gx_echo.lv2/modgui/gx_echo.html
+/usr/lib64/lv2/gx_echo.lv2/modgui/gx_echo.json
+/usr/lib64/lv2/gx_expander.lv2
+/usr/lib64/lv2/gx_expander.lv2/gx_expander.so
+/usr/lib64/lv2/gx_expander.lv2/gx_expander.ttl
+/usr/lib64/lv2/gx_expander.lv2/gx_expander_gui.so
+/usr/lib64/lv2/gx_expander.lv2/manifest.ttl
+/usr/lib64/lv2/gx_expander.lv2/modgui
+/usr/lib64/lv2/gx_expander.lv2/modgui/gx_expander.html
+/usr/lib64/lv2/gx_expander.lv2/modgui/gx_expander.json
+/usr/lib64/lv2/gx_flanger.lv2
+/usr/lib64/lv2/gx_flanger.lv2/gx_flanger.so
+/usr/lib64/lv2/gx_flanger.lv2/gx_flanger.ttl
+/usr/lib64/lv2/gx_flanger.lv2/gx_flanger_gui.so
+/usr/lib64/lv2/gx_flanger.lv2/manifest.ttl
+/usr/lib64/lv2/gx_flanger.lv2/modgui
+/usr/lib64/lv2/gx_flanger.lv2/modgui/gx_flanger.html
+/usr/lib64/lv2/gx_flanger.lv2/modgui/gx_flanger.json
+/usr/lib64/lv2/gx_fumaster.lv2
+/usr/lib64/lv2/gx_fumaster.lv2/gx_fumaster.so
+/usr/lib64/lv2/gx_fumaster.lv2/gx_fumaster.ttl
+/usr/lib64/lv2/gx_fumaster.lv2/gx_fumaster_gui.so
+/usr/lib64/lv2/gx_fumaster.lv2/manifest.ttl
+/usr/lib64/lv2/gx_fuzz.lv2
+/usr/lib64/lv2/gx_fuzz.lv2/gx_fuzz.so
+/usr/lib64/lv2/gx_fuzz.lv2/gx_fuzz.ttl
+/usr/lib64/lv2/gx_fuzz.lv2/gx_fuzz_gui.so
+/usr/lib64/lv2/gx_fuzz.lv2/manifest.ttl
+/usr/lib64/lv2/gx_fuzz.lv2/modgui
+/usr/lib64/lv2/gx_fuzz.lv2/modgui/gx_fuzz.html
+/usr/lib64/lv2/gx_fuzz.lv2/modgui/gx_fuzz.json
+/usr/lib64/lv2/gx_fuzzface.lv2
+/usr/lib64/lv2/gx_fuzzface.lv2/gx_fuzzface.so
+/usr/lib64/lv2/gx_fuzzface.lv2/gx_fuzzface.ttl
+/usr/lib64/lv2/gx_fuzzface.lv2/gx_fuzzface_gui.so
+/usr/lib64/lv2/gx_fuzzface.lv2/manifest.ttl
+/usr/lib64/lv2/gx_fuzzfacefm.lv2
+/usr/lib64/lv2/gx_fuzzfacefm.lv2/gx_fuzzfacefm.so
+/usr/lib64/lv2/gx_fuzzfacefm.lv2/gx_fuzzfacefm.ttl
+/usr/lib64/lv2/gx_fuzzfacefm.lv2/gx_fuzzfacefm_gui.so
+/usr/lib64/lv2/gx_fuzzfacefm.lv2/manifest.ttl
+/usr/lib64/lv2/gx_graphiceq.lv2
+/usr/lib64/lv2/gx_graphiceq.lv2/gx_graphiceq.so
+/usr/lib64/lv2/gx_graphiceq.lv2/gx_graphiceq.ttl
+/usr/lib64/lv2/gx_graphiceq.lv2/gx_graphiceq_gui.so
+/usr/lib64/lv2/gx_graphiceq.lv2/manifest.ttl
+/usr/lib64/lv2/gx_hfb.lv2
+/usr/lib64/lv2/gx_hfb.lv2/gx_hfb.so
+/usr/lib64/lv2/gx_hfb.lv2/gx_hfb.ttl
+/usr/lib64/lv2/gx_hfb.lv2/gx_hfb_gui.so
+/usr/lib64/lv2/gx_hfb.lv2/manifest.ttl
+/usr/lib64/lv2/gx_hornet.lv2
+/usr/lib64/lv2/gx_hornet.lv2/gx_hornet.so
+/usr/lib64/lv2/gx_hornet.lv2/gx_hornet.ttl
+/usr/lib64/lv2/gx_hornet.lv2/gx_hornet_gui.so
+/usr/lib64/lv2/gx_hornet.lv2/manifest.ttl
+/usr/lib64/lv2/gx_jcm800pre.lv2
+/usr/lib64/lv2/gx_jcm800pre.lv2/gx_jcm800pre.so
+/usr/lib64/lv2/gx_jcm800pre.lv2/gx_jcm800pre.ttl
+/usr/lib64/lv2/gx_jcm800pre.lv2/gx_jcm800pre_gui.so
+/usr/lib64/lv2/gx_jcm800pre.lv2/manifest.ttl
+/usr/lib64/lv2/gx_jcm800pre_st.lv2
+/usr/lib64/lv2/gx_jcm800pre_st.lv2/gx_jcm800pre_st.so
+/usr/lib64/lv2/gx_jcm800pre_st.lv2/gx_jcm800pre_st.ttl
+/usr/lib64/lv2/gx_jcm800pre_st.lv2/gx_jcm800pre_st_gui.so
+/usr/lib64/lv2/gx_jcm800pre_st.lv2/manifest.ttl
+/usr/lib64/lv2/gx_livelooper.lv2
+/usr/lib64/lv2/gx_livelooper.lv2/gx_livelooper.so
+/usr/lib64/lv2/gx_livelooper.lv2/gx_livelooper.ttl
+/usr/lib64/lv2/gx_livelooper.lv2/gx_livelooper_gui.so
+/usr/lib64/lv2/gx_livelooper.lv2/manifest.ttl
+/usr/lib64/lv2/gx_mbcompressor.lv2
+/usr/lib64/lv2/gx_mbcompressor.lv2/gx_mbcompressor.so
+/usr/lib64/lv2/gx_mbcompressor.lv2/gx_mbcompressor.ttl
+/usr/lib64/lv2/gx_mbcompressor.lv2/gx_mbcompressor_gui.so
+/usr/lib64/lv2/gx_mbcompressor.lv2/manifest.ttl
+/usr/lib64/lv2/gx_mbdelay.lv2
+/usr/lib64/lv2/gx_mbdelay.lv2/gx_mbdelay.so
+/usr/lib64/lv2/gx_mbdelay.lv2/gx_mbdelay.ttl
+/usr/lib64/lv2/gx_mbdelay.lv2/gx_mbdelay_gui.so
+/usr/lib64/lv2/gx_mbdelay.lv2/manifest.ttl
+/usr/lib64/lv2/gx_mbdistortion.lv2
+/usr/lib64/lv2/gx_mbdistortion.lv2/gx_mbdistortion.so
+/usr/lib64/lv2/gx_mbdistortion.lv2/gx_mbdistortion.ttl
+/usr/lib64/lv2/gx_mbdistortion.lv2/gx_mbdistortion_gui.so
+/usr/lib64/lv2/gx_mbdistortion.lv2/manifest.ttl
+/usr/lib64/lv2/gx_mbecho.lv2
+/usr/lib64/lv2/gx_mbecho.lv2/gx_mbecho.so
+/usr/lib64/lv2/gx_mbecho.lv2/gx_mbecho.ttl
+/usr/lib64/lv2/gx_mbecho.lv2/gx_mbecho_gui.so
+/usr/lib64/lv2/gx_mbecho.lv2/manifest.ttl
+/usr/lib64/lv2/gx_mbreverb.lv2
+/usr/lib64/lv2/gx_mbreverb.lv2/gx_mbreverb.so
+/usr/lib64/lv2/gx_mbreverb.lv2/gx_mbreverb.ttl
+/usr/lib64/lv2/gx_mbreverb.lv2/gx_mbreverb_gui.so
+/usr/lib64/lv2/gx_mbreverb.lv2/manifest.ttl
+/usr/lib64/lv2/gx_muff.lv2
+/usr/lib64/lv2/gx_muff.lv2/gx_muff.so
+/usr/lib64/lv2/gx_muff.lv2/gx_muff.ttl
+/usr/lib64/lv2/gx_muff.lv2/gx_muff_gui.so
+/usr/lib64/lv2/gx_muff.lv2/manifest.ttl
+/usr/lib64/lv2/gx_phaser.lv2
+/usr/lib64/lv2/gx_phaser.lv2/gx_phaser.so
+/usr/lib64/lv2/gx_phaser.lv2/gx_phaser.ttl
+/usr/lib64/lv2/gx_phaser.lv2/gx_phaser_gui.so
+/usr/lib64/lv2/gx_phaser.lv2/manifest.ttl
+/usr/lib64/lv2/gx_phaser.lv2/modgui
+/usr/lib64/lv2/gx_phaser.lv2/modgui/gx_phaser.html
+/usr/lib64/lv2/gx_phaser.lv2/modgui/gx_phaser.json
+/usr/lib64/lv2/gx_redeye.lv2
+/usr/lib64/lv2/gx_redeye.lv2/gx_redeye.so
+/usr/lib64/lv2/gx_redeye.lv2/gx_redeye.ttl
+/usr/lib64/lv2/gx_redeye.lv2/gx_redeye_gui.so
+/usr/lib64/lv2/gx_redeye.lv2/manifest.ttl
+/usr/lib64/lv2/gx_reverb.lv2
+/usr/lib64/lv2/gx_reverb.lv2/gx_reverb.so
+/usr/lib64/lv2/gx_reverb.lv2/gx_reverb.ttl
+/usr/lib64/lv2/gx_reverb.lv2/gx_reverb_gui.so
+/usr/lib64/lv2/gx_reverb.lv2/manifest.ttl
+/usr/lib64/lv2/gx_reverb.lv2/modgui
+/usr/lib64/lv2/gx_reverb.lv2/modgui/gx_reverb.html
+/usr/lib64/lv2/gx_reverb.lv2/modgui/gx_reverb.json
+/usr/lib64/lv2/gx_room_simulator.lv2
+/usr/lib64/lv2/gx_room_simulator.lv2/gx_room_simulator.so
+/usr/lib64/lv2/gx_room_simulator.lv2/gx_room_simulator.ttl
+/usr/lib64/lv2/gx_room_simulator.lv2/gx_room_simulator_gui.so
+/usr/lib64/lv2/gx_room_simulator.lv2/manifest.ttl
+/usr/lib64/lv2/gx_scream.lv2
+/usr/lib64/lv2/gx_scream.lv2/gx_scream.so
+/usr/lib64/lv2/gx_scream.lv2/gx_scream.ttl
+/usr/lib64/lv2/gx_scream.lv2/gx_scream_gui.so
+/usr/lib64/lv2/gx_scream.lv2/manifest.ttl
+/usr/lib64/lv2/gx_shimmizita.lv2
+/usr/lib64/lv2/gx_shimmizita.lv2/gx_shimmizita.so
+/usr/lib64/lv2/gx_shimmizita.lv2/gx_shimmizita.ttl
+/usr/lib64/lv2/gx_shimmizita.lv2/manifest.ttl
+/usr/lib64/lv2/gx_studiopre.lv2
+/usr/lib64/lv2/gx_studiopre.lv2/gx_studiopre.so
+/usr/lib64/lv2/gx_studiopre.lv2/gx_studiopre.ttl
+/usr/lib64/lv2/gx_studiopre.lv2/gx_studiopre_gui.so
+/usr/lib64/lv2/gx_studiopre.lv2/manifest.ttl
+/usr/lib64/lv2/gx_studiopre.lv2/modgui
+/usr/lib64/lv2/gx_studiopre.lv2/modgui/gx_studiopre.html
+/usr/lib64/lv2/gx_studiopre.lv2/modgui/gx_studiopre.json
+/usr/lib64/lv2/gx_studiopre_st.lv2
+/usr/lib64/lv2/gx_studiopre_st.lv2/gx_studiopre_st.so
+/usr/lib64/lv2/gx_studiopre_st.lv2/gx_studiopre_st.ttl
+/usr/lib64/lv2/gx_studiopre_st.lv2/gx_studiopre_st_gui.so
+/usr/lib64/lv2/gx_studiopre_st.lv2/manifest.ttl
+/usr/lib64/lv2/gx_studiopre_st.lv2/modgui
+/usr/lib64/lv2/gx_studiopre_st.lv2/modgui/gx_studiopre_st.html
+/usr/lib64/lv2/gx_studiopre_st.lv2/modgui/gx_studiopre_st.json
+/usr/lib64/lv2/gx_susta.lv2
+/usr/lib64/lv2/gx_susta.lv2/gx_susta.so
+/usr/lib64/lv2/gx_susta.lv2/gx_susta.ttl
+/usr/lib64/lv2/gx_susta.lv2/gx_susta_gui.so
+/usr/lib64/lv2/gx_susta.lv2/manifest.ttl
+/usr/lib64/lv2/gx_switched_tremolo.lv2
+/usr/lib64/lv2/gx_switched_tremolo.lv2/gx_switched_tremolo.so
+/usr/lib64/lv2/gx_switched_tremolo.lv2/gx_switched_tremolo.ttl
+/usr/lib64/lv2/gx_switched_tremolo.lv2/manifest.ttl
+/usr/lib64/lv2/gx_tremolo.lv2
+/usr/lib64/lv2/gx_tremolo.lv2/gx_tremolo.so
+/usr/lib64/lv2/gx_tremolo.lv2/gx_tremolo.ttl
+/usr/lib64/lv2/gx_tremolo.lv2/gx_tremolo_gui.so
+/usr/lib64/lv2/gx_tremolo.lv2/manifest.ttl
+/usr/lib64/lv2/gx_tremolo.lv2/modgui
+/usr/lib64/lv2/gx_tremolo.lv2/modgui/gx_tremolo.html
+/usr/lib64/lv2/gx_tremolo.lv2/modgui/gx_tremolo.json
+/usr/lib64/lv2/gx_vibe.lv2
+/usr/lib64/lv2/gx_vibe.lv2/gx_vibe.so
+/usr/lib64/lv2/gx_vibe.lv2/gx_vibe.ttl
+/usr/lib64/lv2/gx_vibe.lv2/gx_vibe_gui.so
+/usr/lib64/lv2/gx_vibe.lv2/gx_vibe_mono.ttl
+/usr/lib64/lv2/gx_vibe.lv2/manifest.ttl
+/usr/lib64/lv2/gx_zita_rev1.lv2
+/usr/lib64/lv2/gx_zita_rev1.lv2/gx_zita_rev1.so
+/usr/lib64/lv2/gx_zita_rev1.lv2/gx_zita_rev1.ttl
+/usr/lib64/lv2/gx_zita_rev1.lv2/gx_zita_rev1_gui.so
+/usr/lib64/lv2/gx_zita_rev1.lv2/manifest.ttl
+/usr/lib64/lv2/gxautowah.lv2
+/usr/lib64/lv2/gxautowah.lv2/gxautowah.so
+/usr/lib64/lv2/gxautowah.lv2/gxautowah.ttl
+/usr/lib64/lv2/gxautowah.lv2/gxautowah_gui.so
+/usr/lib64/lv2/gxautowah.lv2/manifest.ttl
+/usr/lib64/lv2/gxautowah.lv2/modgui
+/usr/lib64/lv2/gxautowah.lv2/modgui/gxautowah.html
+/usr/lib64/lv2/gxautowah.lv2/modgui/gxautowah.json
+/usr/lib64/lv2/gxbooster.lv2
+/usr/lib64/lv2/gxbooster.lv2/gxbooster.so
+/usr/lib64/lv2/gxbooster.lv2/gxbooster.ttl
+/usr/lib64/lv2/gxbooster.lv2/gxbooster_gui.so
+/usr/lib64/lv2/gxbooster.lv2/manifest.ttl
+/usr/lib64/lv2/gxbooster.lv2/modgui
+/usr/lib64/lv2/gxbooster.lv2/modgui/gxbooster.html
+/usr/lib64/lv2/gxbooster.lv2/modgui/gxbooster.json
+/usr/lib64/lv2/gxechocat.lv2
+/usr/lib64/lv2/gxechocat.lv2/gxechocat.so
+/usr/lib64/lv2/gxechocat.lv2/gxechocat.ttl
+/usr/lib64/lv2/gxechocat.lv2/gxechocat_gui.so
+/usr/lib64/lv2/gxechocat.lv2/manifest.ttl
+/usr/lib64/lv2/gxechocat.lv2/modgui
+/usr/lib64/lv2/gxechocat.lv2/modgui/gxechocat.html
+/usr/lib64/lv2/gxechocat.lv2/modgui/gxechocat.json
+/usr/lib64/lv2/gxmetal_amp.lv2
+/usr/lib64/lv2/gxmetal_amp.lv2/gxmetal_amp.so
+/usr/lib64/lv2/gxmetal_amp.lv2/gxmetal_amp.ttl
+/usr/lib64/lv2/gxmetal_amp.lv2/gxmetal_amp_gui.so
+/usr/lib64/lv2/gxmetal_amp.lv2/manifest.ttl
+/usr/lib64/lv2/gxmetal_amp.lv2/modgui
+/usr/lib64/lv2/gxmetal_amp.lv2/modgui/gxmetal_amp.html
+/usr/lib64/lv2/gxmetal_amp.lv2/modgui/gxmetal_amp.json
+/usr/lib64/lv2/gxmetal_head.lv2
+/usr/lib64/lv2/gxmetal_head.lv2/gxmetal_head.so
+/usr/lib64/lv2/gxmetal_head.lv2/gxmetal_head.ttl
+/usr/lib64/lv2/gxmetal_head.lv2/gxmetal_head_gui.so
+/usr/lib64/lv2/gxmetal_head.lv2/manifest.ttl
+/usr/lib64/lv2/gxmetal_head.lv2/modgui
+/usr/lib64/lv2/gxmetal_head.lv2/modgui/gxmetal_head.html
+/usr/lib64/lv2/gxmetal_head.lv2/modgui/gxmetal_head.json
+/usr/lib64/lv2/gxtilttone.lv2
+/usr/lib64/lv2/gxtilttone.lv2/gxtilttone.so
+/usr/lib64/lv2/gxtilttone.lv2/gxtilttone.ttl
+/usr/lib64/lv2/gxtilttone.lv2/gxtilttone_gui.so
+/usr/lib64/lv2/gxtilttone.lv2/manifest.ttl
+/usr/lib64/lv2/gxtilttone.lv2/modgui
+/usr/lib64/lv2/gxtilttone.lv2/modgui/gxtilttone.html
+/usr/lib64/lv2/gxtilttone.lv2/modgui/gxtilttone.json
+/usr/lib64/lv2/gxts9.lv2
+/usr/lib64/lv2/gxts9.lv2/gxts9.so
+/usr/lib64/lv2/gxts9.lv2/gxts9.ttl
+/usr/lib64/lv2/gxts9.lv2/gxts9_gui.so
+/usr/lib64/lv2/gxts9.lv2/manifest.ttl
+/usr/lib64/lv2/gxts9.lv2/modgui
+/usr/lib64/lv2/gxts9.lv2/modgui/gxts9.html
+/usr/lib64/lv2/gxts9.lv2/modgui/gxts9.json
+/usr/lib64/lv2/gxtubedelay.lv2
+/usr/lib64/lv2/gxtubedelay.lv2/gxtubedelay.so
+/usr/lib64/lv2/gxtubedelay.lv2/gxtubedelay.ttl
+/usr/lib64/lv2/gxtubedelay.lv2/gxtubedelay_gui.so
+/usr/lib64/lv2/gxtubedelay.lv2/manifest.ttl
+/usr/lib64/lv2/gxtubedelay.lv2/modgui
+/usr/lib64/lv2/gxtubedelay.lv2/modgui/gxtubedelay.html
+/usr/lib64/lv2/gxtubedelay.lv2/modgui/gxtubedelay.json
+/usr/lib64/lv2/gxtubetremelo.lv2
+/usr/lib64/lv2/gxtubetremelo.lv2/gxtubetremelo.so
+/usr/lib64/lv2/gxtubetremelo.lv2/gxtubetremelo.ttl
+/usr/lib64/lv2/gxtubetremelo.lv2/gxtubetremelo_gui.so
+/usr/lib64/lv2/gxtubetremelo.lv2/manifest.ttl
+/usr/lib64/lv2/gxtubetremelo.lv2/modgui
+/usr/lib64/lv2/gxtubetremelo.lv2/modgui/gxtubetremelo.html
+/usr/lib64/lv2/gxtubetremelo.lv2/modgui/gxtubetremelo.json
+/usr/lib64/lv2/gxtubevibrato.lv2
+/usr/lib64/lv2/gxtubevibrato.lv2/gxtubevibrato.so
+/usr/lib64/lv2/gxtubevibrato.lv2/gxtubevibrato.ttl
+/usr/lib64/lv2/gxtubevibrato.lv2/gxtubevibrato_gui.so
+/usr/lib64/lv2/gxtubevibrato.lv2/manifest.ttl
+/usr/lib64/lv2/gxtubevibrato.lv2/modgui
+/usr/lib64/lv2/gxtubevibrato.lv2/modgui/gxtubevibrato.html
+/usr/lib64/lv2/gxtubevibrato.lv2/modgui/gxtubevibrato.json
+/usr/lib64/lv2/gxtuner.lv2
+/usr/lib64/lv2/gxtuner.lv2/gxtuner.so
+/usr/lib64/lv2/gxtuner.lv2/gxtuner.ttl
+/usr/lib64/lv2/gxtuner.lv2/gxtuner_gui.so
+/usr/lib64/lv2/gxtuner.lv2/manifest.ttl
+/usr/share/applications/guitarix.desktop
+/usr/share/doc/guitarix
+/usr/share/doc/guitarix/README
+/usr/share/gx_head
+/usr/share/gx_head/builder
+/usr/share/gx_head/builder/accels_rc
+/usr/share/gx_head/builder/amp.tonestack_ui.glade
+/usr/share/gx_head/builder/crybaby_ui.glade
+/usr/share/gx_head/builder/gx_distortion_ui.glade
+/usr/share/gx_head/builder/iredit.glade
+/usr/share/gx_head/builder/iredit_mono.glade
+/usr/share/gx_head/builder/jackstarter.glade
+/usr/share/gx_head/builder/ladspaliste.glade
+/usr/share/gx_head/builder/mainpanel.glade
+/usr/share/gx_head/builder/menudef.xml
+/usr/share/gx_head/builder/midi.glade
+/usr/share/gx_head/builder/pluginpreset_inputwindow.glade
+/usr/share/gx_head/builder/pluginpreset_listwindow.glade
+/usr/share/gx_head/builder/ports.glade
+/usr/share/gx_head/builder/selectinstance.glade
+/usr/share/gx_head/builder/tremolo_ui.glade
+/usr/share/gx_head/factorysettings
+/usr/share/gx_head/factorysettings/HarryVH.gx
+/usr/share/gx_head/factorysettings/Sonnie_Tele.gx
+/usr/share/gx_head/factorysettings/brummer.gx
+/usr/share/gx_head/factorysettings/dirlist.js
+/usr/share/gx_head/factorysettings/flanger_mono_gx
+/usr/share/gx_head/factorysettings/graphiceq
+/usr/share/gx_head/factorysettings/jconv
+/usr/share/gx_head/factorysettings/jconv_mono
+/usr/share/gx_head/factorysettings/mbc
+/usr/share/gx_head/factorysettings/mbcs
+/usr/share/gx_head/factorysettings/univibe
+/usr/share/gx_head/factorysettings/univibe_mono
+/usr/share/gx_head/skins
+/usr/share/gx_head/skins/LV2
+/usr/share/gx_head/skins/LV2/Ampeg-GVT15H.png
+/usr/share/gx_head/skins/LV2/DRIVE.png
+/usr/share/gx_head/skins/LV2/FUZZ.png
+/usr/share/gx_head/skins/LV2/INPUT.png
+/usr/share/gx_head/skins/LV2/VOLUME.png
+/usr/share/gx_head/skins/LV2/ac30-knob-middle.png
+/usr/share/gx_head/skins/LV2/ac30-knob-small.png
+/usr/share/gx_head/skins/LV2/ac30-knob.png
+/usr/share/gx_head/skins/LV2/ac30.png
+/usr/share/gx_head/skins/LV2/amp21.png
+/usr/share/gx_head/skins/LV2/amp22.png
+/usr/share/gx_head/skins/LV2/amp23.png
+/usr/share/gx_head/skins/LV2/amp24.png
+/usr/share/gx_head/skins/LV2/amp25.png
+/usr/share/gx_head/skins/LV2/amp26.png
+/usr/share/gx_head/skins/LV2/amp27.png
+/usr/share/gx_head/skins/LV2/amp28.png
+/usr/share/gx_head/skins/LV2/amp30.png
+/usr/share/gx_head/skins/LV2/amp31.png
+/usr/share/gx_head/skins/LV2/amp32.png
+/usr/share/gx_head/skins/LV2/amp33.png
+/usr/share/gx_head/skins/LV2/amp34.png
+/usr/share/gx_head/skins/LV2/amp35.png
+/usr/share/gx_head/skins/LV2/amp36.png
+/usr/share/gx_head/skins/LV2/amp37.png
+/usr/share/gx_head/skins/LV2/amp800.png
+/usr/share/gx_head/skins/LV2/autowah.png
+/usr/share/gx_head/skins/LV2/bass-label.png
+/usr/share/gx_head/skins/LV2/bigchump-logo.png
+/usr/share/gx_head/skins/LV2/bigchump.png
+/usr/share/gx_head/skins/LV2/black-knob-middle.png
+/usr/share/gx_head/skins/LV2/black-knob-small.png
+/usr/share/gx_head/skins/LV2/black-knob.png
+/usr/share/gx_head/skins/LV2/booster-knob.png
+/usr/share/gx_head/skins/LV2/booster.png
+/usr/share/gx_head/skins/LV2/cabinet-label.png
+/usr/share/gx_head/skins/LV2/champ.png
+/usr/share/gx_head/skins/LV2/chump-feedback-label.png
+/usr/share/gx_head/skins/LV2/chump-gain-label.png
+/usr/share/gx_head/skins/LV2/chump-knob.png
+/usr/share/gx_head/skins/LV2/chump-logo.png
+/usr/share/gx_head/skins/LV2/chump-switch_off.png
+/usr/share/gx_head/skins/LV2/chump-switch_on.png
+/usr/share/gx_head/skins/LV2/chump-tone-label.png
+/usr/share/gx_head/skins/LV2/chump-volume-label.png
+/usr/share/gx_head/skins/LV2/chump.png
+/usr/share/gx_head/skins/LV2/distortion-label.png
+/usr/share/gx_head/skins/LV2/drive-label.png
+/usr/share/gx_head/skins/LV2/echo-switch_off.png
+/usr/share/gx_head/skins/LV2/echo-switch_on.png
+/usr/share/gx_head/skins/LV2/echocat-knob.png
+/usr/share/gx_head/skins/LV2/echocat.png
+/usr/share/gx_head/skins/LV2/fuzzfacejfuller.png
+/usr/share/gx_head/skins/LV2/fuzzfacejh2.png
+/usr/share/gx_head/skins/LV2/ga15.png
+/usr/share/gx_head/skins/LV2/guitarix-logo-blue.png
+/usr/share/gx_head/skins/LV2/guitarix-logo.png
+/usr/share/gx_head/skins/LV2/gx_dark.png
+/usr/share/gx_head/skins/LV2/gx_lv2-0.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-1.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-10.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-11.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-12.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-13.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-14.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-15.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-16.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-17.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-2.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-3.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-4.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-5.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-6.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-7.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-8.rc
+/usr/share/gx_head/skins/LV2/gx_lv2-9.rc
+/usr/share/gx_head/skins/LV2/gx_lv2.rc
+/usr/share/gx_head/skins/LV2/gx_redeye-bigchump.rc
+/usr/share/gx_head/skins/LV2/gx_redeye-chump.rc
+/usr/share/gx_head/skins/LV2/gx_redeye-vibrochump.rc
+/usr/share/gx_head/skins/LV2/gxtilttone-logo.png
+/usr/share/gx_head/skins/LV2/gxtilttone-logo2.png
+/usr/share/gx_head/skins/LV2/gxtilttone.png
+/usr/share/gx_head/skins/LV2/gxtubetremelo.png
+/usr/share/gx_head/skins/LV2/gxtubevibrato.png
+/usr/share/gx_head/skins/LV2/horizontal_pedal_white.png
+/usr/share/gx_head/skins/LV2/knob-middle.png
+/usr/share/gx_head/skins/LV2/knob-small.png
+/usr/share/gx_head/skins/LV2/knob.png
+/usr/share/gx_head/skins/LV2/led_23_red.png
+/usr/share/gx_head/skins/LV2/m3-knob-middle.png
+/usr/share/gx_head/skins/LV2/m3-knob-small.png
+/usr/share/gx_head/skins/LV2/m3-knob.png
+/usr/share/gx_head/skins/LV2/mastergain-label.png
+/usr/share/gx_head/skins/LV2/mc-knob-middle.png
+/usr/share/gx_head/skins/LV2/mc-knob-small.png
+/usr/share/gx_head/skins/LV2/metal-knob-middle.png
+/usr/share/gx_head/skins/LV2/metal-knob-small.png
+/usr/share/gx_head/skins/LV2/metal-knob.png
+/usr/share/gx_head/skins/LV2/metalamp.png
+/usr/share/gx_head/skins/LV2/metalhead.png
+/usr/share/gx_head/skins/LV2/metalic1-knob-middle.png
+/usr/share/gx_head/skins/LV2/metalic1-knob-small.png
+/usr/share/gx_head/skins/LV2/metalic1-knob.png
+/usr/share/gx_head/skins/LV2/mid-label.png
+/usr/share/gx_head/skins/LV2/nk-knob-middle.png
+/usr/share/gx_head/skins/LV2/nk-knob-small.png
+/usr/share/gx_head/skins/LV2/nk-knob.png
+/usr/share/gx_head/skins/LV2/nk1-knob.png
+/usr/share/gx_head/skins/LV2/nm-knob-middle.png
+/usr/share/gx_head/skins/LV2/nm-knob-small.png
+/usr/share/gx_head/skins/LV2/nm-knob.png
+/usr/share/gx_head/skins/LV2/nm1-knob-middle.png
+/usr/share/gx_head/skins/LV2/nm1-knob-small.png
+/usr/share/gx_head/skins/LV2/nm1-knob.png
+/usr/share/gx_head/skins/LV2/nm2-knob-middle.png
+/usr/share/gx_head/skins/LV2/nm2-knob.png
+/usr/share/gx_head/skins/LV2/playhead.png
+/usr/share/gx_head/skins/LV2/preamp-drive-label.png
+/usr/share/gx_head/skins/LV2/preamp-guitarix-label.png
+/usr/share/gx_head/skins/LV2/preamp-input-label.png
+/usr/share/gx_head/skins/LV2/preamp-knob-middle.png
+/usr/share/gx_head/skins/LV2/preamp-knob-small.png
+/usr/share/gx_head/skins/LV2/preamp-knob.png
+/usr/share/gx_head/skins/LV2/preamp-output-label.png
+/usr/share/gx_head/skins/LV2/preamp-presence-label.png
+/usr/share/gx_head/skins/LV2/preamp-redeye-label.png
+/usr/share/gx_head/skins/LV2/preamp-resonance-label.png
+/usr/share/gx_head/skins/LV2/preampmono.png
+/usr/share/gx_head/skins/LV2/preampstereo.png
+/usr/share/gx_head/skins/LV2/pregain-label.png
+/usr/share/gx_head/skins/LV2/presence-label.png
+/usr/share/gx_head/skins/LV2/princeton-knob-middle.png
+/usr/share/gx_head/skins/LV2/princeton-knob-small.png
+/usr/share/gx_head/skins/LV2/princeton-knob.png
+/usr/share/gx_head/skins/LV2/princeton.png
+/usr/share/gx_head/skins/LV2/push-switch-off.png
+/usr/share/gx_head/skins/LV2/push-switch-on.png
+/usr/share/gx_head/skins/LV2/redeye-logo-medium.png
+/usr/share/gx_head/skins/LV2/redeye-logo.png
+/usr/share/gx_head/skins/LV2/redeyefx-knob.png
+/usr/share/gx_head/skins/LV2/redeyefx-logo.png
+/usr/share/gx_head/skins/LV2/screwhead.png
+/usr/share/gx_head/skins/LV2/simplelevelslider.png
+/usr/share/gx_head/skins/LV2/sn-knob-middle.png
+/usr/share/gx_head/skins/LV2/sn-knob.png
+/usr/share/gx_head/skins/LV2/studiopre-guitarix-logo.png
+/usr/share/gx_head/skins/LV2/studiopre-knob.png
+/usr/share/gx_head/skins/LV2/studiopre.png
+/usr/share/gx_head/skins/LV2/studiopre_redeyelogo.png
+/usr/share/gx_head/skins/LV2/sw_off.png
+/usr/share/gx_head/skins/LV2/sw_on.png
+/usr/share/gx_head/skins/LV2/tactile_knob_large_151f.png
+/usr/share/gx_head/skins/LV2/tactile_knob_medium_151f.png
+/usr/share/gx_head/skins/LV2/tactile_knob_small_99f.png
+/usr/share/gx_head/skins/LV2/treble-label.png
+/usr/share/gx_head/skins/LV2/ts9-knob.png
+/usr/share/gx_head/skins/LV2/ts9.png
+/usr/share/gx_head/skins/LV2/tubedelay-knob.png
+/usr/share/gx_head/skins/LV2/tubedelay.png
+/usr/share/gx_head/skins/LV2/tubetremelo-logo.png
+/usr/share/gx_head/skins/LV2/tubevibrato-logo.png
+/usr/share/gx_head/skins/LV2/univibe.png
+/usr/share/gx_head/skins/LV2/vertical_pedal_white.png
+/usr/share/gx_head/skins/LV2/vibrochamp-switch.png
+/usr/share/gx_head/skins/LV2/vibrochump-feedback-label.png
+/usr/share/gx_head/skins/LV2/vibrochump-gain-label.png
+/usr/share/gx_head/skins/LV2/vibrochump-intensity-label.png
+/usr/share/gx_head/skins/LV2/vibrochump-knob.png
+/usr/share/gx_head/skins/LV2/vibrochump-logo.png
+/usr/share/gx_head/skins/LV2/vibrochump-sine-label.png
+/usr/share/gx_head/skins/LV2/vibrochump-speed-label.png
+/usr/share/gx_head/skins/LV2/vibrochump-tone-label.png
+/usr/share/gx_head/skins/LV2/vibrochump-volume-label.png
+/usr/share/gx_head/skins/LV2/vibrochump.png
+/usr/share/gx_head/skins/LV2/wah-pedal.png
+/usr/share/gx_head/skins/LV2/wah.png
+/usr/share/gx_head/skins/black1.png
+/usr/share/gx_head/skins/black2.png
+/usr/share/gx_head/skins/bypass.svg
+/usr/share/gx_head/skins/cairo1.jpg
+/usr/share/gx_head/skins/cairo2.jpg
+/usr/share/gx_head/skins/cairo3.jpg
+/usr/share/gx_head/skins/clear.rc
+/usr/share/gx_head/skins/common.rc
+/usr/share/gx_head/skins/factory.png
+/usr/share/gx_head/skins/flat1.png
+/usr/share/gx_head/skins/flat2.png
+/usr/share/gx_head/skins/flat3.png
+/usr/share/gx_head/skins/flatmenu.png
+/usr/share/gx_head/skins/grass1.png
+/usr/share/gx_head/skins/grass2.png
+/usr/share/gx_head/skins/grass3.png
+/usr/share/gx_head/skins/gx-dezert_18.png
+/usr/share/gx_head/skins/gx12b.png
+/usr/share/gx_head/skins/gx14b.png
+/usr/share/gx_head/skins/gx18.png
+/usr/share/gx_head/skins/gx_black18.png
+/usr/share/gx_head/skins/gx_dark.png
+/usr/share/gx_head/skins/gx_dezert_12b.png
+/usr/share/gx_head/skins/gx_dezert_14b.png
+/usr/share/gx_head/skins/gx_gree18.png
+/usr/share/gx_head/skins/gx_green1.jpg
+/usr/share/gx_head/skins/gx_green18.png
+/usr/share/gx_head/skins/gx_green2.jpg
+/usr/share/gx_head/skins/gx_green3.jpg
+/usr/share/gx_head/skins/gx_head_gx1-alloy.rc
+/usr/share/gx_head/skins/gx_head_gx2-emerald.rc
+/usr/share/gx_head/skins/gx_head_gx3-dezert.rc
+/usr/share/gx_head/skins/gx_head_gx4-black.rc
+/usr/share/gx_head/skins/gx_head_gx5-gree.rc
+/usr/share/gx_head/skins/gx_head_gx6-blue.rc
+/usr/share/gx_head/skins/gx_head_gx7-blues.rc
+/usr/share/gx_head/skins/gx_head_gx8-dark.rc
+/usr/share/gx_head/skins/gx_head_gx9-flat.rc
+/usr/share/gx_head/skins/gx_head_gx9-grass.rc
+/usr/share/gx_head/skins/gx_steal.png
+/usr/share/gx_head/skins/gxhead.png
+/usr/share/gx_head/skins/knob9.png
+/usr/share/gx_head/skins/menu1.jpg
+/usr/share/gx_head/skins/menu1.png
+/usr/share/gx_head/skins/menu_green1.jpg
+/usr/share/gx_head/skins/mittleknob9.png
+/usr/share/gx_head/skins/mute.svg
+/usr/share/gx_head/skins/nk-knob-middle.png
+/usr/share/gx_head/skins/nk-knob-small.png
+/usr/share/gx_head/skins/nk-knob.png
+/usr/share/gx_head/skins/playhead.png
+/usr/share/gx_head/skins/readonly.png
+/usr/share/gx_head/skins/scratch.png
+/usr/share/gx_head/skins/simplelevelslider.png
+/usr/share/gx_head/skins/smallknob9.png
+/usr/share/gx_head/skins/stereo.png
+/usr/share/gx_head/skins/tactile_backlit_switchit_off.png
+/usr/share/gx_head/skins/tactile_backlit_switchit_on.png
+/usr/share/gx_head/skins/tactile_h_wheel_101f.png
+/usr/share/gx_head/skins/tactile_knob_large_151f.png
+/usr/share/gx_head/skins/tactile_knob_medium_151f.png
+/usr/share/gx_head/skins/tactile_knob_small_99f.png
+/usr/share/gx_head/skins/tactile_switchit_off.png
+/usr/share/gx_head/skins/tactile_switchit_on.png
+/usr/share/gx_head/skins/tactile_wheel_101f.png
+/usr/share/gx_head/skins/versiondiff.png
+/usr/share/gx_head/sounds
+/usr/share/gx_head/sounds/amps
+/usr/share/gx_head/sounds/amps/Blackat Leon S7.wav
+/usr/share/gx_head/sounds/amps/Cicognani Imperivm Luxury.wav
+/usr/share/gx_head/sounds/amps/DV Mark Triple 6.wav
+/usr/share/gx_head/sounds/amps/EVH 5150 III.wav
+/usr/share/gx_head/sounds/amps/Engl Retro Tube.wav
+/usr/share/gx_head/sounds/amps/Engl Special Edition.wav
+/usr/share/gx_head/sounds/amps/Fortin Natas.wav
+/usr/share/gx_head/sounds/amps/Kaos Sludge 15.wav
+/usr/share/gx_head/sounds/amps/Krank Krankenstein.wav
+/usr/share/gx_head/sounds/amps/LICENSE
+/usr/share/gx_head/sounds/amps/Laney ironheart.wav
+/usr/share/gx_head/sounds/amps/MakosampCustomHatred.wav
+/usr/share/gx_head/sounds/amps/Marshall JMP 2203  Jose Arredondo mod.wav
+/usr/share/gx_head/sounds/amps/Marshall MG 15.wav
+/usr/share/gx_head/sounds/amps/Mesa Boogie Mark V.wav
+/usr/share/gx_head/sounds/amps/Peavey Vypyr 15.wav
+/usr/share/gx_head/sounds/amps/Randall Satan.wav
+/usr/share/gx_head/sounds/amps/Randall thrasher.wav
+/usr/share/gx_head/sounds/amps/Splawn Nitro.wav
+/usr/share/gx_head/sounds/amps/Splawn Quick Rod.wav
+/usr/share/gx_head/sounds/amps/Taurus Stomphead.wav
+/usr/share/gx_head/sounds/bands
+/usr/share/gx_head/sounds/bands/Arch Enemy Doomsday Machine.wav
+/usr/share/gx_head/sounds/bands/As I lay dying Awakened.wav
+/usr/share/gx_head/sounds/bands/Asking Alexandria Stand up and scream.wav
+/usr/share/gx_head/sounds/bands/Avenged sevenfold Nightmare.wav
+/usr/share/gx_head/sounds/bands/Belphegor Bondage goat zombie.wav
+/usr/share/gx_head/sounds/bands/Black dahlia murder Deflorate.wav
+/usr/share/gx_head/sounds/bands/Black label Society order of the Black.wav
+/usr/share/gx_head/sounds/bands/Bullet for my Valentine Temper Temper.wav
+/usr/share/gx_head/sounds/bands/Cannibal Corpse Vile.wav
+/usr/share/gx_head/sounds/bands/Carnifex Until I feel nothing.wav
+/usr/share/gx_head/sounds/bands/Children of Bodom Are You Dead Yet.wav
+/usr/share/gx_head/sounds/bands/Chimaira Ressurrection.wav
+/usr/share/gx_head/sounds/bands/DAATH The Hinderers.wav
+/usr/share/gx_head/sounds/bands/Dark Tranquility Character.wav
+/usr/share/gx_head/sounds/bands/Decapitated Carnival Is Forever.wav
+/usr/share/gx_head/sounds/bands/Deicide The Stench Of Redemption.wav
+/usr/share/gx_head/sounds/bands/Devildriver The last kind words.wav
+/usr/share/gx_head/sounds/bands/Dimmu Borgir Enthrone Darkness Triumphant.wav
+/usr/share/gx_head/sounds/bands/Disturbed Indestructible.wav
+/usr/share/gx_head/sounds/bands/Divine Heresy bringer of Plagues.wav
+/usr/share/gx_head/sounds/bands/Down NOLA.wav
+/usr/share/gx_head/sounds/bands/Dream Theater Black Clouds & Silver Linings.wav
+/usr/share/gx_head/sounds/bands/Dying Fetus War of Attrition.wav
+/usr/share/gx_head/sounds/bands/Evile FIVE SERPENT'S TEETH.wav
+/usr/share/gx_head/sounds/bands/Exodus Exhibit B The Human Condition .wav
+/usr/share/gx_head/sounds/bands/Exploited beat the Bastards.wav
+/usr/share/gx_head/sounds/bands/Fear Factory Demanufacture.wav
+/usr/share/gx_head/sounds/bands/Firewind Days of Defiance.wav
+/usr/share/gx_head/sounds/bands/Godsmack The Oracle.wav
+/usr/share/gx_head/sounds/bands/Gojira L'Enfant Sauvage.wav
+/usr/share/gx_head/sounds/bands/Hamlet Amnesia.wav
+/usr/share/gx_head/sounds/bands/Helloween better than Raw.wav
+/usr/share/gx_head/sounds/bands/Hexen Being and Nothingness.wav
+/usr/share/gx_head/sounds/bands/Hora Zulu Siempre.wav
+/usr/share/gx_head/sounds/bands/Impending Doom The Serpent Servant.wav
+/usr/share/gx_head/sounds/bands/In Flames Whoracle.wav
+/usr/share/gx_head/sounds/bands/Killswitch Engage As Daylight Dies.wav
+/usr/share/gx_head/sounds/bands/Kreator Violent Revolution.wav
+/usr/share/gx_head/sounds/bands/LICENSE
+/usr/share/gx_head/sounds/bands/Lamb of God Wrath.wav
+/usr/share/gx_head/sounds/bands/Legion of the Damned Descent Into Chaos.wav
+/usr/share/gx_head/sounds/bands/Machine head Through the ashes of empires.wav
+/usr/share/gx_head/sounds/bands/Manowar Battle Hymns MMXI.wav
+/usr/share/gx_head/sounds/bands/Mastodon Curl of the Burl.wav
+/usr/share/gx_head/sounds/bands/Megadeth Youthtanasia.wav
+/usr/share/gx_head/sounds/bands/NEWSTED.wav
+/usr/share/gx_head/sounds/bands/Napalm Death Time Waits For No Slave.wav
+/usr/share/gx_head/sounds/bands/Overkill The Years of Decay.wav
+/usr/share/gx_head/sounds/bands/Pan de Higo.wav
+/usr/share/gx_head/sounds/bands/Pantera Vulgar display of power.wav
+/usr/share/gx_head/sounds/bands/Papa roach Getting away with murder.wav
+/usr/share/gx_head/sounds/bands/Paradise lost Tragic Idol.wav
+/usr/share/gx_head/sounds/bands/Red Fang Murder the Mountains.wav
+/usr/share/gx_head/sounds/bands/Sepultura Arise.wav
+/usr/share/gx_head/sounds/bands/Slayer Christ illusion.wav
+/usr/share/gx_head/sounds/bands/Slypknot Iowa.wav
+/usr/share/gx_head/sounds/bands/Soulfly Enslaved.wav
+/usr/share/gx_head/sounds/bands/Stone Sour House of Gold and Bones.wav
+/usr/share/gx_head/sounds/bands/Stratovarius legions.wav
+/usr/share/gx_head/sounds/bands/Symphony X Iconoclast.wav
+/usr/share/gx_head/sounds/bands/System of a Down Toxicity.wav
+/usr/share/gx_head/sounds/bands/Testament dark Roots of Earth.wav
+/usr/share/gx_head/sounds/bands/Textures Silhouettes.wav
+/usr/share/gx_head/sounds/bands/The Sorrow  Misery Escape.wav
+/usr/share/gx_head/sounds/bands/Trivium In Waves.wav
+/usr/share/gx_head/sounds/bands/Vader Necropolis.wav
+/usr/share/gx_head/sounds/bands/Warcry Revolucion.wav
+/usr/share/gx_head/sounds/bands/Wayne Static Pighammer.wav
+/usr/share/gx_head/sounds/bands/White Chappel Hate Creation.wav
+/usr/share/gx_head/sounds/bands/green day Dookie.wav
+/usr/share/gx_head/sounds/bands/hatebreed The divinity of purpose.wav
+/usr/share/gx_head/sounds/greathall.wav
+/usr/share/ladspa/rdf/guitarix.rdf
+/usr/share/ladspa/rdf/guitarix_amp.rdf
+/usr/share/locale/es/LC_MESSAGES/guitarix.mo
+/usr/share/locale/fr/LC_MESSAGES/guitarix.mo
+/usr/share/locale/it/LC_MESSAGES/guitarix.mo
+/usr/share/pixmaps/gx_bypass.png
+/usr/share/pixmaps/gx_head-midi.png
+/usr/share/pixmaps/gx_head-warn.png
+/usr/share/pixmaps/gx_head.png
+/usr/share/pixmaps/gx_log_grey.png
+/usr/share/pixmaps/gx_log_red.png
+/usr/share/pixmaps/gx_log_yellow.png
+/usr/share/pixmaps/gx_off.png
+/usr/share/pixmaps/gx_on.png
+/usr/share/pixmaps/jackd_off.png
+/usr/share/pixmaps/jackd_on.png

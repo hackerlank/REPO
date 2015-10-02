@@ -1,0 +1,17 @@
+/etc/cron.weekly/makewhatis-de.cron
+/usr/share/doc/man-pages-de
+/usr/share/doc/man-pages-de/CHANGES
+/usr/share/doc/man-pages-de/COPYRIGHT
+/usr/share/doc/man-pages-de/README
+/usr/share/man/de
+/usr/share/man/de/man1
+/usr/share/man/de/man2
+/usr/share/man/de/man3
+/usr/share/man/de/man4
+/usr/share/man/de/man5
+/usr/share/man/de/man6
+/usr/share/man/de/man7
+/usr/share/man/de/man8
+/usr/share/man/de/whatis
+/var/cache/man/de
+/var/cache/man/de/whatis

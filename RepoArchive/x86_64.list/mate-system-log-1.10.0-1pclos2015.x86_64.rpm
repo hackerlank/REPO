@@ -1,0 +1,12 @@
+/etc/pam.d/mate-system-log
+/etc/security/console.apps/mate-system-log
+/usr/bin/mate-system-log
+/usr/sbin/mate-system-log
+/usr/share/applications/mate-system-log.desktop
+/usr/share/doc/mate-system-log
+/usr/share/doc/mate-system-log/COPYING
+/usr/share/glib-2.0/schemas/org.mate.system-log.gschema.xml
+/usr/share/man/man1/mate-system-log.1.bz2
+/usr/share/mate-utils
+/usr/share/mate-utils/logview-filter.ui
+/usr/share/mate-utils/logview-toolbar.xml

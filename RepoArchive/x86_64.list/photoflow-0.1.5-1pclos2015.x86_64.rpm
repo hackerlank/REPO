@@ -1,0 +1,11 @@
+/usr/bin/pfbatch
+/usr/bin/photoflow
+/usr/share/applications/photoflow.desktop
+/usr/share/locale/fr/LC_MESSAGES/photoflow.mo
+/usr/share/photoflow/gmic_def.gmic
+/usr/share/photoflow/help/en/clone_stamp.hlp
+/usr/share/photoflow/help/en/curves.hlp
+/usr/share/photoflow/help/en/curves.hlp~
+/usr/share/photoflow/themes/photoflow-dark.css
+/usr/share/photoflow/themes/photoflow-dark.gtkrc
+/usr/share/photoflow/themes/system.iconset

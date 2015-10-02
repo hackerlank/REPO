@@ -1,0 +1,6 @@
+/usr/include/X11/extensions/XvMClib.h
+/usr/lib64/libXvMC.so
+/usr/lib64/libXvMCW.so
+/usr/lib64/pkgconfig/xvmc.pc
+/usr/share/doc/libXvMC
+/usr/share/doc/libXvMC/XvMC_API.txt

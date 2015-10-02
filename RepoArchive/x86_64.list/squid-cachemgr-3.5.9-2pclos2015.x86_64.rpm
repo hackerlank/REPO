@@ -1,0 +1,3 @@
+/etc/httpd/conf/webapps.d/squid-cachemgr.conf
+/etc/squid/cachemgr.conf
+/var/www/cgi-bin/cachemgr.cgi

@@ -1,0 +1,6 @@
+/lib64/security/pam_userpass.so
+/usr/lib64/libpam_userpass.so.1
+/usr/lib64/libpam_userpass.so.1.0
+/usr/share/doc/lib64pam_userpass1
+/usr/share/doc/lib64pam_userpass1/LICENSE
+/usr/share/doc/lib64pam_userpass1/README

@@ -1,0 +1,17 @@
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/Crypt
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/Crypt/SSLeay
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/Crypt/SSLeay.pm
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/Crypt/SSLeay/CTX.pm
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/Crypt/SSLeay/Conn.pm
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/Crypt/SSLeay/Err.pm
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/Crypt/SSLeay/MainContext.pm
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/Crypt/SSLeay/X509.pm
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/Net
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/Net/SSL.pm
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/auto/Crypt
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/auto/Crypt/SSLeay
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/auto/Crypt/SSLeay/SSLeay.so
+/usr/share/doc/perl-Crypt-SSLeay
+/usr/share/doc/perl-Crypt-SSLeay/README
+/usr/share/man/man3/Crypt::SSLeay.3pm.bz2
+/usr/share/man/man3/Net::SSL.3pm.bz2

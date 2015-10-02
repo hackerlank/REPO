@@ -1,0 +1,163 @@
+/usr/lib64/kodi/addons/pvr.iptvsimple
+/usr/lib64/kodi/addons/pvr.iptvsimple/pvr.iptvsimple.so
+/usr/lib64/kodi/addons/pvr.iptvsimple/pvr.iptvsimple.so.1.11.2
+/usr/lib64/kodi/addons/pvr.iptvsimple/pvr.iptvsimple.so.15.1
+/usr/share/kodi/addons/pvr.iptvsimple
+/usr/share/kodi/addons/pvr.iptvsimple/addon.xml
+/usr/share/kodi/addons/pvr.iptvsimple/changelog.txt
+/usr/share/kodi/addons/pvr.iptvsimple/icon.png
+/usr/share/kodi/addons/pvr.iptvsimple/resources
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Afrikaans
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Afrikaans/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Albanian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Albanian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Amharic
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Amharic/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Arabic
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Arabic/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Armenian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Armenian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Basque
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Basque/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Belarusian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Belarusian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Bosnian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Bosnian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Bulgarian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Bulgarian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Burmese
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Burmese/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Catalan
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Catalan/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Chinese (Simple)
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Chinese (Simple)/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Chinese (Traditional)
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Chinese (Traditional)/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Croatian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Croatian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Czech
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Czech/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Danish
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Danish/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Dutch
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Dutch/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/English
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/English (Australia)
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/English (Australia)/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/English (New Zealand)
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/English (New Zealand)/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/English (US)
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/English (US)/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/English/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Esperanto
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Esperanto/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Estonian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Estonian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Faroese
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Faroese/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Filipino
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Filipino/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Finnish
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Finnish/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/French
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/French (Canada)
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/French (Canada)/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/French/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Galician
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Galician/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Georgian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Georgian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/German
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/German/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Greek
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Greek/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Hebrew
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Hebrew/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Hindi (Devanagiri)
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Hindi (Devanagiri)/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Hungarian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Hungarian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Icelandic
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Icelandic/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Indonesian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Indonesian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Italian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Italian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Japanese
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Japanese/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Korean
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Korean/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Latvian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Latvian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Lithuanian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Lithuanian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Macedonian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Macedonian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Malay
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Malay/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Malayalam
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Malayalam/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Maltese
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Maltese/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Maori
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Maori/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Mongolian (Mongolia)
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Mongolian (Mongolia)/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Norwegian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Norwegian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Ossetic
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Ossetic/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Persian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Persian (Iran)
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Persian (Iran)/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Persian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Polish
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Polish/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Portuguese
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Portuguese (Brazil)
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Portuguese (Brazil)/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Portuguese/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Romanian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Romanian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Romansh
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Romansh/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Russian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Russian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Serbian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Serbian (Cyrillic)
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Serbian (Cyrillic)/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Serbian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Sinhala
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Sinhala/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Slovak
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Slovak/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Slovenian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Slovenian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Spanish
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Spanish (Argentina)
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Spanish (Argentina)/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Spanish (Mexico)
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Spanish (Mexico)/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Spanish/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Swedish
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Swedish/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Tajik
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Tajik/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Tamil (India)
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Tamil (India)/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Telugu
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Telugu/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Thai
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Thai/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Turkish
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Turkish/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Ukrainian
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Ukrainian/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Uzbek
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Uzbek/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Vietnamese
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Vietnamese/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Welsh
+/usr/share/kodi/addons/pvr.iptvsimple/resources/language/Welsh/strings.po
+/usr/share/kodi/addons/pvr.iptvsimple/resources/settings.xml

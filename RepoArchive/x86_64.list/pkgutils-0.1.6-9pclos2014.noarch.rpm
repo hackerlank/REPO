@@ -1,0 +1,9 @@
+/usr/bin/addpkg
+/usr/bin/gbd
+/usr/bin/gcr
+/usr/bin/mkrepo
+/usr/bin/rmvpkg
+/usr/share/mime/packages/pkgutils.xml
+/usr/share/mimelnk/application/x-remove.desktop
+/usr/share/mimelnk/application/x-spec.desktop
+/usr/share/mimelnk/application/x-src-rpm.desktop

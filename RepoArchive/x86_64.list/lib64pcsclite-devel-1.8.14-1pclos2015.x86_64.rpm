@@ -1,0 +1,12 @@
+/usr/include/PCSC
+/usr/include/PCSC/debuglog.h
+/usr/include/PCSC/ifdhandler.h
+/usr/include/PCSC/pcsclite.h
+/usr/include/PCSC/reader.h
+/usr/include/PCSC/winscard.h
+/usr/include/PCSC/wintypes.h
+/usr/lib64/libpcsclite.so
+/usr/lib64/libpcscspy.so
+/usr/lib64/pkgconfig/libpcsclite.pc
+/usr/share/doc/lib64pcsclite-devel
+/usr/share/doc/lib64pcsclite-devel/ChangeLog

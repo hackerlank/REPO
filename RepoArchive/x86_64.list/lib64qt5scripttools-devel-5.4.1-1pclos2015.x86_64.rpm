@@ -1,0 +1,14 @@
+/usr/lib64/cmake/Qt5ScriptTools
+/usr/lib64/cmake/Qt5ScriptTools/Qt5ScriptToolsConfig.cmake
+/usr/lib64/cmake/Qt5ScriptTools/Qt5ScriptToolsConfigVersion.cmake
+/usr/lib64/libQt5ScriptTools.prl
+/usr/lib64/libQt5ScriptTools.so
+/usr/lib64/pkgconfig/Qt5ScriptTools.pc
+/usr/lib64/qt5/include/QtScriptTools
+/usr/lib64/qt5/include/QtScriptTools/QScriptEngineDebugger
+/usr/lib64/qt5/include/QtScriptTools/QtScriptTools
+/usr/lib64/qt5/include/QtScriptTools/QtScriptToolsDepends
+/usr/lib64/qt5/include/QtScriptTools/QtScriptToolsVersion
+/usr/lib64/qt5/include/QtScriptTools/qscriptenginedebugger.h
+/usr/lib64/qt5/include/QtScriptTools/qtscripttoolsversion.h
+/usr/lib64/qt5/mkspecs/modules/qt_lib_scripttools.pri

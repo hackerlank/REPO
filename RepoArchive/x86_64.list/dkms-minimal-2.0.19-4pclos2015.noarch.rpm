@@ -1,0 +1,14 @@
+/etc/bash_completion.d/dkms
+/etc/depmod.d/dkms.conf
+/etc/dkms
+/etc/dkms/framework.conf
+/etc/dkms/template-dkms-mkrpm.spec
+/etc/kernel/postinst.d/dkms
+/etc/kernel/prerm.d/dkms
+/usr/sbin/dkms
+/usr/sbin/dkms_autoload
+/usr/sbin/dkms_mkkerneldoth
+/usr/share/man/man8/dkms.8.bz2
+/var/lib/dkms
+/var/lib/dkms-binary
+/var/lib/dkms/dkms_dbversion

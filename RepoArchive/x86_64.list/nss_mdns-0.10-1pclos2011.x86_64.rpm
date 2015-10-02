@@ -1,0 +1,11 @@
+/etc/mdns.allow
+/lib64/libnss_mdns.so.2
+/lib64/libnss_mdns4.so.2
+/lib64/libnss_mdns4_minimal.so.2
+/lib64/libnss_mdns6.so.2
+/lib64/libnss_mdns6_minimal.so.2
+/lib64/libnss_mdns_minimal.so.2
+/usr/share/doc/nss_mdns
+/usr/share/doc/nss_mdns/README
+/usr/share/doc/nss_mdns/README.html
+/usr/share/doc/nss_mdns/style.css

@@ -1,0 +1,4 @@
+/usr/include/avahi-compat-libdns_sd
+/usr/include/avahi-compat-libdns_sd/dns_sd.h
+/usr/lib64/libdns_sd.so
+/usr/lib64/pkgconfig/avahi-compat-libdns_sd.pc

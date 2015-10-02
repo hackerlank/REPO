@@ -1,0 +1,15 @@
+/usr/include/ATI
+/usr/include/ATI/GL
+/usr/include/ATI/GL/glx.h
+/usr/include/ATI/GL/glxext.h
+/usr/include/GL
+/usr/include/GL/glATI.h
+/usr/include/GL/glxATI.h
+/usr/lib/fglrx-current/libGL.so
+/usr/lib/fglrx-current/libatiuki.so
+/usr/lib64/fglrx-current/libAMDXvBA.so
+/usr/lib64/fglrx-current/libGL.so
+/usr/lib64/fglrx-current/libXvBAW.so
+/usr/lib64/fglrx-current/libatiuki.so
+/usr/lib64/fglrx-current/libfglrx_dm.a
+/usr/lib64/fglrx-current/libfglrx_dm.so

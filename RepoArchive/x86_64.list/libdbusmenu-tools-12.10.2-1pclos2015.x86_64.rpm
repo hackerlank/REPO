@@ -1,0 +1,8 @@
+/usr/lib64/dbusmenu-bench
+/usr/lib64/dbusmenu-dumper
+/usr/lib64/dbusmenu-testapp
+/usr/share/doc/libdbusmenu
+/usr/share/doc/libdbusmenu/README.dbusmenu-bench
+/usr/share/doc/libdbusmenu/examples
+/usr/share/doc/libdbusmenu/examples/glib-server-nomenu.c
+/usr/share/libdbusmenu/json/test-gtk-label.json

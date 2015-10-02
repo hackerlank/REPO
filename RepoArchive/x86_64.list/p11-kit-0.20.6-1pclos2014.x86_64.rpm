@@ -1,0 +1,15 @@
+/etc/pkcs11
+/etc/pkcs11/modules
+/etc/pkcs11/pkcs11.conf
+/usr/bin/p11-kit
+/usr/bin/trust
+/usr/lib64/libp11-kit.so.0
+/usr/lib64/libp11-kit.so.0.0.0
+/usr/lib64/p11-kit/trust-extract-compat
+/usr/lib64/pkcs11/p11-kit-trust.so
+/usr/share/doc/p11-kit
+/usr/share/doc/p11-kit/AUTHORS
+/usr/share/doc/p11-kit/COPYING
+/usr/share/doc/p11-kit/NEWS
+/usr/share/doc/p11-kit/README
+/usr/share/p11-kit/modules/p11-kit-trust.module

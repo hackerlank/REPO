@@ -1,0 +1,9 @@
+/lib/libmemusage.so
+/lib/libpcprofile.so
+/lib64/libmemusage.so
+/lib64/libpcprofile.so
+/usr/bin/memusage
+/usr/bin/memusagestat
+/usr/bin/mtrace
+/usr/bin/pcprofiledump
+/usr/bin/xtrace

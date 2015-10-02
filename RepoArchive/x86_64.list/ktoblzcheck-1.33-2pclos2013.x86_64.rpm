@@ -1,0 +1,12 @@
+/usr/bin/ktoblzcheck
+/usr/share/doc/ktoblzcheck
+/usr/share/doc/ktoblzcheck/COPYING
+/usr/share/doc/ktoblzcheck/ChangeLog
+/usr/share/doc/ktoblzcheck/README
+/usr/share/ktoblzcheck/bankdata.txt
+/usr/share/ktoblzcheck/bankdata_20110307.txt
+/usr/share/ktoblzcheck/bankdata_20110606.txt
+/usr/share/ktoblzcheck/bundesbank.pl
+/usr/share/ktoblzcheck/ibandata.txt
+/usr/share/ktoblzcheck/online_update.pl
+/usr/share/man/man1/ktoblzcheck.1.bz2

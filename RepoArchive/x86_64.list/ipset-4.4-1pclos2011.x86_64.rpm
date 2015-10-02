@@ -1,0 +1,16 @@
+/usr/lib64/ipset/libipset_iphash.so
+/usr/lib64/ipset/libipset_ipmap.so
+/usr/lib64/ipset/libipset_ipporthash.so
+/usr/lib64/ipset/libipset_ipportiphash.so
+/usr/lib64/ipset/libipset_ipportnethash.so
+/usr/lib64/ipset/libipset_iptree.so
+/usr/lib64/ipset/libipset_iptreemap.so
+/usr/lib64/ipset/libipset_macipmap.so
+/usr/lib64/ipset/libipset_nethash.so
+/usr/lib64/ipset/libipset_portmap.so
+/usr/lib64/ipset/libipset_setlist.so
+/usr/sbin/ipset
+/usr/share/doc/ipset
+/usr/share/doc/ipset/ChangeLog
+/usr/share/doc/ipset/ChangeLog.ippool
+/usr/share/man/man8/ipset.8.bz2

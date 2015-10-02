@@ -1,0 +1,4 @@
+/etc/nscd.conf
+/etc/rc.d/init.d/nscd
+/usr/sbin/nscd
+/var/db/nscd

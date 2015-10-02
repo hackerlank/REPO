@@ -1,0 +1,17 @@
+/etc/profile.d/90ssh-client.sh
+/etc/ssh/ssh_config
+/usr/bin/scp
+/usr/bin/sftp
+/usr/bin/slogin
+/usr/bin/ssh
+/usr/bin/ssh-add
+/usr/bin/ssh-agent
+/usr/bin/ssh-copy-id
+/usr/share/man/man1/scp.1.bz2
+/usr/share/man/man1/sftp.1.bz2
+/usr/share/man/man1/slogin.1.bz2
+/usr/share/man/man1/ssh-add.1.bz2
+/usr/share/man/man1/ssh-agent.1.bz2
+/usr/share/man/man1/ssh-copy-id.1.bz2
+/usr/share/man/man1/ssh.1.bz2
+/usr/share/man/man5/ssh_config.5.bz2

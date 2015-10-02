@@ -1,0 +1,9 @@
+/etc/pango/x86_64
+/etc/pango/x86_64/pango.modules
+/usr/bin/pango-querymodules-64
+/usr/lib64/pango
+/usr/lib64/pango/1.8.0
+/usr/lib64/pango/1.8.0/modules
+/usr/lib64/pango/1.8.0/modules/pango-arabic-lang.so
+/usr/lib64/pango/1.8.0/modules/pango-basic-fc.so
+/usr/lib64/pango/1.8.0/modules/pango-indic-lang.so

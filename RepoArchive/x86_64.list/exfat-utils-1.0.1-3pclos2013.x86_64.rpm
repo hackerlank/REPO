@@ -1,0 +1,10 @@
+/sbin/dumpexfat
+/sbin/exfatfsck
+/sbin/exfatlabel
+/sbin/fsck.exfat
+/sbin/mkexfatfs
+/sbin/mkfs.exfat
+/usr/share/man/man8/dumpexfat.8.bz2
+/usr/share/man/man8/exfatfsck.8.bz2
+/usr/share/man/man8/exfatlabel.8.bz2
+/usr/share/man/man8/mkexfatfs.8.bz2

@@ -1,0 +1,11 @@
+/usr/bin/shasum
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/Digest
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/Digest/SHA.pm
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/auto/Digest
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/auto/Digest/SHA
+/usr/lib/perl5/vendor_perl/5.12.3/x86_64-linux-thread-multi/auto/Digest/SHA/SHA.so
+/usr/share/doc/perl-Digest-SHA
+/usr/share/doc/perl-Digest-SHA/Changes
+/usr/share/doc/perl-Digest-SHA/README
+/usr/share/man/man1/shasum.1.bz2
+/usr/share/man/man3/Digest::SHA.3pm.bz2

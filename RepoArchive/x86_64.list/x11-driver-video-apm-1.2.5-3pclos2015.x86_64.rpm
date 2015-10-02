@@ -1,0 +1,5 @@
+/usr/lib64/xorg/modules/drivers/apm_drv.la
+/usr/lib64/xorg/modules/drivers/apm_drv.so
+/usr/share/doc/x11-driver-video-apm
+/usr/share/doc/x11-driver-video-apm/COPYING
+/usr/share/man/man4/apm.4.bz2

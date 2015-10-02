@@ -1,0 +1,6 @@
+/etc/X11/xinit.d/libcanberra-gtk-module.sh
+/usr/bin/canberra-gtk-play
+/usr/lib64/gnome-settings-daemon-3.0/gtk-modules/canberra-gtk-module.desktop
+/usr/share/gdm/autostart/LoginWindow/libcanberra-ready-sound.desktop
+/usr/share/gnome/autostart/libcanberra-login-sound.desktop
+/usr/share/gnome/shutdown/libcanberra-logout-sound.sh

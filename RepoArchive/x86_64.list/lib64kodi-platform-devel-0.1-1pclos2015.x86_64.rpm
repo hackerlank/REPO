@@ -1,0 +1,4 @@
+/usr/include/kodi/util/XMLUtils.h
+/usr/lib64/kodiplatform/kodiplatform-config.cmake
+/usr/lib64/libkodiplatform.so
+/usr/lib64/pkgconfig/kodiplatform.pc

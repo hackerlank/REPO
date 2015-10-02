@@ -1,0 +1,4 @@
+/usr/lib64/alsa-lib/libasound_module_pcm_dca.so
+/usr/lib64/libdcaenc.so.0
+/usr/lib64/libdcaenc.so.0.0.0
+/usr/share/alsa/alsa.conf.d/dca.conf

@@ -1,0 +1,3 @@
+/usr/lib64/xorg/modules/input/evdev_drv.la
+/usr/lib64/xorg/modules/input/evdev_drv.so
+/usr/share/man/man4/evdev.4.bz2

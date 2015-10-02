@@ -1,0 +1,12 @@
+/usr/lib64/libzuluCrypt-exe.so.1.2.0
+/usr/lib64/libzuluCrypt.so.1.2.0
+/usr/lib64/libzuluCryptPluginManager.so.1.0.0
+/usr/lib64/zuluCrypt/gpg
+/usr/lib64/zuluCrypt/hmac
+/usr/lib64/zuluCrypt/keydialog-qt
+/usr/lib64/zuluCrypt/keykeyfile
+/usr/lib64/zuluCrypt/keyring
+/usr/lib64/zuluCrypt/luks
+/usr/lib64/zuluCrypt/steghide
+/usr/lib64/zuluCrypt/tomb
+/usr/lib64/zuluCrypt/zuluCrypt-testKey

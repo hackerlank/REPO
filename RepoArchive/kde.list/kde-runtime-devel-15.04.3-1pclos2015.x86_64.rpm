@@ -1,0 +1,5 @@
+/usr/include/knotify_export.h
+/usr/include/knotifyconfig.h
+/usr/include/knotifyplugin.h
+/usr/lib64/libkwalletbackend.so
+/usr/lib64/libmolletnetwork.so

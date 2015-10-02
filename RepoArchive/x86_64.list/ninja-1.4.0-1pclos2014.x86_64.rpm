@@ -1,0 +1,10 @@
+/etc/bash_completion.d/ninja-bash-completion
+/usr/bin/ninja
+/usr/share/doc/ninja
+/usr/share/doc/ninja/COPYING
+/usr/share/doc/ninja/README
+/usr/share/doc/ninja/manual.html
+/usr/share/emacs/site-lisp/ninja-mode.el
+/usr/share/vim/vimfiles/ftdetect/ninja.vim
+/usr/share/vim/vimfiles/syntax/ninja.vim
+/usr/share/zsh/site-functions/_ninja

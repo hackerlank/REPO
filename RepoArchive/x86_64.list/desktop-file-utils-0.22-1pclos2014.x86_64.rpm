@@ -1,0 +1,16 @@
+/etc/emacs/site-start.d/desktop-file-utils.el
+/usr/bin/desktop-file-edit
+/usr/bin/desktop-file-install
+/usr/bin/desktop-file-validate
+/usr/bin/update-desktop-database
+/usr/share/doc/desktop-file-utils
+/usr/share/doc/desktop-file-utils/AUTHORS
+/usr/share/doc/desktop-file-utils/ChangeLog
+/usr/share/doc/desktop-file-utils/NEWS
+/usr/share/doc/desktop-file-utils/README
+/usr/share/emacs/site-lisp/desktop-entry-mode.el
+/usr/share/emacs/site-lisp/desktop-entry-mode.elc
+/usr/share/man/man1/desktop-file-edit.1.bz2
+/usr/share/man/man1/desktop-file-install.1.bz2
+/usr/share/man/man1/desktop-file-validate.1.bz2
+/usr/share/man/man1/update-desktop-database.1.bz2

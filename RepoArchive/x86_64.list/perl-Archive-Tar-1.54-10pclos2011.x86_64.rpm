@@ -1,0 +1,12 @@
+/usr/bin/ptar
+/usr/bin/ptardiff
+/usr/lib/perl5/vendor_perl/5.12.3/Archive/Tar
+/usr/lib/perl5/vendor_perl/5.12.3/Archive/Tar.pm
+/usr/lib/perl5/vendor_perl/5.12.3/Archive/Tar/Constant.pm
+/usr/lib/perl5/vendor_perl/5.12.3/Archive/Tar/File.pm
+/usr/share/doc/perl-Archive-Tar
+/usr/share/doc/perl-Archive-Tar/README
+/usr/share/man/man1/ptar.1.bz2
+/usr/share/man/man1/ptardiff.1.bz2
+/usr/share/man/man3/Archive::Tar.3pm.bz2
+/usr/share/man/man3/Archive::Tar::File.3pm.bz2

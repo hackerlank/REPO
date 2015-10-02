@@ -1,0 +1,15 @@
+/usr/lib64/openssl
+/usr/lib64/openssl/1.0.2d
+/usr/lib64/openssl/1.0.2d/engines
+/usr/lib64/openssl/1.0.2d/engines/lib4758cca.so
+/usr/lib64/openssl/1.0.2d/engines/libaep.so
+/usr/lib64/openssl/1.0.2d/engines/libatalla.so
+/usr/lib64/openssl/1.0.2d/engines/libcapi.so
+/usr/lib64/openssl/1.0.2d/engines/libchil.so
+/usr/lib64/openssl/1.0.2d/engines/libcswift.so
+/usr/lib64/openssl/1.0.2d/engines/libgmp.so
+/usr/lib64/openssl/1.0.2d/engines/libgost.so
+/usr/lib64/openssl/1.0.2d/engines/libnuron.so
+/usr/lib64/openssl/1.0.2d/engines/libpadlock.so
+/usr/lib64/openssl/1.0.2d/engines/libsureware.so
+/usr/lib64/openssl/1.0.2d/engines/libubsec.so

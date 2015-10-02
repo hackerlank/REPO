@@ -1,0 +1,4 @@
+/etc/rc.d/init.d/dhcrelay
+/etc/sysconfig/dhcrelay
+/usr/sbin/dhcrelay
+/usr/share/man/man8/dhcrelay.8.bz2

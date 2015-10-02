@@ -1,0 +1,16 @@
+/usr/bin/media-ctl
+/usr/bin/qv4l2
+/usr/share/applications/qv4l2.desktop
+/usr/share/icons/hicolor/16x16/apps/qv4l2.png
+/usr/share/icons/hicolor/24x24/apps/qv4l2.png
+/usr/share/icons/hicolor/32x32/apps/qv4l2.png
+/usr/share/icons/hicolor/64x64/apps/qv4l2.png
+/usr/share/icons/hicolor/scalable/apps/qv4l2.svg
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/dvb-fe-tool.1.bz2
+/usr/share/man/man1/dvb-format-convert.1.bz2
+/usr/share/man/man1/dvbv5-scan.1.bz2
+/usr/share/man/man1/dvbv5-zap.1.bz2
+/usr/share/man/man1/ir-keytable.1.bz2
+/usr/share/man/man1/qv4l2.1.bz2

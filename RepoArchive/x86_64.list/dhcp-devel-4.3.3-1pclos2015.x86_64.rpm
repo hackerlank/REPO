@@ -1,0 +1,16 @@
+/usr/include/dhcpctl
+/usr/include/dhcpctl/dhcpctl.h
+/usr/include/isc-dhcp
+/usr/include/isc-dhcp/dst.h
+/usr/include/omapip
+/usr/include/omapip/alloc.h
+/usr/include/omapip/buffer.h
+/usr/include/omapip/convert.h
+/usr/include/omapip/hash.h
+/usr/include/omapip/isclib.h
+/usr/include/omapip/omapip.h
+/usr/include/omapip/omapip_p.h
+/usr/include/omapip/result.h
+/usr/include/omapip/trace.h
+/usr/share/man/man3/dhcpctl.3.bz2
+/usr/share/man/man3/omapi.3.bz2

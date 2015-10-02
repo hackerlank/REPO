@@ -1,0 +1,17 @@
+/usr/bin/katomic
+/usr/share/applications/kde4/katomic.desktop
+/usr/share/apps/katomic
+/usr/share/apps/katomic/katomicui.rc
+/usr/share/apps/katomic/levels
+/usr/share/apps/katomic/levels/default_levels.dat
+/usr/share/apps/katomic/pics
+/usr/share/apps/katomic/pics/default_theme.svgz
+/usr/share/apps/kconf_update/katomic-levelset-upd.pl
+/usr/share/apps/kconf_update/katomic-levelset.upd
+/usr/share/config/katomic.knsrc
+/usr/share/icons/hicolor/128x128/apps/katomic.png
+/usr/share/icons/hicolor/16x16/apps/katomic.png
+/usr/share/icons/hicolor/22x22/apps/katomic.png
+/usr/share/icons/hicolor/32x32/apps/katomic.png
+/usr/share/icons/hicolor/48x48/apps/katomic.png
+/usr/share/icons/hicolor/64x64/apps/katomic.png

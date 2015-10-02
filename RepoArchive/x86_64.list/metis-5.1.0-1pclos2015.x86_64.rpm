@@ -1,0 +1,14 @@
+/usr/bin/cmpfillin
+/usr/bin/gpmetis
+/usr/bin/graphchk
+/usr/bin/m2gmetis
+/usr/bin/mpmetis
+/usr/bin/ndmetis
+/usr/share/doc/metis
+/usr/share/doc/metis/Changelog
+/usr/share/doc/metis/LICENSE.txt
+/usr/share/doc/metis/manual.pdf
+/usr/share/man/man1/gpmetis.1.bz2
+/usr/share/man/man1/m2gmetis.1.bz2
+/usr/share/man/man1/mpmetis.1.bz2
+/usr/share/man/man1/ndmetis.1.bz2

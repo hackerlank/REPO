@@ -1,0 +1,17 @@
+/usr/bin/omxregister-bellagio
+/usr/lib64/bellagio
+/usr/lib64/bellagio/libomxaudio_effects.so.0
+/usr/lib64/bellagio/libomxaudio_effects.so.0.0.0
+/usr/lib64/bellagio/libomxclocksrc.so.0
+/usr/lib64/bellagio/libomxclocksrc.so.0.0.0
+/usr/lib64/bellagio/libomxvideosched.so.0
+/usr/lib64/bellagio/libomxvideosched.so.0.0.0
+/usr/lib64/libomxil-bellagio.so.0
+/usr/lib64/libomxil-bellagio.so.0.0.0
+/usr/lib64/omxloaders
+/usr/lib64/omxloaders/libomxdynamicloader.so.0
+/usr/lib64/omxloaders/libomxdynamicloader.so.0.0.0
+/usr/share/doc/libomxil-bellagio/ChangeLog
+/usr/share/doc/libomxil-bellagio/README
+/usr/share/doc/libomxil-bellagio/TODO
+/usr/share/man/man1/omxregister-bellagio.1.bz2

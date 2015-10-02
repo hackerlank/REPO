@@ -1,0 +1,14 @@
+/usr/include/kfilemetadata
+/usr/include/kfilemetadata/extractionresult.h
+/usr/include/kfilemetadata/extractorplugin.h
+/usr/include/kfilemetadata/extractorpluginmanager.h
+/usr/include/kfilemetadata/kfilemetadata_export.h
+/usr/include/kfilemetadata/properties.h
+/usr/include/kfilemetadata/propertyinfo.h
+/usr/include/kfilemetadata/typeinfo.h
+/usr/include/kfilemetadata/types.h
+/usr/lib64/cmake/KFileMetaData
+/usr/lib64/cmake/KFileMetaData/KFileMetaDataConfig.cmake
+/usr/lib64/cmake/KFileMetaData/KFileMetaDataTargetsWithPrefix-release.cmake
+/usr/lib64/cmake/KFileMetaData/KFileMetaDataTargetsWithPrefix.cmake
+/usr/lib64/libkfilemetadata.so

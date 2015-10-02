@@ -1,0 +1,4 @@
+/usr/lib64/pulse-6.0/modules/libavahi-wrap.so
+/usr/lib64/pulse-6.0/modules/module-raop-discover.so
+/usr/lib64/pulse-6.0/modules/module-zeroconf-discover.so
+/usr/lib64/pulse-6.0/modules/module-zeroconf-publish.so

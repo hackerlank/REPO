@@ -1,0 +1,17 @@
+/usr/include/avahi-common
+/usr/include/avahi-common/address.h
+/usr/include/avahi-common/alternative.h
+/usr/include/avahi-common/cdecl.h
+/usr/include/avahi-common/defs.h
+/usr/include/avahi-common/domain.h
+/usr/include/avahi-common/error.h
+/usr/include/avahi-common/gccmacro.h
+/usr/include/avahi-common/llist.h
+/usr/include/avahi-common/malloc.h
+/usr/include/avahi-common/rlist.h
+/usr/include/avahi-common/simple-watch.h
+/usr/include/avahi-common/strlst.h
+/usr/include/avahi-common/thread-watch.h
+/usr/include/avahi-common/timeval.h
+/usr/include/avahi-common/watch.h
+/usr/lib64/libavahi-common.so

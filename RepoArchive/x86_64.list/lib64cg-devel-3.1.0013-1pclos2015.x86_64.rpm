@@ -1,0 +1,12 @@
+/usr/bin/cgc
+/usr/bin/cgfxcat
+/usr/bin/cginfo
+/usr/bin/multiarch-x86_64-linux
+/usr/bin/multiarch-x86_64-linux/cgc
+/usr/bin/multiarch-x86_64-linux/cgfxcat
+/usr/bin/multiarch-x86_64-linux/cginfo
+/usr/include/Cg
+/usr/include/Cg/cg.h
+/usr/include/Cg/cgGL.h
+/usr/share/doc/lib64cg-devel
+/usr/share/doc/lib64cg-devel/license.txt

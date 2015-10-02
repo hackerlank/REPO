@@ -1,0 +1,9 @@
+/usr/bin/kopete_latexconvert.sh
+/usr/lib64/kde4/kcm_kopete_latex.so
+/usr/lib64/kde4/kopete_latex.so
+/usr/share/apps/kopete/icons/oxygen/32x32/apps/latex.png
+/usr/share/apps/kopete_latex
+/usr/share/apps/kopete_latex/latexchatui.rc
+/usr/share/config.kcfg/latexconfig.kcfg
+/usr/share/kde4/services/kconfiguredialog/kopete_latex_config.desktop
+/usr/share/kde4/services/kopete_latex.desktop

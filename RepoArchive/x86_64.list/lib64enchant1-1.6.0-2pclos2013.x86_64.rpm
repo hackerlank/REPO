@@ -1,0 +1,8 @@
+/usr/lib64/enchant
+/usr/lib64/enchant/libenchant_aspell.so
+/usr/lib64/enchant/libenchant_hspell.so
+/usr/lib64/enchant/libenchant_ispell.so
+/usr/lib64/enchant/libenchant_myspell.so
+/usr/lib64/enchant/libenchant_voikko.so
+/usr/lib64/libenchant.so.1
+/usr/lib64/libenchant.so.1.6.0

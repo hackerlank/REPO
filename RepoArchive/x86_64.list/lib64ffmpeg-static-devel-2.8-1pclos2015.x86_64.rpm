@@ -1,0 +1,8 @@
+/usr/lib64/libavcodec.a
+/usr/lib64/libavdevice.a
+/usr/lib64/libavfilter.a
+/usr/lib64/libavformat.a
+/usr/lib64/libavutil.a
+/usr/lib64/libpostproc.a
+/usr/lib64/libswresample.a
+/usr/lib64/libswscale.a

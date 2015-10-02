@@ -1,0 +1,7 @@
+/usr/lib64/kde4/libexec/kaccessibleapp
+/usr/lib64/kde4/plugins/accessiblebridge
+/usr/lib64/kde4/plugins/accessiblebridge/kaccessiblebridge.so
+/usr/share/dbus-1/services/org.kde.kaccessible.service
+/usr/share/doc/kde-accessibility-kaccessible
+/usr/share/doc/kde-accessibility-kaccessible/COPYING.LIB
+/usr/share/doc/kde-accessibility-kaccessible/README

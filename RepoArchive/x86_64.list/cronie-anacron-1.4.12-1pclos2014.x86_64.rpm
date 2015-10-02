@@ -1,0 +1,13 @@
+/etc/anacrontab
+/etc/cron.daily/0anacron-timestamp
+/etc/cron.hourly/0anacron
+/etc/cron.monthly/0anacron-timestamp
+/etc/cron.weekly/0anacron-timestamp
+/usr/sbin/anacron
+/usr/share/man/man5/anacrontab.5.bz2
+/usr/share/man/man8/anacron.8.bz2
+/var/lib/spool/anacron
+/var/spool/anacron
+/var/spool/anacron/cron.daily
+/var/spool/anacron/cron.monthly
+/var/spool/anacron/cron.weekly

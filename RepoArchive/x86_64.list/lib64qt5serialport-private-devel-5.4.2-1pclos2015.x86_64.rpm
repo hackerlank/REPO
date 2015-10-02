@@ -1,0 +1,15 @@
+/usr/lib64/qt5/include/QtSerialPort/5.4.2
+/usr/lib64/qt5/include/QtSerialPort/5.4.2/QtSerialPort
+/usr/lib64/qt5/include/QtSerialPort/5.4.2/QtSerialPort/private
+/usr/lib64/qt5/include/QtSerialPort/5.4.2/QtSerialPort/private/qcore_mac_p.h
+/usr/lib64/qt5/include/QtSerialPort/5.4.2/QtSerialPort/private/qcore_unix_p.h
+/usr/lib64/qt5/include/QtSerialPort/5.4.2/QtSerialPort/private/qlockfile_p.h
+/usr/lib64/qt5/include/QtSerialPort/5.4.2/QtSerialPort/private/qringbuffer_p.h
+/usr/lib64/qt5/include/QtSerialPort/5.4.2/QtSerialPort/private/qserialport_p.h
+/usr/lib64/qt5/include/QtSerialPort/5.4.2/QtSerialPort/private/qserialport_symbian_p.h
+/usr/lib64/qt5/include/QtSerialPort/5.4.2/QtSerialPort/private/qserialport_unix_p.h
+/usr/lib64/qt5/include/QtSerialPort/5.4.2/QtSerialPort/private/qserialport_win_p.h
+/usr/lib64/qt5/include/QtSerialPort/5.4.2/QtSerialPort/private/qserialport_wince_p.h
+/usr/lib64/qt5/include/QtSerialPort/5.4.2/QtSerialPort/private/qserialportinfo_p.h
+/usr/lib64/qt5/include/QtSerialPort/5.4.2/QtSerialPort/private/qtudev_p.h
+/usr/lib64/qt5/mkspecs/modules/qt_lib_serialport_private.pri

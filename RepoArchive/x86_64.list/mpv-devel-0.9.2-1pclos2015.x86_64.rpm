@@ -1,0 +1,6 @@
+/usr/include/mpv
+/usr/include/mpv/client.h
+/usr/include/mpv/opengl_cb.h
+/usr/include/mpv/qthelper.hpp
+/usr/lib64/libmpv.so
+/usr/lib64/pkgconfig/mpv.pc

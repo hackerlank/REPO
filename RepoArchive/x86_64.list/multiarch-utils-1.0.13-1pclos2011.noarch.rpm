@@ -1,0 +1,8 @@
+/etc/rpm/macros.d/multiarch.macros
+/usr/bin/multiarch-dispatch
+/usr/bin/multiarch-platform
+/usr/include/multiarch-dispatch.h
+/usr/lib/rpm/check-multiarch-files
+/usr/lib/rpm/mkmultiarch
+/usr/share/doc/multiarch-utils
+/usr/share/doc/multiarch-utils/NEWS

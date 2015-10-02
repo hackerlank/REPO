@@ -1,0 +1,2 @@
+/etc/rc.d/init.d/cpufreq
+/etc/sysconfig/cpufreq

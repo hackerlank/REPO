@@ -1,0 +1,8 @@
+/etc/conky/conky.conf
+/etc/conky/conky_no_x11.conf
+/usr/bin/conky
+/usr/lib64/conky
+/usr/lib64/conky/libcairo.so
+/usr/lib64/conky/libcairo.so.0
+/usr/lib64/conky/libcairo.so.0.0.0
+/usr/share/man/man1/conky.1.bz2

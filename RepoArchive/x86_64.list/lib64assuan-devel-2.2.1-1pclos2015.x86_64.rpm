@@ -1,0 +1,12 @@
+/usr/bin/libassuan-config
+/usr/bin/multiarch-x86_64-linux/libassuan-config
+/usr/include/assuan.h
+/usr/lib64/libassuan.a
+/usr/lib64/libassuan.so
+/usr/share/aclocal/libassuan.m4
+/usr/share/doc/lib64assuan-devel
+/usr/share/doc/lib64assuan-devel/AUTHORS
+/usr/share/doc/lib64assuan-devel/ChangeLog
+/usr/share/doc/lib64assuan-devel/NEWS
+/usr/share/doc/lib64assuan-devel/README
+/usr/share/info/assuan.info.bz2

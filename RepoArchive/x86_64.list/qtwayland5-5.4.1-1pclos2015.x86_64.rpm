@@ -1,0 +1,10 @@
+/usr/lib64/qt5/bin/qtwaylandscanner
+/usr/lib64/qt5/plugins/platforms/libqwayland-egl.so
+/usr/lib64/qt5/plugins/platforms/libqwayland-generic.so
+/usr/lib64/qt5/plugins/wayland-decoration-client
+/usr/lib64/qt5/plugins/wayland-decoration-client/libbradient.so
+/usr/lib64/qt5/plugins/wayland-graphics-integration-client
+/usr/lib64/qt5/plugins/wayland-graphics-integration-client/libdrm-egl-server.so
+/usr/lib64/qt5/plugins/wayland-graphics-integration-client/libwayland-egl.so
+/usr/lib64/qt5/plugins/wayland-graphics-integration-client/libxcomposite-egl.so
+/usr/lib64/qt5/plugins/wayland-graphics-integration-client/libxcomposite-glx.so

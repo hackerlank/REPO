@@ -1,0 +1,6 @@
+/usr/lib64/xorg/modules/drivers/ati_drv.la
+/usr/lib64/xorg/modules/drivers/ati_drv.so
+/usr/lib64/xorg/modules/drivers/radeon_drv.la
+/usr/lib64/xorg/modules/drivers/radeon_drv.so
+/usr/share/man/man4/ati.4.bz2
+/usr/share/man/man4/radeon.4.bz2

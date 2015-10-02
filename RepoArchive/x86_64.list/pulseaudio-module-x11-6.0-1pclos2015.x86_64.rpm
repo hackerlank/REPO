@@ -1,0 +1,10 @@
+/etc/xdg/autostart/pulseaudio-kde.desktop
+/etc/xdg/autostart/pulseaudio.desktop
+/usr/bin/pax11publish
+/usr/bin/start-pulseaudio-kde
+/usr/bin/start-pulseaudio-x11
+/usr/lib64/pulse-6.0/modules/module-x11-bell.so
+/usr/lib64/pulse-6.0/modules/module-x11-cork-request.so
+/usr/lib64/pulse-6.0/modules/module-x11-publish.so
+/usr/lib64/pulse-6.0/modules/module-x11-xsmp.so
+/usr/share/man/man1/pax11publish.1.bz2

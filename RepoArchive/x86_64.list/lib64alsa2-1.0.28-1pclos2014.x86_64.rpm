@@ -1,0 +1,10 @@
+/usr/lib64/alsa-lib
+/usr/lib64/alsa-lib/smixer
+/usr/lib64/alsa-lib/smixer/smixer-ac97.so
+/usr/lib64/alsa-lib/smixer/smixer-hda.so
+/usr/lib64/alsa-lib/smixer/smixer-python.so
+/usr/lib64/alsa-lib/smixer/smixer-sbase.so
+/usr/lib64/libasound.so.2
+/usr/lib64/libasound.so.2.0.0
+/usr/share/doc/lib64alsa2
+/usr/share/doc/lib64alsa2/COPYING

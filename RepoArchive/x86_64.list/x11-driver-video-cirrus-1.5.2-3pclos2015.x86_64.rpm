@@ -1,0 +1,9 @@
+/usr/lib64/xorg/modules/drivers/cirrus_alpine.la
+/usr/lib64/xorg/modules/drivers/cirrus_alpine.so
+/usr/lib64/xorg/modules/drivers/cirrus_drv.la
+/usr/lib64/xorg/modules/drivers/cirrus_drv.so
+/usr/lib64/xorg/modules/drivers/cirrus_laguna.la
+/usr/lib64/xorg/modules/drivers/cirrus_laguna.so
+/usr/share/doc/x11-driver-video-cirrus
+/usr/share/doc/x11-driver-video-cirrus/COPYING
+/usr/share/man/man4/cirrus.4.bz2

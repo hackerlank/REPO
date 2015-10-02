@@ -1,0 +1,5 @@
+/usr/lib64/xorg/modules/drivers/glint_drv.la
+/usr/lib64/xorg/modules/drivers/glint_drv.so
+/usr/share/doc/x11-driver-video-glint
+/usr/share/doc/x11-driver-video-glint/COPYING
+/usr/share/man/man4/glint.4.bz2

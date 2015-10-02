@@ -1,0 +1,7 @@
+/etc/bash_completion.d/youtube-dl
+/etc/fish/completions/youtube-dl.fish
+/usr/bin/youtube-dl
+/usr/share/doc/youtube-dl
+/usr/share/doc/youtube-dl/README.txt
+/usr/share/man/man1/youtube-dl.1.bz2
+/usr/share/zsh/site-functions/_youtube-dl

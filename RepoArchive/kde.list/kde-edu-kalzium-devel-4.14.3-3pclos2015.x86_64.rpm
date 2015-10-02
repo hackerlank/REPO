@@ -1,0 +1,13 @@
+/usr/include/libkdeedu/chemicaldataobject.h
+/usr/include/libkdeedu/element.h
+/usr/include/libkdeedu/elementparser.h
+/usr/include/libkdeedu/isotope.h
+/usr/include/libkdeedu/isotopeparser.h
+/usr/include/libkdeedu/libkdeedu_science_export.h
+/usr/include/libkdeedu/moleculeparser.h
+/usr/include/libkdeedu/parser.h
+/usr/include/libkdeedu/psetables.h
+/usr/include/libkdeedu/spectrum.h
+/usr/include/libkdeedu/spectrumparser.h
+/usr/lib64/libcompoundviewer.so
+/usr/lib64/libscience.so

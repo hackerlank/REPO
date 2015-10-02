@@ -1,0 +1,6 @@
+/usr/lib64/dri/nvidia_drv_video.so
+/usr/lib64/dri/s3g_drv_video.so
+/usr/lib64/dri/vdpau_drv_video.so
+/usr/share/doc/vaapi-driver-vdpau
+/usr/share/doc/vaapi-driver-vdpau/AUTHORS
+/usr/share/doc/vaapi-driver-vdpau/NEWS

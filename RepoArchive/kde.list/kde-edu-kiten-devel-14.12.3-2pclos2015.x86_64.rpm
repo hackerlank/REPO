@@ -1,0 +1,16 @@
+/usr/include/libkiten
+/usr/include/libkiten/DictEdict
+/usr/include/libkiten/DictEdict/dictfileedict.h
+/usr/include/libkiten/DictEdict/entryedict.h
+/usr/include/libkiten/DictKanjidic
+/usr/include/libkiten/DictKanjidic/dictfilekanjidic.h
+/usr/include/libkiten/DictKanjidic/entrykanjidic.h
+/usr/include/libkiten/dictionarymanager.h
+/usr/include/libkiten/dictionarypreferencedialog.h
+/usr/include/libkiten/dictquery.h
+/usr/include/libkiten/entry.h
+/usr/include/libkiten/entrylist.h
+/usr/include/libkiten/historyptrlist.h
+/usr/include/libkiten/kromajiedit.h
+/usr/include/libkiten/libkitenexport.h
+/usr/lib64/libkiten.so
